@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/mumdi2610/dev/ml/wv/test/src/addr/ner_model.tfl"
+all_model_checkpoint_paths: "/Users/mumdi2610/dev/ml/wv/test/src/addr/ner_model.tfl"

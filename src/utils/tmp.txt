@@ -1,0 +1,15490 @@
+
+1006	HN
+n	SD
+1st	SN
+st	SS
+bismarck	CN
+nd	SA
+58501	ZC
+3518	ZA
+
+749	HN
+palm	SN
+view	SN
+dr	SS
+naples	CN
+fl	SA
+33942	ZC
+1207	ZA
+
+7574	HN
+stein	SN
+rd	SS
+zionsville	CN
+pa	SA
+18092	ZC
+2920	ZA
+
+1146	HN
+johnsarbor	SN
+dr	SS
+w	SD
+rochester	CN
+ny	SA
+14620	ZC
+3609	ZA
+
+c/o	CO
+judith	ON
+a	ON
+norback	ON
+6620	HN
+w	SD
+shore	SN
+dr	SS
+edina	CN
+mn	SA
+55435	ZC
+1529	ZA
+
+1816	HN
+elm	SN
+ave	SS
+manhattan	CN
+bch	CN
+ca	SA
+90266	ZC
+5005	ZA
+
+po	PO
+box	BT
+5	BV
+parksley	CN
+va	SA
+23421	ZC
+0005	ZA
+
+c/o	CO
+warr	ON
+endowment	ON
+7260	HN
+s	SD
+stoney	SN
+lake	SN
+rd	SS
+jackson	CN
+mi	SA
+49201	ZC
+7202	ZA
+
+p.o.	PO
+box	BT
+21909	BV
+charleston	CN
+sc	SA
+29413	ZC
+1909	ZA
+
+2555	HN
+7th	SN
+st	SS
+s	SD
+la	CN
+crosse	CN
+wi	SA
+54601	ZC
+1202	ZA
+
+po	PO
+box	BT
+462	BV
+norfolk	CN
+ne	SA
+68702	ZC
+0462	ZA
+
+205	HN
+w	SD
+sandusky	SN
+st.	SS
+findlay	CN
+oh	SA
+45840	ZC
+3233	ZA
+
+c/o	CO
+nancy	ON
+c	ON
+gerosa	ON
+29	HN
+aarons	SN
+ct	SS
+ridgefield	CN
+ct	SA
+06877	ZC
+1118	ZA
+
+2710	HN
+blackshear	SN
+ave	SS
+pensacola	CN
+fl	SA
+32503	ZC
+4903	ZA
+
+156	HN
+jackson	SN
+st	SS
+coldwater	CN
+mi	SA
+49036	ZC
+1818	ZA
+
+7990	HN
+sw	SD
+146th	SN
+st	SS
+miami	CN
+fl	SA
+33158	ZC
+2064	ZA
+
+1119	HN
+loudon	SN
+road	SS
+cohes	CN
+ny	SA
+12047	ZC
+
+5475	HN
+s	SD
+lowell	SN
+blvd	SS
+littleton	CN
+co	SA
+80123	ZC
+2933	ZA
+
+254	HN
+montgomery	SN
+dr	SS
+spartanburg	CN
+sc	SA
+29302	ZC
+3466	ZA
+
+112	HN
+college	SN
+circle	SN
+mount	CN
+olive	CN
+nc	SA
+28365	ZC
+1905	ZA
+
+6735	HN
+s	SD
+gilpin	SN
+cir	SS
+e	CN
+littleton	CN
+co	SA
+80122	ZC
+1330	ZA
+
+101	HN
+e	SD
+4th	SN
+st	SS
+edmond	CN
+ok	SA
+73034	ZC
+3827	ZA
+
+256	HN
+mable	SN
+st	SS
+baytown	CN
+tx	SA
+77520	ZC
+1044	ZA
+
+1131	HN
+delmar	SN
+ave	SS
+franklin	CN
+sq	CN
+ny	SA
+11010	ZC
+2740	ZA
+
+1871	HN
+willowview	SN
+ter	SS
+northfield	CN
+il	SA
+60093	ZC
+2934	ZA
+
+po	PO
+box	BT
+160	BV
+stockbridge	CN
+mi	SA
+49285	ZC
+0160	ZA
+
+c/o	CO
+le	ON
+&	ON
+ja	ON
+hanley	ON
+tr	ON
+308	HN
+se	SD
+street	SN
+moweaqua	CN
+il	SA
+62550	ZC
+
+254	HN
+montgomery	SN
+dr	SS
+spartanburg	CN
+sc	SA
+29302	ZC
+3466	ZA
+
+9424	HN
+kemper	SN
+grove	SN
+lane	SS
+loveland	CN
+oh	SA
+45140	ZC
+8935	ZA
+
+po	PO
+box	BT
+687	BV
+morristown	CN
+tn	SA
+37815	ZC
+0687	ZA
+
+604	HN
+hfgr	SN
+ave	SS
+n	SD
+canby	CN
+mn	SA
+56220	ZC
+
+1319	HN
+cobb	SN
+blvd	SS
+kankakee	CN
+il	SA
+60901	ZC
+5569	ZA
+
+203	HN
+crestwood	SN
+drive	SS
+fredericksbrg	CN
+tx	SA
+78624	ZC
+2803	ZA
+
+rr	RR
+1	RV
+shelby	CN
+ia	SA
+51570	ZC
+
+5945	HN
+colhurst	SN
+st	SS
+dallas	CN
+tx	SA
+75230	ZC
+5021	ZA
+
+8724	HN
+e	SD
+paraiso	SN
+dr	SS
+scottsdale	CN
+az	SA
+85255	ZC
+4222	ZA
+
+115	HN
+e	SD
+lincoln	SN
+st	SS
+greenup	CN
+il	SA
+62428	ZC
+1342	ZA
+
+1203	HN
+south	SD
+military	SN
+ave	SS
+green	CN
+bay	CN
+wi	SA
+54304	ZC
+2120	ZA
+
+233	HN
+e	SD
+nottingham	SN
+place	SN
+san	CN
+antonio	CN
+tx	SA
+78209	ZC
+3326	ZA
+
+1478	HN
+rocking	SN
+w	SD
+dr	SS
+bishop	CN
+ca	SA
+93514	ZC
+1958	ZA
+
+128	HN
+wisteria	SN
+dr	SS
+longwood	CN
+fl	SA
+32779	ZC
+4937	ZA
+
+po	PO
+box	BT
+1548	BV
+the	CN
+dalles	CN
+or	SA
+97058	ZC
+8004	ZA
+
+304	HN
+w	SD
+5th	SN
+st	SS
+williamstown	CN
+wv	CN
+26187	ZC
+1113	ZA
+
+1205	HN
+n	SD
+fairlakes	SN
+ave	SS
+fairmont	CN
+mn	SA
+56031	ZC
+1630	ZA
+
+2560	HN
+salisbury	SN
+road	SS
+rossie	CN
+ia	SA
+51356	ZC
+
+po	PO
+box	BT
+846	BV
+ames	CN
+ia	SA
+50010	ZC
+0846	ZA
+
+369	HN
+brahma	SN
+driv	SS
+murray	CN
+ut	SS
+84107	ZC
+6006	ZA
+
+rr	RR
+234	RV
+wiota	CN
+ia	SA
+50274	ZC
+
+2603	HN
+greenbriar	SN
+dr	SS
+jonesboro	CN
+ar	SA
+72401	ZC
+5939	ZA
+
+604	HN
+hfgr	SN
+ave	SS
+n	SD
+canby	CN
+mn	SA
+56220	ZC
+
+po	PO
+box	BT
+547	BV
+commack	CN
+ny	SA
+11725	ZC
+0547	ZA
+
+pob	PO
+457	BV
+elkhorn	CN
+ne	SD
+68022	ZC
+
+pob	PO
+462	BV
+norfolk	CN
+ne	SD
+68702	ZC
+0462	ZA
+
+2514	HN
+maple	SN
+way	SS
+cheyenne	CN
+wy	SA
+82009	ZC
+5231	ZA
+
+709	HN
+13th	SN
+st	SS
+ne	SD
+owatonna	CN
+mn	SA
+55060	ZC
+1810	ZA
+
+601	HN
+south	SD
+myrtle	SN
+st	SS
+seattle	CN
+wa	SA
+98108	ZC
+3424	ZA
+
+2398	HN
+edgemere	SN
+ct	SS
+cincinnati	CN
+oh	SA
+45244	ZC
+3717	ZA
+
+audrain	SN
+county	SN
+rd	SS
+133	HN
+box	BT
+6219	BV
+centralia	CN
+mo	SA
+65240	ZC
+
+7990	HN
+sw	SD
+146th	SN
+st	SS
+miami	CN
+fl	SA
+33158	ZC
+2064	ZA
+
+46	HN
+danforth	SN
+cres	SN
+rochester	CN
+ny	SA
+14618	ZC
+4202	ZA
+
+7139	HN
+lee	SN
+hwy	SS
+falls	CN
+church	CN
+va	SA
+22046	ZC
+3725	ZA
+
+100	HN
+summer	SN
+str	SS
+15	UV
+mcadenville	CN
+nc	SA
+28101	ZC
+
+po	PO
+box	BT
+631	BV
+wheeling	CN
+wv	SA
+26003	ZC
+0081	ZA
+
+527	HN
+elysian	SN
+fields	SN
+ave	SS
+new	CN
+orleans	CN
+la	SA
+70117	ZC
+8646	ZA
+
+1941	HN
+penn	SN
+ave	SS
+s	SD
+minneapolis	CN
+mn	SA
+55405	ZC
+2210	ZA
+
+po	PO
+box	BT
+160	BV
+strawberry	CN
+pt	CN
+ia	SA
+52076	ZC
+0160	ZA
+
+3303	HN
+waldron	SN
+dr	SS
+greensboro	SN
+nc	SA
+27408	ZC
+3129	ZA
+
+po	PO
+box	BT
+250	BV
+la	CN
+grange	CN
+ky	SA
+40031	ZC
+0250	ZA
+
+po	PO
+box	BT
+2626	BV
+waco	CN
+tx	SA
+76702	ZC
+2626	ZA
+
+509	HN
+andrew	SN
+st	SS
+dodge	CN
+city	CN
+ks	SA
+67801	ZC
+2810	ZA
+
+107	HN
+e	SD
+wigham	SN
+st	SS
+apt	UT
+64	UV
+centralia	CN
+mo	SA
+65240	ZC
+1072	ZA
+
+115	HN
+willow	SN
+lane	SS
+elbridge	CN
+ny	SA
+13060	ZC
+9705	ZA
+
+619	HN
+farwell	SN
+dr	SS
+madison	CN
+wi	SA
+53704	ZC
+6029	ZA
+
+862	HN
+indian	SN
+creek	SN
+loop	SS
+kerrville	CN
+tx	SA
+78028	ZC
+1762	ZA
+
+1101	HN
+n	SD
+young	SN
+st	SS
+thomasville	CN
+ga	SA
+31792	ZC
+3724	ZA
+
+9208	HN
+columbia	SN
+detroit	CN
+mi	SA
+48239	ZC
+1914	ZA
+
+c/o	CO
+robert	ON
+r	ON
+van	ON
+dongen	ON
+ste	ON
+630	HN
+mckay	SN
+tower	SN
+grand	CN
+rapids	CN
+mi	SA
+49503	ZC
+
+po	PO
+box	BT
+342	BV
+old	CN
+forge	CN
+ny	SA
+13420	ZC
+0342	ZA
+
+1938	HN
+trillium	SN
+ln	SS
+charlotte	CN
+nc	SA
+28211	ZC
+4445	ZA
+
+4365	HN
+valley	SN
+forge	SN
+drive	SS
+cleveland	CN
+oh	SA
+44126	ZC
+2824	ZA
+
+8506	HN
+east	SD
+walton	SN
+ave	SS
+spokane	CN
+wa	SA
+99212	ZC
+1833	ZA
+
+5303	HN
+east	SD
+pageantry	SN
+st	SS
+long	CN
+beach	CN
+ca	SA
+90808	ZC
+3519	ZA
+
+1245	HN
+e	SD
+700	SN
+n	SN
+provo	CN
+ut	SA
+84606	ZC
+2011	ZA
+
+39	HN
+2nd	SN
+ave	SS
+nw	SD
+wells	CN
+mn	SA
+56097	ZC
+1917	ZA
+
+po	PO
+box	BT
+160	BV
+strawberry	CN
+pt	CN
+ia	SA
+52076	ZC
+0160	ZA
+
+1260	HN
+pivot	SN
+rock	SN
+rd	SS
+eureka	CN
+spgs	CN
+ar	SA
+72632	ZC
+9405	ZA
+
+po	PO
+box	BT
+2309	ZA
+syracuse	CN
+ny	SA
+13220	ZC
+2309	ZA
+
+193	HN
+freyn	SN
+dr	SS
+centerville	CN
+oh	SA
+45458	ZC
+2234	ZA
+
+c/o	CO
+b	ON
+kratky	ON
+12	HN
+traverse	CN
+city	CN
+mi	SA
+49684	ZC
+
+301	HN
+alpine	SN
+trl	SS
+neptune	CN
+nj	SA
+07753	ZC
+4451	ZA
+
+1170	HN
+shawnee	SN
+road	SS
+lima	CN
+oh	SA
+45805	ZC
+3529	ZA
+
+3254	HN
+interlaken	SN
+st	SS
+w	SD
+bloomfield	CN
+mi	SA
+48323	ZC
+1824	ZA
+
+banko	UNKNOWN
+deponce	UNKNOWN
+bldg	UNKNOWN
+20th	SN
+hato	SN
+rey	SN
+pr,	SN
+puerto	CN
+rico	CN
+pr	SA
+00927	ZC
+
+1705	HN
+w	SD
+philadelphia	CN
+pa	SA
+19130	ZC
+
+501	HN
+broadway	SN
+pt	SS
+pleas	CN
+bch	CN
+nj	SA
+08742	ZC
+2558	ZA
+
+2346	HN
+dawson	SN
+ln	SS
+algonquin	CN
+il	SA
+60102	ZC
+5979	ZA
+
+92	HN
+head	SN
+of	SN
+meadow	SN
+rd	SS
+newtown	CN
+ct	SS
+06470	ZC
+1909	ZA
+
+1812	HN
+prestwick	SN
+pl	SS
+rogers	CN
+ar	SA
+72758	ZC
+1389	ZA
+
+5000	HN
+parkway	SN
+calabasas	CN
+ca	SA
+91302	ZC
+1400	ZA
+
+324	HN
+ellerton	SN
+s	SD
+laurel	CN
+md	SA
+20724	ZC
+2404	ZA
+
+960	HN
+oriolr	SN
+lane	SS
+stockton	CN
+ca	SA
+95207	ZC
+
+4886	HN
+foxfire	SN
+trl	SS
+middleton	CN
+wi	SA
+53562	ZC
+1104	ZA
+
+3557	HN
+benbrook	SN
+dr	SS
+springfield	CN
+il	SA
+62707	ZC
+5616	ZA
+
+5065	HN
+starfish	SN
+ave	SS
+naples	CN
+fl	SA
+34103	ZC
+2441	ZA
+
+397370	HN
+w	SD
+1300	SN
+rd	SS
+dewey	CN
+ok	SA
+74029	ZC
+3929	ZA
+
+3810	HN
+n	SD
+50	SN
+w	SD
+columbia	CN
+city	CN
+in	SA
+46725	ZC
+9525	ZA
+
+5654	HN
+pickering	SN
+ave	SS
+whittier	CN
+ca	SA
+90601	ZC
+2414	ZA
+
+7001	HN
+castle	SN
+creek	SN
+drive	SS
+east	SD
+fort	CN
+worth	CN
+tx	SA
+76132	ZC
+3705	ZA
+
+2203	HN
+burgundy	SN
+dr	SS
+carrollton	CN
+tx	SA
+75006	ZC
+4325	ZA
+
+5510	HN
+black	SN
+cherry	SN
+cir	SS
+indianapolis	CN
+in	SA
+46237	ZC
+3806	ZA
+
+6561	HN
+kell	SN
+ln	SS
+las	CN
+vegas	CN
+nv	SA
+89156	ZC
+7017	ZA
+
+224	HN
+s	SD
+high	SN
+st	SS
+dublin	CN
+oh	SA
+43017	ZC
+1136	ZA
+
+5625	HN
+n	SD
+12th	SN
+ave	SS
+phoenix	CN
+az	SA
+85013	ZC
+1753	ZA
+
+8935	HN
+homer	SN
+road	SS
+milford	CN
+ctr	CN
+oh	SA
+43045	ZC
+9710	ZA
+
+rr	RR
+1	RV
+cleveland	CN
+mn	SA
+56017	ZC
+9803	ZA
+
+28	HN
+devon	SN
+blvd	SS
+binghamton	CN
+ny	SA
+13903	ZC
+1306	ZA
+
+po	PO
+box	BT
+1958	BV
+kilmarnock	CN
+va	SA
+22482	ZC
+1958	ZA
+
+po	PO
+box	BT
+846	BV
+ames	CN
+ia	SA
+50010	ZC
+0846	ZA
+
+c/o	CO
+nancy	ON
+c	ON
+gerosa	ON
+29	HN
+aarons	SN
+ct	SS
+ridgefield	CN
+ct	SA
+06877	ZC
+1118	ZA
+
+2030	HN
+hemlock	SN
+avenue	SS
+45	UV
+west	CN
+chester	CN
+ia	SS
+52359	ZC
+9761	ZA
+
+5332	HN
+bonnie	SN
+wayne	SN
+st	SS
+fort	CN
+worth	CN
+tx	SS
+76117	ZC
+2023	ZA
+
+5210	HN
+e	SD
+calle	SN
+barril	SN
+tucson	CN
+az	SS
+85718	ZC
+6330	ZA
+
+57	HN
+e	SD
+delaware	SN
+pl	SS
+apt	UT
+3701	UV
+chicago	CN
+il	SA
+60611	ZC
+1635	ZA
+
+c/o	CO
+mc	ON
+&	ON
+hh	ON
+rutledgd	ON
+tr	ON
+271	HN
+e	SD
+main	SN
+st	SS
+hazard	CN
+ky	SA
+41701	ZC
+1939	ZA
+
+850	HN
+s	SD
+7th	SN
+ave	SS
+west	CN
+bend	CN
+wi	SA
+53095	ZC
+4645	ZA
+
+253	HN
+n	SD
+columbia	SN
+avenue	SS
+columbus	CN
+oh	SA
+43209	ZC
+1417	ZA
+
+517	HN
+indiana	SN
+st	SS
+apt	UT
+8	UV
+greenfield	CN
+in	SA
+46140	ZC
+1716	ZA
+
+po	PO
+box	BT
+2674	BV
+pawleys	CN
+isl	CN
+sc	SA
+29585	ZC
+2674	ZA
+
+c/o	CO
+robert	ON
+f.	ON
+trenner	ON
+777	HN
+bellevue	CN
+wa	SA
+98004	ZC
+5130	ZA
+
+2615	HN
+cypress	SN
+pt	SS
+tustin	CN
+ca	SA
+92680	ZC
+1245	ZA
+
+100	HN
+summur	SN
+st	SS
+apt	UT
+15	UV
+mcadenville	CN
+nc	SA
+28101	ZC
+
+c/o	CO
+nancy	ON
+c	ON
+gerosa	ON
+29	HN
+aarons	SN
+ct	SS
+ridgefield	CN
+ct	SA
+06877	ZC
+1118	ZA
+
+550	HN
+lenoir	SN
+road	SS
+morganton	CN
+nc	SA
+28655	ZC
+2661	ZA
+
+7990	HN
+sw	SD
+146th	SN
+st	SS
+miami	CN
+fl	SA
+33158	ZC
+2064	ZA
+
+p.o.	PO
+box	BT
+26	BV
+augusta	CN
+ks	SA
+67010	ZC
+0026	ZA
+
+9225	HN
+trovita	SN
+cir	SS
+riverside	CN
+ca	SA
+92508	ZC
+6478	ZA
+
+2620	HN
+corona	SN
+dr	SS
+davis	CN
+ca	SA
+95616	ZC
+0112	ZA
+
+2716	HN
+crystal	SN
+mesa	SN
+drive	SS
+las	CN
+vegas	CN
+nv	SA
+89134	ZC
+8335	ZA
+
+8300	HN
+norman	SN
+center	SN
+dr	SS
+suite	UT
+845	UV
+bloomington	CN
+mn	SA
+55437	ZC
+1030	ZA
+
+3471	HN
+smoke	SN
+rise	SN
+way	SS
+lawrenceville	CN
+ga	SA
+30244	ZC
+4804	ZA
+
+c/o	CO
+james	ON
+h	ON
+lewis	ON
+505	HN
+deerfield	SN
+ave	SS
+silver	CN
+spring	CN
+md	SA
+20910	ZC
+5506	ZA
+
+6	HN
+woodland	SN
+road	SS
+roslyn	CN
+ny	SA
+11576	ZC
+1421	ZA
+
+c/o	CO
+morris	ON
+schwab	ON
+tr	ON
+po	UNKNOWN
+bo	UNKNOWN
+harrisburg	CN
+pa	SA
+17110	ZC
+0967	ZA
+
+93	HN
+southern	SN
+pkwy	SS
+rochester	CN
+ny	SA
+14618	ZC
+1038	ZA
+
+15	HN
+ober	SN
+st	SS
+beverly	CN
+ma	SA
+01915	ZC
+4639	ZA
+
+862	HN
+indian	SN
+creek	SN
+loop	SS
+kerrville	CN
+tx	SA
+78028	ZC
+1762	ZA
+
+2238	HN
+godwin	SN
+ave	SS
+se	SD
+grand	CN
+rapids	CN
+mi	SA
+49507	ZC
+3130	ZA
+
+17	HN
+oakdale	SN
+farm	SN
+cir	SS
+edmond	CN
+ok	SA
+73013	ZC
+7453	ZA
+
+165	HN
+sw	SD
+tualatin	SN
+loop	SS
+west	CN
+linn	CN
+or	SA
+97068	ZC
+9733	ZA
+
+2100	HN
+sw	SD
+cherokee	SN
+strip	SS
+blue	CN
+springs	CN
+mo	SA
+64015	ZC
+5360	ZA
+
+88	HN
+e	SD
+albert	SN
+dr	SS
+lot	UT
+6	UV
+st	CN
+benedict	CN
+la	SA
+70457	ZC
+
+c/o	CO
+norma	ON
+j	ON
+graff	ON
+1809	HN
+s	SD
+leslie	SN
+st	SS
+independence	CN
+mo	SA
+64055	ZC
+1720	ZA
+
+3386	HN
+foulk	SN
+road	SS
+boothwyn	CN
+pa	SA
+19061	ZC
+1906	ZA
+
+po	PO
+box	BT
+84	BV
+polk	CN
+ne	SA
+68654	ZC
+0084	ZA
+
+5354	HN
+w	SD
+62nd	SN
+st	SS
+indianapolis	CN
+in	SA
+46268	ZC
+4491	ZA
+
+602	HN
+barnstable	SN
+court	SS
+camillus	CN
+ny	SA
+13031	ZC
+2064	ZA
+
+524	HN
+w	SD
+grant	SN
+st	SS
+lindsborg	CN
+ks	SA
+67456	ZC
+2317	ZA
+
+122	HN
+palmers	SN
+hill	SN
+road	SS
+stamford	CN
+ct	SA
+06902	ZC
+2145	ZA
+
+po	PO
+box	BT
+558	BV
+richmond	CN
+va	SA
+23218	ZC
+0558	ZA
+
+2408	HN
+terrie	SN
+hill	SN
+road	SS
+cpe	CN
+girardeau	CN
+mo	SA
+63701	ZC
+4425	ZA
+
+c/o	CO
+thomas	ON
+battershell	ON
+1920	HN
+e	SD
+6th	SN
+ave	SS
+helena	CN
+mt	SA
+59601	ZC
+4765	ZA
+
+137	HN
+grayton	SN
+road	SS
+tonawanda	CN
+ny	SA
+14150	ZC
+9033	ZA
+
+11	HN
+prout	SN
+ave	SS
+troy	CN
+ny	SA
+12180	ZC
+6828	ZA
+
+330	HN
+kenduskeag	SN
+ave	SS
+bangor	CN
+me	SA
+04401	ZC
+3406	ZA
+
+c/o	CO
+joseph	ON
+c	ON
+reiff	ON
+po	PO
+box	BT
+430	BV
+cascade	CN
+ia	SA
+52033	ZC
+0430	ZA
+
+186	HN
+shaw	SN
+farm	SN
+rd	SS
+holliston	CN
+ma	SA
+01746	ZC
+2547	ZA
+
+202	HN
+woodbine	SN
+rd	SS
+taylorville	CN
+il	SA
+62568	ZC
+9700	ZA
+
+9725	HN
+chedder	SN
+drive	SS
+vienna	CN
+va	SA
+22182	ZC
+1925	ZA
+
+512	HN
+wedgewood	SN
+pl	SS
+kendallville	CN
+in	SA
+46755	ZC
+1209	ZA
+
+e	SD
+10446a	HN
+pine	SN
+circle	SN
+pr	SS
+du	CN
+sac	CN
+wi	SA
+53578	ZC
+
+19	HN
+londonderry	SN
+drive	SS
+easton	CN
+md	SA
+21601	ZC
+2537	ZA
+
+1650	HN
+werling	SN
+rd	SS
+new	CN
+haven	CN
+in	SA
+46774	ZC
+2543	ZA
+
+po	PO
+box	BT
+118	BV
+w	CN
+wardsboro	CN
+vt	SA
+05360	ZC
+0118	ZA
+
+290	HN
+north	SN
+st	SS
+new	CN
+hyde	CN
+park	CN
+ny	SA
+11040	ZC
+2340	ZA
+
+14	HN
+random	SN
+farms	SN
+dr	SS
+chappaqua	CN
+ny	SA
+10514	ZC
+1015	ZA
+
+58	HN
+farm	SN
+st	SS
+medfield	CN
+ma	SA
+02052	ZC
+1114	ZA
+
+56	HN
+windsor	SN
+gate	SN
+dr	SS
+north	CN
+hills	CN
+ny	SA
+11040	ZC
+1063	ZA
+
+po	PO
+box	BT
+2721	BV
+largo	CN
+fl	SA
+33779	ZC
+2721	ZA
+
+108	HN
+birkdale	SN
+court	SS
+yorktown	CN
+va	SA
+23693	ZC
+5520	ZA
+
+401	HN
+suffolk	SN
+rd	SS
+flourtown	CN
+pa	SA
+19031	ZC
+2121	ZA
+
+355	HN
+russett	SN
+ln	SS
+highland	CN
+park	CN
+il	SA
+60035	ZC
+4339	ZA
+
+apt	UT
+5c	UV
+brooklyn	CN
+ny	SA
+11218	ZC
+
+po	PO
+box	BT
+4180	BV
+crestline	CN
+ca	SA
+92325	ZC
+4180	ZA
+
+310	HN
+central	SN
+road	SS
+suite	UT
+1	UV
+fredericksbrg	CN
+va	SA
+22401	ZC
+7008	ZA
+
+862	HN
+indian	SN
+creek	SN
+loop	SS
+kerrville	CN
+tx	SA
+78028	ZC
+1762	ZA
+
+2030	HN
+hemlock	SN
+ave	SS
+ste	UT
+45	UV
+west	CN
+chester	CN
+ia	SA
+52359	ZC
+9761	ZA
+
+1716	HN
+devonshire	SN
+drv	SS
+benicia	CN
+ca	SA
+94510	ZC
+1726	ZA
+
+7017	HN
+bucton	SN
+ter	SS
+bethesda	CN
+md	SA
+20817	ZC
+4404	ZA
+
+22611	HN
+n	SD
+las	SN
+lomas	SN
+ln	SS
+sun	CN
+city	CN
+west	CN
+az	SA
+85375	ZC
+2022	ZA
+
+rural	RR
+route	RR
+90	RV
+king	CN
+ferry	CN
+ny	SA
+13081	ZC
+-1233	ZA
+
+7777	HN
+hennessy	SN
+blvd	SS
+suite	UT
+700	UV
+baton	CN
+rouge	CN
+la	SA
+70808	ZC
+4300	ZA
+
+291	HN
+charlotte	SN
+court	SS
+cary	CN
+il	SA
+60013	ZC
+2657	ZA
+
+6812	HN
+folsom	SN
+oaks	SN
+court	SS
+granite	CN
+bay	CN
+ca	SA
+95746	ZC
+9326	ZA
+
+1465	HN
+jouet	SN
+court	SS
+toms	CN
+river	CN
+nj	SA
+08753	ZC
+2766	ZA
+
+1097	HN
+lenape	SN
+way	SS
+scotch	CN
+plains	CN
+nj	SA
+07076	ZC
+2813	ZA
+
+4405	HN
+helston	SN
+drive	SS
+plano	CN
+tx	SA
+75024	ZC
+3748	ZA
+
+9225	HN
+watercress	SN
+drive	SS
+fort	CN
+worth	CN
+tx	SA
+76135	ZC
+4635	ZA
+
+2544	HN
+david	SN
+lee	SN
+drive	SS
+parkersburg	CN
+wv	SA
+26101	ZC
+7120	ZA
+
+535	HN
+cheval	SN
+dr	SS
+venice	CN
+fl	SA
+34292	ZC
+4607	ZA
+
+611	HN
+smith	SN
+hill	SN
+rd	SS
+stroudsburg	CN
+pa	SA
+18360	ZC
+8485	ZA
+
+7604	HN
+bailey	SN
+ln	SS
+du	CN
+quoin	CN
+il	SA
+62832	ZC
+3409	ZA
+
+604	HN
+s	SD
+halliday	SN
+ave	SS
+du	CN
+quoin	CN
+il	SA
+62832	ZC
+1920	ZA
+
+3145	HN
+geary	SN
+blvd	SS
+228	UV
+san	CN
+francisco	CN
+ca	SA
+94118	ZC
+3316	ZA
+
+616	HN
+alexander	SN
+rd	SS
+alexander	CN
+nc	SA
+28701	ZC
+8761	ZA
+
+39225	HN
+t	SN
+r	SS
+247	UV
+pomeroy	CN
+oh	SA
+45769	ZC
+
+932	HN
+w	SD
+brookshire	SN
+drive	SS
+springfield	CN
+mo	SA
+65810	ZC
+1607	ZA
+
+1917	HN
+oak	SN
+grove	SN
+rd	SS
+e	SD
+burleson	CN
+tx	SA
+76028	ZC
+6995	ZA
+
+8	HN
+montgomery	SN
+ave	SS
+takoma	CN
+park	CN
+md	SA
+20912	ZC
+4615	ZA
+
+12106	HN
+sugar	SN
+springs	SN
+drv	SS
+houston	CN
+tx	SA
+77077	ZC
+4931	ZA
+
+9725	HN
+cheddar	SN
+dr	SS
+vienna	CN
+va	SA
+22182	ZC
+1925	ZA
+
+500	HN
+n	SD
+200	SN
+w	SD
+angola	CN
+in	SN
+46703	ZC
+8048	ZA
+
+1703	HN
+division	SN
+street	SN
+ext	SS
+parkersburg	CN
+wv	SA
+26101	ZC
+9368	ZA
+
+102	HN
+briarwood	SN
+pl	SS
+parkersburg	CN
+wv	SA
+26101	ZC
+9243	ZA
+
+271	HN
+e	SD
+prospect	SN
+ave	SS
+hamburg	CN
+ny	SA
+14075	ZC
+5338	ZA
+
+1065	HN
+blyth	SN
+ct	SS
+blue	CN
+bell	CN
+pa	SA
+19422	ZC
+2448	ZA
+
+1936	HN
+houghtailing	SN
+st	SS
+honolulu	CN
+hi	SA
+96817	ZC
+2068	ZA
+
+21790	HN
+philmont	SN
+ct	SS
+boca	CN
+raton	CN
+ny	SA
+11507	ZC
+
+543	HN
+hilltop	SN
+dr	SS
+green	CN
+bay	CN
+wi	SA
+54301	ZC
+2717	ZA
+
+7	HN
+jennifer	SN
+way	SS
+new	CN
+egypt	CN
+nj	SA
+08533	ZC
+2743	ZA
+
+1655	HN
+ponce	SN
+de	SN
+leon	SN
+avenue	SS
+15th	FV
+floor	UNKNOWN
+atlanta	CN
+ga	SA
+30307	ZC
+
+621	HN
+south	SN
+marshall	SN
+st	SS
+caledonia	CN
+mn	SA
+55921	ZC
+1336	ZA
+
+3303	HN
+waldron	SN
+drive	SS
+greensboro	CN
+nc	SA
+27408	ZC
+3129	ZA
+
+748	HN
+washington	SN
+str	SS
+cumberland	CN
+md	SA
+21502	ZC
+
+244	HN
+capitol	SN
+driv	SS
+pittsburgh	CN
+pa	SA
+15236	ZC
+3919	ZA
+
+audrain	SN
+cty	SN
+rd	SS
+133	HN
+box	BT
+6219	BV
+centralia	CN
+mo	SA
+65240	ZC
+
+6526	HN
+n	SD
+400	SN
+w	CN
+carthage	CN
+in	SA
+46115	ZC
+9477	ZA
+
+12915	HN
+meadow	SN
+creek	SN
+ln	SS
+apt	UT
+307	UV
+pineville	CN
+nc	SA
+28134	ZC
+6334	ZA
+
+100	HN
+sumner	SN
+str	SS
+suit	UT
+15	UV
+mcadenville	CN
+nc	SA
+28101	ZC
+
+11	HN
+grays	SN
+lane	SS
+decatur	CN
+il	SA
+62526	ZC
+1424	ZA
+
+rr	RR
+200	RV
+muncie	CN
+in	SN
+47302	ZC
+
+8254	HN
+parkhill	SN
+cir	SS
+lenexa	CN
+ks	SA
+66215	ZC
+2647	ZA
+
+2100	HN
+sw	SD
+cherokee	SN
+strip	SS
+blue	CN
+springs	CN
+mo	SA
+64015	ZC
+5360	ZA
+
+2284	HN
+benden	SN
+drive	SS
+wooster	CN
+oh	SA
+44691	ZC
+2567	ZA
+
+c/o	CO
+mark	ON
+a	ON
+sneed	ON
+5064	HN
+roswell	SN
+rd	SS
+ne	SD
+c-200	UV
+atlanta	CN
+ga	SA
+30342	ZC
+2252	ZA
+
+6	HN
+woodland	SN
+rd	SS
+roslyn	CN
+ny	SA
+11576	ZC
+1421	ZA
+
+1061	HN
+russell	SN
+ave	SS
+lia	CN
+ca	SA
+90027	ZC
+
+3139	HN
+e	SD
+88th	SN
+st	SS
+tulsa	CN
+ok	SA
+74137	ZC
+2530	ZA
+
+627	HN
+w	SD
+enid	SN
+ave	SS
+mesa	CN
+az	SA
+85210	ZC
+3528	ZA
+
+8845	HN
+teal	SN
+point	SN
+rd	SS
+easton	CN
+md	SA
+21601	ZC
+7311	ZA
+
+2714	HN
+westminister	SN
+way	SS
+se	SD
+huntsville	CN
+al	SA
+35801	ZC
+2264	ZA
+
+2615	HN
+westbury	SN
+cir	SS
+waco	CN
+tx	SA
+76710	ZC
+1145	ZA
+
+1009	HN
+270th	SN
+ave	SS
+hays	CN
+ks	SA
+67601	ZC
+9502	ZA
+
+3303	HN
+waldron	SN
+drive	SS
+greensboro	CN
+nc	SA
+27408	ZC
+3129	ZA
+
+9609	HN
+glenlake	SN
+drv	SS
+austin	CN
+tx	SA
+78730	ZC
+3342	ZA
+
+900	HN
+knollwood	SN
+dr	SS
+santa	CN
+barbara	CN
+ca	SA
+93108	ZC
+1433	ZA
+
+3855	HN
+columbia	SN
+ave	SS
+mountville	CN
+pa	SA
+17554	ZC
+1803	ZA
+
+5100	HN
+john	SN
+d	SN
+ryan	SN
+blvd	SS
+apt	UT
+2406	UV
+san	CN
+antonio	CN
+tx	SA
+78245	ZC
+3523	ZA
+
+39	HN
+2nd	SN
+ave	SS
+nw	SD
+wells	CN
+mn	SA
+56097	ZC
+1917	ZA
+
+3737	HN
+mcgregor	SN
+ln	SS
+toledo	CN
+oh	SA
+43623	ZC
+1732	ZA
+
+c/o	CO
+morrison	ON
+&	ON
+hecker	ON
+2600	HN
+grand	SN
+blvd	SS
+kansas	CN
+city	CN
+mo	SA
+64108	ZC
+4600	ZA
+
+4073	HN
+ridgeview	SN
+cir	SS
+mclean	CN
+va	SA
+22101	ZC
+5809	ZA
+
+907	HN
+n	SD
+6th	SN
+st	SS
+apt	UT
+7	UV
+springfield	CN
+il	SA
+62702	ZC
+3901	ZA
+
+c/o	CO
+fred	ON
+westrom	ON
+2204	HN
+island	SN
+dr	SS
+monroe	CN
+la	SA
+71201	ZC
+2301	ZA
+
+425	HN
+n	SD
+main	SN
+st	SS
+princeton	CN
+in	SN
+47670	ZC
+1515	ZA
+
+po	PO
+box	BT
+548	BV
+dunlap	CN
+ca	SA
+93621	ZC
+0548	ZA
+
+4	HN
+colby	SN
+rd	SS
+prt	CN
+washingtn	CN
+ny	SA
+11050	ZC
+4306	ZA
+
+po	PO
+box	BT
+967	BV
+newton	CN
+ia	SA
+50208	ZC
+0967	ZA
+
+111	HN
+breakspar	SN
+road	SS
+syracuse	CN
+ny	SA
+13219	ZC
+1401	ZA
+
+3113	HN
+walker	SN
+ln	SS
+eagleville	CN
+pa	SA
+19403	ZC
+1149	ZA
+
+2496	HN
+silver	SN
+oak	SN
+cir	SS
+palm	CN
+springs	CN
+ca	SA
+92264	ZC
+8630	ZA
+
+8	HN
+greenfield	SN
+ct	SS
+clifton	CN
+park	CN
+ny	SA
+12065	ZC
+5103	ZA
+
+149	HN
+blossom	SN
+ct	SS
+thibodaux	CN
+la	SA
+70301	ZC
+9425	ZA
+
+846	HN
+enterprise	SN
+creek	SN
+rd	SS
+pelican	CN
+lake	CN
+wi	SA
+54463	ZC
+9533	ZA
+
+152	HN
+evans	SN
+ave	SS
+piscataway	CN
+nj	SA
+08854	ZC
+2902	ZA
+
+235	HN
+alpha	SN
+ave	SS
+wind	CN
+gap	CN
+pa	SA
+18091	ZC
+1204	ZA
+
+2064	HN
+dolphin	SN
+blvd	SS
+s	SD
+st	CN
+petersburg	CN
+fl	SA
+33707	ZC
+3812	ZA
+
+7315	HN
+n	SD
+oketo	SN
+ave	SS
+chicago	CN
+il	SA
+60631	ZC
+4377	ZA
+
+128	HN
+newman	SN
+road	SS
+lewisburg	CN
+pa	SA
+17837	ZC
+9305	ZA
+
+5508	HN
+linmore	SN
+lane	SS
+plano	CN
+tx	SA
+75093	ZC
+7619	ZA
+
+2544	HN
+david	SN
+lee	SN
+drv	SS
+parkersburg	CN
+wv	SA
+26101	ZC
+7120	ZA
+
+rr	RR
+2	RV
+box	BT
+3580	BV
+bartlesville	CN
+ok	SA
+74006	ZC
+9802	ZA
+
+405	HN
+e	SD
+3rd	SN
+st	SS
+alton	CN
+il	SA
+62002	ZC
+2410	ZA
+
+5870	HN
+pierson	SN
+road	SS
+fayetteville	CN
+ny	SA
+13066	ZC
+9641	ZA
+
+53	HN
+osprey	SN
+loop	SS
+b2	UV
+waynesville	CN
+nc	SA
+28786	ZC
+3583	ZA
+
+400835	HN
+w	SD
+1960	SN
+dr	SS
+bartlesville	CN
+ok	SA
+74006	ZC
+0166	ZA
+
+108	HN
+birkdale	SN
+ct	SS
+yorktown	CN
+va	SA
+23693	ZC
+5520	ZA
+
+40	HN
+whitewood	SN
+dr	SS
+morris	CN
+plains	CN
+nj	SA
+07950	ZC
+3329	ZA
+
+640	HN
+summergreen	SN
+dr	SS
+frankenmuth	CN
+mi	SA
+48734	ZC
+9324	ZA
+
+2791	HN
+chestnut	SN
+ave	SS
+long	CN
+beach	CN
+ca	SA
+90806	ZC
+2507	ZA
+
+445	HN
+e	SD
+35th	SN
+st	SS
+brooklyn	CN
+ny	SA
+11203	ZC
+5011	ZA
+
+13251	HN
+oakwood	SN
+ct	SS
+punta	CN
+gorda	CN
+fl	SA
+33982	ZC
+9699	ZA
+
+1913	HN
+alvarez	SN
+rd	SS
+anthony	CN
+nm	SA
+88021	ZC
+8444	ZA
+
+8638	HN
+e	SD
+thoroughbred	SN
+trl	SS
+scottsdale	CN
+az	SA
+85258	ZC
+-1453	ZA
+
+19	HN
+hilltop	SN
+rd	SS
+edison	CN
+nj	SA
+08820	ZC
+2803	ZA
+
+1701	HN
+se	SD
+frontage	SN
+rd	SS
+sturtevant	CN
+wi	SA
+53177	ZC
+1520	ZA
+
+3309	HN
+mary	SN
+byrd	SS
+williamsburg	CN
+va	SA
+23188	ZC
+1331	ZA
+
+303	HN
+beacon	SN
+cir	SS
+bloomington	CN
+il	SA
+61704	ZC
+1442	ZA
+
+259	HN
+somerset	SN
+st	SS
+new	CN
+brunswick	CN
+nj	SA
+08901	ZC
+2253	ZA
+
+318	HN
+carroll	SN
+ave	SS
+mamaroneck	CN
+ny	SA
+10543	ZC
+2804	ZA
+
+27w685	UNKNOWN
+brookside	SN
+dr	SS
+winfield	CN
+il	SA
+60190	ZC
+1498	ZA
+
+2501	HN
+southlawn	SN
+pl	SS
+el	CN
+reno	CN
+ok	SA
+73036	ZC
+5937	ZA
+
+1721	HN
+w	SD
+elfindale	SN
+st	SS
+ste	UT
+2	UV
+springfield	CN
+mo	SA
+65807	ZC
+1295	ZA
+
+135	HN
+winchester	SN
+drive	SS
+yonkers	CN
+ny	SA
+10710	ZC
+2321	ZA
+
+719	HN
+e	SD
+mandoline	SN
+ave	SS
+madison	CN
+hts	CN
+mi	SA
+48071	ZC
+1437	ZA
+
+49	HN
+carriage	SN
+rd	SS
+roslyn	CN
+ny	SA
+11576	ZC
+3122	ZA
+
+1	HN
+lakeside	SN
+cir	SS
+st	CN
+louis	CN
+mo	SA
+63701	ZC
+3150	ZA
+
+405	HN
+south	SN
+long	SN
+lake	SN
+road	SS
+traverse	CN
+city	CN
+mi	SA
+49684	ZC
+-9002	ZA
+
+6235	HN
+rocket	SN
+drive	SS
+florissant	CN
+mo	SA
+63033	ZC
+4905	ZA
+
+1113	HN
+fernhill	SN
+rd	SS
+west	CN
+chester	CN
+pa	SA
+19380	ZC
+4630	ZA
+
+775	HN
+park	SS
+ave	SS
+suite	UT
+155	UV
+huntington	CN
+ny	SA
+11743	ZC
+7516	ZA
+
+129	HN
+evans	SN
+st	SS
+new	CN
+hyde	CN
+park	CN
+ny	SA
+11040	ZC
+1712	ZA
+
+2810	HN
+elmwood	SN
+st	SS
+carlsbad	CN
+ca	SA
+92008	ZC
+1509	ZA
+
+3	HN
+seneca	SN
+pl	SS
+montclair	CN
+nj	SA
+07043	ZC
+1114	ZA
+
+9198	HN
+kipton	SN
+dr	SS
+carlisle	CN
+oh	SA
+45005	ZC
+1354	ZA
+
+949	HN
+e	SD
+swedesford	SN
+rd	SS
+exton	CN
+pa	SA
+19341	ZC
+2308	ZA
+
+15	HN
+deaver	SN
+pl	SS
+wyncote	CN
+pa	SA
+19095	ZC
+1726	ZA
+
+340	HN
+w	SD
+85th	SN
+st	SS
+512	UV
+new	CN
+york	CN
+ny	SA
+10024	ZC
+3804	ZA
+
+1464	HN
+n	SD
+highland	SN
+ave	SS
+ne	SD
+atlanta	CN
+ga	SA
+30306	ZC
+3353	ZA
+
+501	HN
+gaymont	SN
+place	SS
+staunton	CN
+va	SA
+24401	ZC
+4853	ZA
+
+79	HN
+elm	SN
+ave	SS
+floral	CN
+park	CN
+ny	SA
+11001	ZC
+2434	ZA
+
+3502	HN
+swallow	SN
+ln	SS
+wausau	CN
+wi	SA
+54401	ZC
+7274	ZA
+
+3716	HN
+s	SD
+dayton	SN
+ave	SS
+springfield	CN
+mo	SA
+65807	ZC
+4551	ZA
+
+330	HN
+w	SD
+28th	SN
+st	SS
+new	CN
+york	CN
+ny	SA
+10001	ZC
+4722	ZA
+
+3948	HN
+johnson	SN
+st	SS
+high	CN
+point	CN
+nc	SA
+27265	ZC
+9178	ZA
+
+10	HN
+east	SN
+end	SN
+ave	SS
+apt	UT
+1	UV
+new	CN
+york	CN
+ny	SA
+10021	ZC
+1106	ZA
+
+300	HN
+joseph	SN
+st	SS
+greenville	CN
+nc	SA
+27858	ZC
+9616	ZA
+
+31	SN
+suncrest	SN
+dr	SS
+dix	CN
+hills	CN
+ny	SA
+11746	ZC
+5736	ZA
+
+9425	HN
+57th	SN
+ave	SS
+apt	UT
+5u	UV
+elmhurst	CN
+ny	SA
+11373	ZC
+5140	ZA
+
+805	HN
+w	SD
+cliff	SN
+dr	SS
+spokane	CN
+wa	SA
+99204	ZC
+3727	ZA
+
+3117	HN
+berwick	SN
+knls	SS
+brooklyn	CN
+park	CN
+mn	SA
+55443	ZC
+1960	ZA
+
+10800	HN
+sw	SD
+63rd	SN
+st	SS
+miami	CN
+fl	SA
+33173	ZC
+1211	ZA
+
+1502	HN
+valencia	SN
+newport	CN
+beach	CN
+ca	SA
+92660	ZC
+3276	ZA
+
+2201	HN
+glenarm	SN
+pl	SS
+1	UV
+denver	CN
+co	SA
+80205	ZC
+3124	ZA
+
+726	HN
+center	SN
+ave	SS
+river	CN
+edge	CN
+nj	SA
+07661	ZC
+2409	ZA
+
+71	HN
+ottowa	SN
+road	SS
+south	CN
+marlboro	CN
+nj	SA
+07746	ZC
+1248	ZA
+
+3055	HN
+quay	SN
+st	SS
+denver	CN
+co	SA
+80215	ZC
+6818	ZA
+
+2011	HN
+n	SD
+towanda	SN
+ave	SS
+normal	CN
+il	SA
+61761	ZC
+5216	ZA
+
+349	HN
+hoyt	SN
+st	SS
+1	UV
+brooklyn	CN
+ny	SA
+11231	ZC
+4943	ZA
+
+3457	HN
+rosemary	SN
+ave	SS
+glendale	CN
+ca	SA
+91208	ZC
+1510	ZA
+
+2410	HN
+elmwood	SN
+blvd	SS
+wausau	CN
+wi	SA
+54403	ZC
+7011	ZA
+
+25419	HN
+old	SN
+carriage	SN
+ln	SS
+spring	CN
+tx	SA
+77373	ZC
+8005	ZA
+
+155	HN
+e	SD
+pennsylvania	SN
+ave	SS
+jacksonville	CN
+il	SA
+62650	ZC
+3433	ZA
+
+6228	HN
+bright	SN
+plume	SN
+columbia	CN
+md	SA
+21044	ZC
+3790	ZA
+
+524	HN
+n	SD
+orchard	SN
+st	SS
+pittsfield	CN
+il	SA
+62363	ZC
+1069	ZA
+
+511	HN
+locust	SN
+st	SS
+roselle	CN
+nj	SA
+07203	ZC
+1145	ZA
+
+5022	HN
+allen	SN
+court	SS
+bartlesville	CN
+ok	SA
+74006	ZC
+5601	ZA
+
+36171	HN
+christine	SN
+blvd	SS
+whitehall	CN
+wi	SA
+54773	ZC
+8618	ZA
+
+258	HN
+juniper	SN
+st	SS
+park	CN
+forest	CN
+il	SA
+60466	ZC
+1725	ZA
+
+1721	HN
+w	SD
+elfindale	SN
+st	SS
+suite	UT
+20	UV
+springfield	CN
+mo	SA
+65807	ZC
+1295	ZA
+
+2378	HN
+woodlake	SN
+dr	SS
+suite-200	UV
+okemos	CN
+mi	SA
+48864	ZC
+6013	ZA
+
+333	HN
+e	SD
+53rd	SN
+st	SS
+apt	UT
+6h	UV
+new	CN
+york	CN
+ny	SA
+10022	ZC
+4913	ZA
+
+15	HN
+e	UV
+marseille	SN
+drive	SS
+placentia	CN
+ca	SA
+92870	ZC
+
+1	HN
+navaho	SN
+way	SS
+middletown	CN
+nj	SA
+07748	ZC
+3710	ZA
+
+52	HN
+old	SN
+granary	SN
+court	SS
+catonsville	CN
+md	SA
+21228	ZC
+5366	ZA
+
+167	HN
+nippon	SN
+ave	SS
+staten	CN
+island	CN
+ny	SA
+10312	ZC
+2764	ZA
+
+4	HN
+gateway	SN
+ctr	SS
+1700	UV
+pittsburgh	CN
+pa	SA
+15222	ZC
+1220	ZA
+
+14220	HN
+sw	SD
+79th	SN
+ave	SS
+miami	CN
+fl	SA
+33158	ZC
+1509	ZA
+
+23	HN
+lambeth	SN
+st	SS
+holbrook	CN
+ny	SA
+11741	ZC
+5503	ZA
+
+4522	HN
+paseo	SN
+de	SN
+las	SN
+torrance	CN
+ca	SA
+90505	ZC
+
+6880	HN
+goodrich	SN
+rd	SS
+clarence	CN
+ctr	CN
+ny	SA
+14032	ZC
+9622	ZA
+
+po	PO
+box	BT
+220	BV
+wagner	CN
+sd	SA
+57380	ZC
+0220	ZA
+
+916	HN
+iroquois	SN
+dr	SS
+se	SD
+grand	CN
+rapids	CN
+mi	SA
+49506	ZC
+3342	ZA
+
+c/o	CO
+joseph	ON
+c	ON
+reiff	ON
+po	PO
+box	BT
+430	BV
+cascade	CN
+ia	SA
+52033	ZC
+0430	ZA
+
+131	SN
+w	SD
+21st	SN
+st	SS
+buena	CN
+vista	CN
+va	SA
+24416	ZC
+3145	ZA
+
+c/o	CO
+patrick	ON
+dugan,ptnr	ON
+3021	HN
+slidell	CN
+la	SA
+70458	ZC
+4245	ZA
+
+175	HN
+rockfort	SN
+ct	SS
+college	CN
+park	CN
+ga	SA
+30349	ZC
+4472	ZA
+
+1725	HN
+walnut	SN
+strtte	SS
+lansdale	CN
+pa	SA
+19446	ZC
+1136	ZA
+
+54upper	HN
+rainbow	SN
+trail	SS
+denville	CN
+nj	SA
+07834	ZC
+
+18	HN
+grove	SN
+rd	SS
+north	CN
+haven	CN
+ct	SA
+06473	ZC
+2418	ZA
+
+5253	HN
+ligurian	SN
+ct	SS
+san	CN
+jose	CN
+ca	SA
+95138	ZC
+2321	ZA
+
+64	HN
+ne	SD
+acacia	SN
+trail	SS
+jensen	CN
+beach	CN
+fl	SA
+34957	ZC
+4611	ZA
+
+2867	HN
+oakleigh	SN
+ln	SS
+germantown	CN
+tn	SA
+38138	ZC
+7315	ZA
+
+7833	HN
+ne	SD
+san	SN
+rafael	SN
+drive	SS
+kansas	CN
+city	CN
+mo	SA
+64119	ZC
+4226	ZA
+
+113	HN
+woodbone	SN
+rd	SS
+westover	CN
+md	SA
+00000	UNKNOWN
+
+3607	HN
+anne	SN
+st	SS
+mchenry	CN
+il	SA
+60050	ZC
+5576	ZA
+
+1	HN
+forest	SN
+farm	SN
+ln	SS
+roxbury	CN
+ct	SA
+06783	ZC
+1018	ZA
+
+39	HN
+thistle	SN
+rd	SS
+norwalk	CN
+ct	SS
+06851	ZC
+1914	ZA
+
+rr	RR
+1	RV
+box	BT
+341a	BV
+bartlesville	CN
+ok	SA
+74003	ZC
+9533	ZA
+
+7614	HN
+eaglet	SN
+court	SS
+fort	CN
+myers	CN
+fl	SA
+33912	ZC
+1828	ZA
+
+3041	HN
+e	SD
+andrew	SN
+rd	SS
+sherman	CN
+il	SA
+62684	ZC
+8018	ZA
+
+1814	HN
+thornton	SN
+pl	SS
+birmingham	CN
+al	SA
+35226	ZC
+2731	ZA
+
+3440	HN
+fritz	SN
+cove	SN
+road	SS
+juneau	CN
+ak	SA
+99801	ZC
+8507	ZA
+
+13241	HN
+w	SD
+choctaw	SN
+trl	SS
+lockport	CN
+il	SA
+60441	ZC
+8663	ZA
+
+1202	HN
+meadow	SN
+green	HN
+ln	SS
+mclean	CN
+va	SA
+22102	ZC
+2411	ZA
+
+po	PO
+box	BT
+571	BV
+roseville	CN
+il	SA
+61473	ZC
+0571	ZA
+
+38	HN
+robinhood	SN
+rd	SS
+danbury	CN
+ct	SA
+06811	ZC
+2843	ZA
+
+199	HN
+e	SD
+greenwood	SN
+ave	SS
+jacksonville	CN
+il	SA
+62650	ZC
+3421	ZA
+
+rri	UNKNOWN
+box	BT
+1140	BV
+dushore	CN
+pa	SA
+18614	ZC
+0000	ZA
+
+1846	HN
+n	SD
+lincoln	SN
+park	SS
+w	SD
+chicago	CN
+il	SA
+60614	ZC
+5308	ZA
+
+43	HN
+e	SD
+155th	SN
+st	SS
+harvey	CN
+il	SA
+60426	ZC
+3633	ZA
+
+45	HN
+georgian	SN
+ct	SS
+east	CN
+hills	CN
+ny	SA
+11576	ZC
+2711	ZA
+
+3	HN
+colonial	SN
+acres	SS
+wyoming	CN
+pa	SA
+18644	ZC
+1326	ZA
+
+po	PO
+box	BT
+205	BV
+festus	CN
+mo	SA
+63028	ZC
+0205	ZA
+
+8638	HN
+east	SN
+thoroughbred	SN
+trail	SS
+scottsdale	CN
+az	SA
+85258	ZC
+1453	ZA
+
+311	HN
+10th	SN
+ave	SS
+e	SD
+northport	CN
+ny	SA
+11731	ZC
+1719	ZA
+
+914	HN
+perkins	SN
+ln	SS
+edgewater	CN
+pk	CN
+nj	SA
+08010	ZC
+1617	ZA
+
+502	HN
+w	SD
+10th	SN
+st	SS
+merrill	CN
+wi	SA
+54452	ZC
+3013	ZA
+
+6	HN
+park	SS
+ct	SS
+pottstown	CN
+pa	SA
+19464	ZC
+4941	ZA
+
+1029	HN
+welsh	SN
+ayres	SN
+way	SS
+downingtown	CN
+pa	SA
+19335	ZC
+4434	ZA
+
+101	HN
+black	SN
+bass	SN
+ln	SS
+e	SD
+media	CN
+pa	SA
+19063	ZC
+1170	ZA
+
+po	PO
+box	BT
+514	BV
+pinconning	CN
+mi	SA
+48650	ZC
+-0514	ZA
+
+5	HN
+pony	SN
+cir	SS
+roslyn	CN
+hts	CN
+ny	SA
+11577	ZC
+1958	ZA
+
+9	HN
+meadow	SN
+ave	SS
+stonington	CN
+ct	SA
+06378	ZC
+1126	ZA
+
+1354	HN
+bayview	SN
+dr	SS
+apt	UT
+h	UV
+ft	CN
+lauderdale	CN
+fl	SA
+33304	ZC
+-1636	ZA
+
+917	HN
+fairview	SN
+cir	SS
+radcliff	CN
+ky	SA
+40160	ZC
+2327	ZA
+
+the	UNKNOWN
+church	SN
+farm	SN
+school	UNKNOWN
+paoli	CN
+pa	SA
+19301	ZC
+
+775	HN
+park	SS
+ave	SS
+huntington	CN
+ny	SA
+11743	ZC
+3976	ZA
+
+90	SN
+davis	SN
+road	UNKNOWN
+westport	CN
+ma	SA
+02790	ZC
+3432	ZA
+
+15	HN
+davidge	SN
+rd	SS
+middletown	CN
+ny	SA
+10940	ZC
+4643	ZA
+
+8	HN
+assembly	SN
+ct	SS
+new	CN
+city	CN
+ny	SA
+10956	ZC
+6901	ZA
+
+2780	HN
+whisper	SN
+lakes	SN
+club	SN
+cir	SS
+c	UNKNOWN
+orlando	CN
+fl	SA
+32837	ZC
+7718	ZA
+
+79	HN
+winsor	SN
+place	SN
+glen	SN
+ridge	SS
+nj	CN
+07028	ZC
+2136	ZA
+
+po	PO
+box	BT
+26	BV
+falls	CN
+pa	SA
+18615	ZC
+0026	ZA
+
+13802	HN
+khilani	SN
+court	SS
+tampa	CN
+fl	SA
+33624	ZC
+6919	ZA
+
+1077	HN
+river	SN
+rd	SS
+ph	UT
+3n	UV
+edgewater	CN
+nj	SA
+07020	ZC
+1383	ZA
+
+2865	HN
+steeple	SN
+hill	SN
+road	SS
+white	CN
+lake	CN
+mi	SA
+48383	ZC
+1862	ZA
+
+4201	HN
+w	SD
+anderson	SN
+drive	SS
+glendale	CN
+az	SA
+85308	ZC
+4003	ZA
+
+52	HN
+hamlet	SN
+dr	SS
+hauppauge	CN
+ny	SA
+11788	ZC
+3342	ZA
+
+7023	HN
+trenholm	SN
+rd	SS
+boardman	CN
+oh	SA
+44512	ZC
+4739	ZA
+
+po	PO
+box	BT
+11	BV
+hanska	CN
+mn	SA
+56041	ZC
+0011	ZA
+
+521	HN
+n	SD
+huron	SN
+st	SS
+de	CN
+pere	CN
+wi	SA
+54115	ZC
+2801	ZA
+
+3764	HN
+radcliffe	SN
+blvd	SS
+decatur	CN
+ga	SA
+30034	ZC
+6061	ZA
+
+5365	HN
+parkside	SN
+trl	SS
+solon	CN
+oh	SA
+44139	ZC
+1161	ZA
+
+47	HN
+rustic	SN
+gate	SN
+ln	SS
+dix	CN
+hills	CN
+ny	SA
+11746	ZC
+6137	ZA
+
+1	HN
+steven	SN
+dr	SS
+hewlett	CN
+ny	SA
+11557	ZC
+1008	ZA
+
+3434	HN
+stonehenge	SN
+sq	SS
+roanoke	CN
+va	SA
+24018	ZC
+5038	ZA
+
+1807	HN
+blake	SN
+dr	SS
+richardson	CN
+tx	SA
+75081	ZC
+2603	ZA
+
+7021	HN
+174th	SN
+st	SS
+flushing	CN
+ny	SA
+11365	ZC
+3412	ZA
+
+1008	HN
+n	SD
+hamilton	SN
+st	SS
+high	CN
+point	CN
+nc	SA
+27262	ZC
+3141	ZA
+
+6200	HN
+ely	SN
+vista	SN
+dr	SS
+parma	CN
+oh	SA
+44129	ZC
+6143	ZA
+
+po	PO
+box	BT
+363	BV
+williston	CN
+pk	CN
+ny	SA
+11596	ZC
+0363	ZA
+
+8320	HN
+98th	SN
+st	SS
+woodhaven	CN
+ny	SA
+11421	ZC
+1602	ZA
+
+3564	HN
+e	SD
+lake	SN
+drv	SS
+bay	CN
+village	CN
+oh	SA
+34639	ZC
+
+625	HN
+cranstone	SN
+ln	SS
+blue	CN
+bell	CN
+pa	SA
+19422	ZC
+2911	ZA
+
+306	HN
+randolph	SN
+st	SS
+charlestown	CN
+in	SA
+47111	ZC
+1940	ZA
+
+po	PO
+box	BT
+22	BV
+medina	CN
+wa	SA
+98039	ZC
+
+280	HN
+wyckoff	SN
+ave	SS
+brooklyn	CN
+ny	SA
+11237	ZC
+5813	ZA
+
+rr	RR
+3	RV
+box	BT
+60a	BV
+meshoppen	CN
+pa	SA
+18630	ZC
+9217	ZA
+
+box	BT
+124	BV
+knox	CN
+tn	SA
+99999	ZC
+
+2600	HN
+bahia	SN
+vista	SN
+street	SS
+rogers	CN
+city	CN
+mi	SA
+49779	ZC
+
+7010	HN
+ocean	SN
+breeze	SN
+davenport	CN
+sc	SA
+29928	ZC
+
+72	HN
+otterbein	SN
+drive	SS
+lexington	CN
+oh	SA
+44904	ZC
+9700	ZA
+
+840	HN
+cates	SN
+road	SS
+paris	CN
+tn	SA
+38242	ZC
+8550	ZA
+
+1693	HN
+mcknight	SN
+ln	SS
+maplewood	CN
+mn	SA
+55109	ZC
+4857	ZA
+
+115	HN
+e	SD
+allison	SN
+ave	SS
+nanuet	CN
+ny	SA
+10954	ZC
+3440	ZA
+
+796	HN
+sacco	SN
+place	SS
+n	SD
+bellmore	CN
+ny	SA
+11710	ZC
+1327	ZA
+
+1324	HN
+meadowbrook	SN
+dr	SS
+ponca	CN
+city	CN
+ok	SA
+74604	ZC
+4117	ZA
+
+4424	HN
+santa	SN
+fe	SN
+ln	SS
+mckinney	CN
+tx	SA
+75070	ZC
+4472	ZA
+
+1600	HN
+n	SD
+collins	SN
+blvd	SS
+suite	UT
+2	UV
+richardson	CN
+tx	SA
+75080	ZC
+3591	ZA
+
+2336	HN
+state	SN
+route	SS
+131	UV
+hillsboro	CN
+oh	SA
+45133	ZC
+7558	ZA
+
+2139	HN
+thornapple	SN
+drv	SS
+toledo	CN
+oh	SA
+43614	ZC
+3032	ZA
+
+259	HN
+preston	SN
+ave	SS
+shreveport	CN
+la	SA
+71105	ZC
+3330	ZA
+
+35	HN
+hereford	SN
+dr	SS
+princeton	CN
+jct	CN
+nj	SA
+08550	ZC
+1507	ZA
+
+2190	HN
+christian	SN
+st	SS
+baton	CN
+rouge	CN
+la	SA
+70808	ZC
+2186	ZA
+
+255	HN
+n	SD
+charlotte	SN
+st	SS
+lombard	CN
+il	SA
+60148	ZC
+2035	ZA
+
+15	HN
+arcadia	SN
+drive	SS
+dix	CN
+hills	CN
+ny	SA
+11746	ZC
+6904	ZA
+
+604	HN
+clayton	SN
+ave	SS
+lehigh	CN
+acres	CN
+fl	SA
+33936	ZC
+3905	ZA
+
+250	HN
+rosery	SN
+road	SS
+n	SD
+w	SD
+apt	UT
+5	UV
+largo	CN
+fl	SA
+33770	ZC
+
+48	HN
+3rd	SN
+st	SS
+camden	CN
+ny	SA
+13316	ZC
+1132	ZA
+
+140	HN
+s	SD
+middle	SN
+neck	SN
+rd	SS
+great	CN
+neck	CN
+ny	SA
+11021	ZC
+3735	ZA
+
+9629	HN
+egret	SN
+ln	SS
+chesterfield	CN
+va	SA
+23838	ZC
+8949	ZA
+
+11760	HN
+briarwood	SN
+dr	SS
+chesterland	CN
+oh	SA
+44026	ZC
+1816	ZA
+
+108	HN
+birkdale	SN
+ct	SS
+yorktown	CN
+va	SA
+23693	ZC
+5520	ZA
+
+454	HN
+s	SD
+main	SN
+st	SS
+freeport	CN
+ny	SA
+11520	ZC
+5135	ZA
+
+6901	HN
+vista	SN
+willow	SN
+dr	SS
+dallas	CN
+tx	SA
+75248	ZC
+2953	ZA
+
+3608	HN
+burly	SN
+ave	SS
+orange	CN
+ca	SA
+92869	ZC
+3809	ZA
+
+194	HN
+broadway	SN
+n	SD
+attleboro	CN
+ma	SA
+02760	ZC
+1522	ZA
+
+5077	HN
+meadow	SN
+brook	SN
+road	SS
+birmingham	CN
+al	SA
+35242	ZC
+3138	ZA
+
+7262	HN
+e	SD
+firelands	SN
+dr	SS
+hudson	CN
+oh	SA
+44236	ZC
+2449	ZA
+
+
+258	HN
+juniper	SN
+st	SS
+park	CN
+forest	CN
+il	SA
+60466	ZC
+1725	ZA
+
+1721	HN
+w	SD
+elfindale	SN
+st	SS
+suite	UT
+20	UV
+springfield	CN
+mo	SA
+65807	ZC
+1295	ZA
+
+2378	HN
+woodlake	SN
+dr	SS
+suite-200	UV
+okemos	CN
+mi	SA
+48864	ZC
+6013	ZA
+
+333	HN
+e	SD
+53rd	SN
+st	SS
+apt	UT
+6h	UV
+new	CN
+york	CN
+ny	SA
+10022	ZC
+4913	ZA
+
+15	HN
+e	SD
+marseille	SN
+drive	SS
+placentia	CN
+ca	SA
+92870	ZC
+
+1	HN
+navaho	SN
+way	SS
+middletown	CN
+nj	SA
+07748	ZC
+3710	ZA
+
+52	HN
+old	SN
+granary	SN
+court	SS
+catonsville	CN
+md	SA
+21228	ZC
+5366	ZA
+
+167	HN
+nippon	SN
+ave	SS
+staten	CN
+island	CN
+ny	SA
+10312	ZC
+2764	ZA
+
+4	HN
+gateway	SN
+ctr	SS
+1700	UV
+pittsburgh	CN
+pa	SA
+15222	ZC
+1220	ZA
+
+14220	HN
+sw	SD
+79th	SN
+ave	SS
+miami	CN
+fl	SA
+33158	ZC
+1509	ZA
+
+23	HN
+lambeth	SN
+st	SS
+holbrook	CN
+ny	SA
+11741	ZC
+5503	ZA
+
+4522	HN
+paseo	SN
+de	SN
+las	SN
+torrance	CN
+ca	SA
+90505	ZC
+
+6880	HN
+goodrich	SN
+rd	SS
+clarence	CN
+ctr	CN
+ny	SA
+14032	ZC
+9622	ZA
+
+po	PO
+box	BT
+220	BV
+wagner	CN
+sd	SA
+57380	ZC
+0220	ZA
+
+916	HN
+iroquois	SN
+dr	SS
+se	SD
+grand	CN
+rapids	CN
+mi	SA
+49506	ZC
+3342	ZA
+
+c/o	CO
+joseph	ON
+c	ON
+reiff	ON
+po	PO
+box	BT
+430	BV
+cascade	CN
+ia	SA
+52033	ZC
+0430	ZA
+
+131	SN
+w	SD
+21st	SN
+st	SS
+buena	CN
+vista	CN
+va	SA
+24416	ZC
+3145	ZA
+
+c/o	CO
+patrick	ON
+dugan,ptnr	ON
+3021	HN
+slidell	CN
+la	SA
+70458	ZC
+4245	ZA
+
+175	HN
+rockfort	SN
+ct	SS
+college	CN
+park	CN
+ga	SA
+30349	ZC
+4472	ZA
+
+1725	HN
+walnut	SN
+strtte	SS
+lansdale	CN
+pa	SA
+19446	ZC
+1136	ZA
+
+54upper	HN
+rainbow	SN
+trail	SS
+denville	CN
+nj	SA
+07834	ZC
+
+18	HN
+grove	SN
+rd	SS
+north	CN
+haven	CN
+ct	SA
+06473	ZC
+2418	ZA
+
+5253	HN
+ligurian	SN
+ct	SS
+san	CN
+jose	CN
+ca	SA
+95138	ZC
+2321	ZA
+
+64	HN
+ne	SD
+acacia	SN
+trail	SS
+jensen	CN
+beach	CN
+fl	SA
+34957	ZC
+4611	ZA
+
+2867	HN
+oakleigh	SN
+ln	SS
+germantown	CN
+tn	SA
+38138	ZC
+7315	ZA
+
+7833	HN
+ne	SD
+san	SN
+rafael	SN
+drive	SS
+kansas	CN
+city	CN
+mo	SA
+64119	ZC
+4226	ZA
+
+113	HN
+woodbone	SN
+rd	SS
+westover	CN
+md	SA
+00000	UNKNOWN
+
+3607	HN
+anne	SN
+st	SS
+mchenry	CN
+il	SA
+60050	ZC
+5576	ZA
+
+1	HN
+forest	SN
+farm	SN
+ln	SS
+roxbury	CN
+ct	SA
+06783	ZC
+1018	ZA
+
+39	HN
+thistle	SN
+rd	SS
+norwalk	CN
+ct	SS
+06851	ZC
+1914	ZA
+
+rr	RR
+1	RV
+box	BT
+341a	BV
+bartlesville	CN
+ok	SA
+74003	ZC
+9533	ZA
+
+7614	HN
+eaglet	SN
+court	SS
+fort	CN
+myers	CN
+fl	SA
+33912	ZC
+1828	ZA
+
+3041	HN
+e	SD
+andrew	SN
+rd	SS
+sherman	CN
+il	SA
+62684	ZC
+8018	ZA
+
+1814	HN
+thornton	SN
+pl	SS
+birmingham	CN
+al	SA
+35226	ZC
+2731	ZA
+
+3440	HN
+fritz	SN
+cove	SN
+road	SS
+juneau	CN
+ak	SA
+99801	ZC
+8507	ZA
+
+13241	HN
+w	SD
+choctaw	SN
+trl	SS
+lockport	CN
+il	SA
+60441	ZC
+8663	ZA
+
+1202	HN
+meadow	SN
+green	HN
+ln	SS
+mclean	CN
+va	SA
+22102	ZC
+2411	ZA
+
+po	PO
+box	BT
+571	BV
+roseville	CN
+il	SA
+61473	ZC
+0571	ZA
+
+38	HN
+robinhood	SN
+rd	SS
+danbury	CN
+ct	SA
+06811	ZC
+2843	ZA
+
+199	HN
+e	SD
+greenwood	SN
+ave	SS
+jacksonville	CN
+il	SA
+62650	ZC
+3421	ZA
+
+rri	UNKNOWN
+box	BT
+1140	BV
+dushore	CN
+pa	SA
+18614	ZC
+0000	ZA
+
+1846	HN
+n	SD
+lincoln	SN
+park	SS
+w	SD
+chicago	CN
+il	SA
+60614	ZC
+5308	ZA
+
+43	HN
+e	SD
+155th	SN
+st	SS
+harvey	CN
+il	SA
+60426	ZC
+3633	ZA
+
+45	HN
+georgian	SN
+ct	SS
+east	CN
+hills	CN
+ny	SA
+11576	ZC
+2711	ZA
+
+3	HN
+colonial	SN
+acres	SS
+wyoming	CN
+pa	SA
+18644	ZC
+1326	ZA
+
+po	PO
+box	BT
+205	BV
+festus	CN
+mo	SA
+63028	ZC
+0205	ZA
+
+8638	HN
+east	SN
+thoroughbred	SN
+trail	SS
+scottsdale	CN
+az	SA
+85258	ZC
+1453	ZA
+
+311	HN
+10th	SN
+ave	SS
+e	SD
+northport	CN
+ny	SA
+11731	ZC
+1719	ZA
+
+914	HN
+perkins	SN
+ln	SS
+edgewater	CN
+pk	CN
+nj	SA
+08010	ZC
+1617	ZA
+
+502	HN
+w	SD
+10th	SN
+st	SS
+merrill	CN
+wi	SA
+54452	ZC
+3013	ZA
+
+6	HN
+park	SN
+ct	SS
+pottstown	CN
+pa	SA
+19464	ZC
+4941	ZA
+
+1029	HN
+welsh	SN
+ayres	SN
+way	SS
+downingtown	CN
+pa	SA
+19335	ZC
+4434	ZA
+
+101	HN
+black	SN
+bass	SN
+ln	SS
+e	SD
+media	CN
+pa	SA
+19063	ZC
+1170	ZA
+
+po	PO
+box	BT
+514	BV
+pinconning	CN
+mi	SA
+48650	ZC
+-0514	ZA
+
+5	HN
+pony	SN
+cir	SS
+roslyn	CN
+hts	CN
+ny	SA
+11577	ZC
+1958	ZA
+
+9	HN
+meadow	SN
+ave	SS
+stonington	CN
+ct	SA
+06378	ZC
+1126	ZA
+
+1354	HN
+bayview	SN
+dr	SS
+apt	UT
+h	UV
+ft	CN
+lauderdale	CN
+fl	SA
+33304	ZC
+-1636	ZA
+
+917	HN
+fairview	SN
+cir	SS
+radcliff	CN
+ky	SA
+40160	ZC
+2327	ZA
+
+the	UNKNOWN
+church	SN
+farm	SN
+school	UNKNOWN
+paoli	CN
+pa	SA
+19301	ZC
+
+775	HN
+park	SS
+ave	SS
+huntington	CN
+ny	SA
+11743	ZC
+3976	ZA
+
+90	SN
+davis	SN
+road	UNKNOWN
+westport	CN
+ma	SA
+02790	ZC
+3432	ZA
+
+15	HN
+davidge	SN
+rd	SS
+middletown	CN
+ny	SA
+10940	ZC
+4643	ZA
+
+8	HN
+assembly	SN
+ct	SS
+new	CN
+city	CN
+ny	SA
+10956	ZC
+6901	ZA
+
+2780	HN
+whisper	SN
+lakes	SN
+club	SN
+cir	SS
+c	UNKNOWN
+orlando	CN
+fl	SA
+32837	ZC
+7718	ZA
+
+79	HN
+winsor	SN
+place	SN
+glen	SN
+ridge	SS
+nj	CN
+07028	ZC
+2136	ZA
+
+po	PO
+box	BT
+26	BV
+falls	CN
+pa	SA
+18615	ZC
+0026	ZA
+
+13802	HN
+khilani	SN
+court	SS
+tampa	CN
+fl	SA
+33624	ZC
+6919	ZA
+
+1077	HN
+river	SN
+rd	SS
+ph	UT
+3n	UV
+edgewater	CN
+nj	SA
+07020	ZC
+1383	ZA
+
+2865	HN
+steeple	SN
+hill	SN
+road	SS
+white	CN
+lake	CN
+mi	SA
+48383	ZC
+1862	ZA
+
+4201	HN
+w	SD
+anderson	SN
+drive	SS
+glendale	CN
+az	SA
+85308	ZC
+4003	ZA
+
+52	HN
+hamlet	SN
+dr	SS
+hauppauge	CN
+ny	SA
+11788	ZC
+3342	ZA
+
+7023	HN
+trenholm	SN
+rd	SS
+boardman	CN
+oh	SA
+44512	ZC
+4739	ZA
+
+po	PO
+box	BT
+11	BV
+hanska	CN
+mn	SA
+56041	ZC
+0011	ZA
+
+521	HN
+n	SD
+huron	SN
+st	SS
+de	CN
+pere	CN
+wi	SA
+54115	ZC
+2801	ZA
+
+3764	HN
+radcliffe	SN
+blvd	SS
+decatur	CN
+ga	SA
+30034	ZC
+6061	ZA
+
+5365	HN
+parkside	SN
+trl	SS
+solon	CN
+oh	SA
+44139	ZC
+1161	ZA
+
+47	HN
+rustic	SN
+gate	SN
+ln	SS
+dix	CN
+hills	CN
+ny	SA
+11746	ZC
+6137	ZA
+
+1	HN
+steven	SN
+dr	SS
+hewlett	CN
+ny	SA
+11557	ZC
+1008	ZA
+
+3434	HN
+stonehenge	SN
+sq	SS
+roanoke	CN
+va	SA
+24018	ZC
+5038	ZA
+
+1807	HN
+blake	SN
+dr	SS
+richardson	CN
+tx	SA
+75081	ZC
+2603	ZA
+
+7021	HN
+174th	SN
+st	SS
+flushing	CN
+ny	SA
+11365	ZC
+3412	ZA
+
+1008	HN
+n	SD
+hamilton	SN
+st	SS
+high	CN
+point	CN
+nc	SA
+27262	ZC
+3141	ZA
+
+6200	HN
+ely	SN
+vista	SN
+dr	SS
+parma	CN
+oh	SA
+44129	ZC
+6143	ZA
+
+po	PO
+box	BT
+363	BV
+williston	CN
+pk	CN
+ny	SA
+11596	ZC
+0363	ZA
+
+8320	HN
+98th	SN
+st	SS
+woodhaven	CN
+ny	SA
+11421	ZC
+1602	ZA
+
+3564	HN
+e	SD
+lake	SN
+drv	SS
+bay	CN
+village	CN
+oh	SA
+34639	ZC
+
+625	HN
+cranstone	SN
+ln	SS
+blue	CN
+bell	CN
+pa	SA
+19422	ZC
+2911	ZA
+
+306	HN
+randolph	SN
+st	SS
+charlestown	CN
+in	SA
+47111	ZC
+1940	ZA
+
+po	PO
+box	BT
+22	BV
+medina	CN
+wa	SA
+98039	ZC
+
+280	HN
+wyckoff	SN
+ave	SS
+brooklyn	CN
+ny	SA
+11237	ZC
+5813	ZA
+
+rr	RR
+3	RV
+box	BT
+60a	BV
+meshoppen	CN
+pa	SA
+18630	ZC
+9217	ZA
+
+box	BT
+124	BV
+knox	CN
+tn	SA
+99999	ZC
+
+2600	HN
+bahia	SN
+vista	SN
+street	SS
+rogers	CN
+city	CN
+mi	SA
+49779	ZC
+
+7010	HN
+ocean	SN
+breeze	SN
+davenport	CN
+sc	SA
+29928	ZC
+
+72	HN
+otterbein	SN
+drive	SS
+lexington	CN
+oh	SA
+44904	ZC
+9700	ZA
+
+840	HN
+cates	SN
+road	SS
+paris	CN
+tn	SA
+38242	ZC
+8550	ZA
+
+1693	HN
+mcknight	SN
+ln	SS
+maplewood	CN
+mn	SA
+55109	ZC
+4857	ZA
+
+115	HN
+e	SD
+allison	SN
+ave	SS
+nanuet	CN
+ny	SA
+10954	ZC
+3440	ZA
+
+796	HN
+sacco	SN
+place	SS
+n	SD
+bellmore	CN
+ny	SA
+11710	ZC
+1327	ZA
+
+1324	HN
+meadowbrook	SN
+dr	SS
+ponca	CN
+city	CN
+ok	SA
+74604	ZC
+4117	ZA
+
+4424	HN
+santa	SN
+fe	SN
+ln	SS
+mckinney	CN
+tx	SA
+75070	ZC
+4472	ZA
+
+1600	HN
+n	SD
+collins	SN
+blvd	SS
+suite	UT
+2	UV
+richardson	CN
+tx	SA
+75080	ZC
+3591	ZA
+
+2336	HN
+state	SN
+route	SS
+131	UV
+hillsboro	CN
+oh	SA
+45133	ZC
+7558	ZA
+
+2139	HN
+thornapple	SN
+drv	SS
+toledo	CN
+oh	SA
+43614	ZC
+3032	ZA
+
+259	HN
+preston	SN
+ave	SS
+shreveport	CN
+la	SA
+71105	ZC
+3330	ZA
+
+35	HN
+hereford	SN
+dr	SS
+princeton	CN
+jct	CN
+nj	SA
+08550	ZC
+1507	ZA
+
+2190	HN
+christian	SN
+st	SS
+baton	CN
+rouge	CN
+la	SA
+70808	ZC
+2186	ZA
+
+255	HN
+n	SD
+charlotte	SN
+st	SS
+lombard	CN
+il	SA
+60148	ZC
+2035	ZA
+
+15	HN
+arcadia	SN
+drive	SS
+dix	CN
+hills	CN
+ny	SA
+11746	ZC
+6904	ZA
+
+604	HN
+clayton	SN
+ave	SS
+lehigh	CN
+acres	CN
+fl	SA
+33936	ZC
+3905	ZA
+
+250	HN
+rosery	SN
+road	SS
+n	SD
+w	SD
+apt	UT
+5	UV
+largo	CN
+fl	SA
+33770	ZC
+
+48	HN
+3rd	SN
+st	SS
+camden	CN
+ny	SA
+13316	ZC
+1132	ZA
+
+140	HN
+s	SD
+middle	SN
+neck	SN
+rd	SS
+great	CN
+neck	CN
+ny	SA
+11021	ZC
+3735	ZA
+
+9629	HN
+egret	SN
+ln	SS
+chesterfield	CN
+va	SA
+23838	ZC
+8949	ZA
+
+11760	HN
+briarwood	SN
+dr	SS
+chesterland	CN
+oh	SA
+44026	ZC
+1816	ZA
+
+108	HN
+birkdale	SN
+ct	SS
+yorktown	CN
+va	SA
+23693	ZC
+5520	ZA
+
+454	HN
+s	SD
+main	SN
+st	SS
+freeport	CN
+ny	SA
+11520	ZC
+5135	ZA
+
+6901	HN
+vista	SN
+willow	SN
+dr	SS
+dallas	CN
+tx	SA
+75248	ZC
+2953	ZA
+
+3608	HN
+burly	SN
+ave	SS
+orange	CN
+ca	SA
+92869	ZC
+3809	ZA
+
+194	HN
+broadway	SN
+n	SD
+attleboro	CN
+ma	SA
+02760	ZC
+1522	ZA
+
+5077	HN
+meadow	SN
+brook	SN
+road	SS
+birmingham	CN
+al	SA
+35242	ZC
+3138	ZA
+
+7262	HN
+e	SD
+firelands	SN
+dr	SS
+hudson	CN
+oh	SA
+44236	ZC
+2449	ZA
+
+253	HN
+mercer	SN
+ave	SS
+bellmawr	CN
+nj	SA
+08031	ZC
+1614	ZA
+
+902	HN
+via	SN
+de	SN
+angeles	SN
+shawnee	CN
+mission	CN
+ks	SA
+66200	ZC
+
+po	PO
+box	BT
+5	BV
+waucoma	CN
+ia	SA
+52171	ZC
+0005	ZA
+
+94	HN
+nancy	SN
+st	SS
+west	CN
+babylon	CN
+ny	SA
+11704	ZC
+-1404	ZA
+
+8907	HN
+chantel	SN
+ct	SS
+ellicott	CN
+city	CN
+md	SA
+21043	ZC
+1904	ZA
+
+po	PO
+box	BT
+390	BV
+pentwater	CN
+mi	SA
+49449	ZC
+0390	ZA
+
+3	HN
+post	SN
+rd	SS
+rumson	CN
+nj	SA
+07760	ZC
+1023	ZA
+
+rr	RR
+2	RV
+box	BT
+176b	BV
+omaha	CN
+tx	SA
+75571	ZC
+9633	ZA
+
+11	HN
+cobblestone	SN
+way	SS
+freehold	CN
+nj	SA
+07728	ZC
+7754	ZA
+
+2736	HN
+beaver	SN
+turn	SN
+northport	CN
+ny	SA
+11768	ZC
+
+8	HN
+assembly	SN
+court	SS
+new	CN
+city	CN
+ny	SA
+10956	ZC
+6901	ZA
+
+26802	HN
+w	SD
+108th	SN
+st	SS
+olathe	CN
+ks	SA
+66061	ZC
+7470	ZA
+
+111	HN
+s	SD
+calvert	SN
+st	SS
+baltimore	CN
+md	SA
+21202	ZC
+6174	ZA
+
+128	HN
+newman	SN
+rd	SS
+lewisburg	CN
+pa	SA
+17837	ZC
+9305	ZA
+
+2	HN
+guilles	SN
+ln	SS
+woodbury	CN
+ny	SA
+11797	ZC
+2301	ZA
+
+17554	HN
+w	SD
+112th	SN
+st	SS
+olathe	CN
+ks	SA
+66061	ZC
+9392	ZA
+
+623	HN
+s	SD
+walnut	SN
+st	SS
+sapulpa	CN
+ok	SA
+74066	ZC
+5340	ZA
+
+p.o.	PO
+box	BT
+532	BV
+new	CN
+milford	CN
+ct	SS
+06776	ZC
+0532	ZA
+
+925	HN
+center	SN
+church	SN
+rd	SS
+new	CN
+castle	CN
+pa	SA
+16101	ZC
+6309	ZA
+
+9373	HN
+sherwood	SN
+trl	SS
+brecksville	CN
+oh	SA
+44141	ZC
+2770	ZA
+
+301	HN
+commerce	SN
+st	SS
+fort	CN
+worth	CN
+tx	SA
+76102	ZC
+4140	ZA
+
+2422	HN
+e	SD
+whitton	SN
+ave	SS
+phoenix	CN
+az	SA
+85016	ZC
+7420	ZA
+
+7799	HN
+glenn	SN
+allen	SN
+drive	SS
+sagamore	CN
+hls	CN
+oh	SA
+44067	ZC
+2929	ZA
+
+155	HN
+w	SD
+23rd	SN
+st	SS
+apt	UT
+7	UV
+4th	FV
+floor	FV
+new	CN
+york	CN
+ny	SA
+10011	ZC
+2426	ZA
+
+981	HN
+central	SN
+church	SN
+road	SS
+dover	CN
+de	SA
+19904	ZC
+4758	ZA
+
+315	HN
+beech	SN
+ln	SS
+west	CN
+chester	CN
+pa	SA
+19382	ZC
+8496	ZA
+
+94-1161	HN
+moolelo	SN
+street	SN
+waipahu	CN
+hi	SA
+96797	ZC
+4128	ZA
+
+apt19c	HN
+nyc	CN
+ny	SA
+10001	ZC
+
+254	HN
+n	SD
+walker	SN
+road	SS
+wilmington	CN
+oh	SA
+45177	ZC
+9404	ZA
+
+928	HN
+golf	SN
+house	SN
+stoney	CN
+creek	CN
+nc	SA
+27377	ZC
+
+1121	HN
+windy	SN
+meadows	SN
+drive	SS
+burleson	CN
+tx	SA
+76028	ZC
+-2570	ZA
+
+211	HN
+la	SN
+mesa	SN
+dr	SS
+portola	CN
+vally	CN
+ca	SA
+94028	ZC
+7511	ZA
+
+4885	HN
+s	SD
+900	SN
+e	SN
+ste	SS
+106	UV
+salt	CN
+lake	CN
+cty	CN
+ut	SA
+84117	ZC
+3904	ZA
+
+6147	HN
+nw	SD
+31st	SN
+ave	SS
+boca	CN
+raton	CN
+fl	SA
+33496	ZC
+3375	ZA
+
+2353	HN
+rainbow	SN
+dr	SS
+mosinee	CN
+wi	SA
+54455	ZC
+9017	ZA
+
+3948	HN
+johnson	SN
+st	SS
+high	CN
+point	CN
+nc	SA
+27265	ZC
+9178	ZA
+
+n846	HN
+pond	SN
+rd	SS
+marinette	CN
+wi	SA
+54143	ZC
+9543	ZA
+
+318	HN
+carroll	SN
+ave	SS
+mamaroneck	CN
+ny	SA
+10543	ZC
+2804	ZA
+
+po	PO
+box	BT
+1927	BV
+bayonne	CN
+nj	SA
+07002	ZC
+6927	ZA
+
+rr	RR
+1	RV
+box	BT
+197	BV
+noxen	CN
+pa	SA
+18636	ZC
+9773	ZA
+
+2453	HN
+remsen	SN
+road	SS
+medina	CN
+oh	SA
+44256	ZC
+9283	ZA
+
+11786	HN
+s	SD
+77th	SN
+east	SN
+ave	SS
+bixby	CN
+ok	SA
+74008	ZC
+2026	ZA
+
+12880	HN
+se	SD
+93rd	SN
+circle	SN
+dieterich	CN
+il	SA
+34491	ZC
+
+23	HN
+northwood	SN
+cir	SS
+huntington	CN
+ny	SA
+11743	ZC
+1339	ZA
+
+5	HN
+beaver	SN
+dam	SN
+road	SS
+pomona	CN
+ny	SA
+10970	ZC
+-3202	ZA
+
+4951	HN
+n	SD
+sedgewick	SN
+rd	SS
+lyndhurst	CN
+oh	SA
+44124	ZC
+-1104	ZA
+
+148	HN
+mallard	SN
+drive	SS
+sayreville	CN
+nj	SA
+08872	ZC
+
+3142	HN
+central	SN
+st	SS
+evanston	CN
+il	SA
+60201	ZC
+1175	ZA
+
+po	PO
+box	BT
+one	BV
+taft	CN
+ok	SA
+74463	ZC
+0000	ZA
+
+113	HN
+dovie	SN
+court	SS
+danville	CN
+va	SA
+24541	ZC
+3352	ZA
+
+1015	HN
+shimer	SN
+ct	SS
+naperville	CN
+il	SA
+60565	ZC
+3454	ZA
+
+507	HN
+hemlock	SN
+rd	SS
+jeffersonvlle	CN
+in	SA
+47130	ZC
+5532	ZA
+
+315	HN
+riverside	SN
+drive	SS
+new	CN
+york	CN
+ny	SA
+10025	ZC
+4112	ZA
+
+2799	HN
+beatrice	SN
+ln	SS
+n	SD
+bellmore	CN
+ny	SA
+11710	ZC
+2012	ZA
+
+3019	HN
+eastern	SN
+blvd	SS
+baldwin	CN
+ny	SA
+11510	ZC
+4714	ZA
+
+4815	HN
+roma	SN
+ct	SS
+marina	CN
+dl	CN
+rey	CN
+ca	SA
+90292	ZC
+6793	ZA
+
+701	HN
+brickell	SN
+key	SN
+blvd	SS
+unit	CN
+5c	UV
+miami	CN
+fl	SA
+33131	ZC
+2674	ZA
+
+25167	HN
+u.s.	SN
+highway	SN
+51	SS
+du	CN
+quoin	CN
+il	SA
+62832	ZC
+
+429	HN
+jefferson	SN
+st	SS
+waterloo	CN
+wi	SA
+53594	ZC
+1419	ZA
+
+9512	HN
+243rd	SN
+st	SS
+floral	CN
+park	CN
+ny	SA
+11001	ZC
+3909	ZA
+
+31	SN
+autumnwood	SN
+drv	SS
+cheektowaga	CN
+ny	SA
+14227	ZC
+2602	ZA
+
+41700	HN
+main	SN
+road	SS
+peconic	CN
+ny	SA
+11958	ZC
+1506	ZA
+
+632	HN
+eastview	SN
+dr	SS
+antigo	CN
+wi	SA
+54409	ZC
+8709	ZA
+
+675	HN
+fox	SN
+river	SN
+dr	SS
+bloomfield	CN
+mi	SA
+48304	ZC
+1013	ZA
+
+94-1161	HN
+moolelo	SN
+st	SS
+waipahu	CN
+hi	SA
+96797	ZC
+4128	ZA
+
+7134	HN
+twin	SN
+oaks	SN
+dr	SS
+apt	UT
+e	UV
+indianapolis	CN
+in	SA
+46226	ZC
+5731	ZA
+
+1127	HN
+w	SD
+10th	SN
+st	SS
+lorain	CN
+oh	SA
+44052	ZC
+1512	ZA
+
+1455	HN
+eagle	SN
+highlands	SN
+dr	SS
+fairborn	CN
+oh	SA
+45324	ZC
+6238	ZA
+
+1133	HN
+sw	SD
+12th	SN
+rd	SS
+boca	CN
+raton	CN
+fl	SA
+33486	ZC
+5342	ZA
+
+212	HN
+pease	SN
+road	SS
+manalapan	CN
+nj	SA
+07726	ZC
+2623	ZA
+
+5888	HN
+fieldstone	SN
+drive	SS
+cazenovia	CN
+ny	SA
+13035	ZC
+9321	ZA
+
+1282	HN
+sabal	SN
+palm	SN
+dr	SS
+boca	CN
+raton	CN
+fl	SA
+33432	ZC
+7516	ZA
+
+14	HN
+magnolia	SN
+court	SS
+birch	CN
+southampton	CN
+nj	SA
+08088	ZC
+0000	ZA
+
+75	HN
+fletcher	SN
+ave	SS
+manasquan	CN
+nj	SA
+08736	ZC
+3133	ZA
+
+2143	HN
+basswood	SN
+dr	SS
+lafayette	SN
+hl	CN
+pa	SA
+19444	ZC
+2332	ZA
+
+523	HN
+antelope	CN
+trail	SN
+shelton	SN
+ct	SS
+06484	ZC
+2849	ZA
+
+rr	RR
+1	RV
+box	BT
+1140	BV
+dushore	CN
+pa	SA
+18614	ZC
+9360	ZA
+
+1245	HN
+south	SN
+flagler	SN
+ave	SS
+apt	UT
+301	UV
+pompano	CN
+beach	CN
+fl	SA
+33060	ZC
+8672	ZA
+
+18	HN
+patrick	SN
+dr	SS
+lagrangeville	CN
+ny	SA
+12540	ZC
+6211	ZA
+
+31	HN
+chassin	SN
+ave	SS
+amherst	CN
+ny	SA
+14226	ZC
+4204	ZA
+
+721	HN
+walnut	SN
+st	SS
+woodward	CN
+ok	SA
+73801	ZC
+4771	ZA
+
+3304	HN
+cedar	SN
+branch	SN
+circle	SN
+north	CN
+ridgefi	CN
+oh	SA
+44039	ZC
+
+326	HN
+sharon	SN
+rd	SS
+greenville	CN
+pa	SA
+16125	ZC
+8111	ZA
+
+w	SD
+hempstead	CN
+ny	SA
+11552	ZC
+
+1203	HN
+s	SD
+12th	SN
+st	SS
+rogers	CN
+ar	SA
+72756	ZC
+5109	ZA
+
+97	HN
+main	SN
+st	SS
+monroe	CN
+ct	SS
+06468	ZC
+1630	ZA
+
+4732	HN
+w	SD
+poinsettia	SN
+dr	SS
+glendale	CN
+az	SA
+85304	ZC
+2925	ZA
+
+502	HN
+w	SD
+10th	SN
+st	SS
+merrill	CN
+wi	SA
+54452	ZC
+3013	ZA
+
+6108	HN
+bishop	SN
+rd	SS
+lansing	CN
+mi	SA
+48911	ZC
+6204	ZA
+
+12813	HN
+ironwood	SN
+circle	SN
+do	UNKNOWN
+not	UNKNOWN
+call	UNKNOWN
+decatur	CN
+il	SA
+6252	ZC
+la	SA
+99999	ZC
+9999	ZA
+
+15603	HN
+moondust	SN
+dr	SS
+dallas	CN
+tx	SA
+75248	ZC
+5231	ZA
+
+3401	HN
+sterling	SN
+road	SS
+irving	CN
+tx	SA
+19067	ZC
+
+113	HN
+ashdown	SN
+ln	SS
+crossville	CN
+tn	SA
+38558	ZC
+8505	ZA
+
+3524	HN
+wharton	SN
+dr	SS
+fort	CN
+worth	CN
+tx	SA
+76133	ZC
+2121	ZA
+
+418	HN
+ray	SN
+ave	SS
+desoto	CN
+tx	SA
+75115	ZC
+3225	ZA
+
+266	HN
+benjamin	SN
+holt	SN
+drive	SS
+claremont	CN
+ca	SA
+91711	ZC
+
+1838	HN
+waldemere	SN
+street	SN
+ponca	CN
+city	CN
+ok	SA
+74604	ZC
+5119	ZA
+
+903	HN
+granger	SN
+drv	SS
+allen	CN
+tx	SA
+75013	ZC
+1103	ZA
+
+10717	HN
+george	SN
+archer	SN
+dr	SS
+el	CN
+paso	CN
+tx	SA
+79935	ZC
+2007	ZA
+
+350	HN
+thunderbird	SN
+dr	SS
+apartmentt	UT
+23	UV
+el	CN
+paso	CN
+tx	SA
+79912	ZC
+3841	ZA
+
+12	HN
+emerald	SN
+crest	SN
+way	SS
+el	CN
+paso	CN
+tx	SA
+79902	ZC
+1927	ZA
+
+912	HN
+w	SD
+iowa	SN
+ave	SS
+hobbs	CN
+nm	SA
+88242	ZC
+9634	ZA
+
+2400	HN
+devon	SN
+ave	SS
+loves	CN
+park	CN
+il	SA
+61111	ZC
+3224	ZA
+
+1126	HN
+ridgeley	SN
+drv	SS
+houston	CN
+tx	SA
+77055	ZC
+7513	ZA
+
+3110	HN
+saint	SN
+germain	SN
+dr	SS
+mckinney	CN
+tx	SA
+75070	ZC
+4726	ZA
+
+2726	HN
+whitewood	SN
+dr	SS
+dallas	CN
+tx	SA
+75233	ZC
+2714	ZA
+
+8016	HN
+bangor	SN
+drive	SS
+fort	CN
+worth	CN
+tx	SA
+76116	ZC
+6939	ZA
+
+6702	HN
+olympia	SN
+dr	SS
+pasadena	CN
+tx	SA
+77505	ZC
+3343	ZA
+
+7137	HN
+stonetrail	SN
+dr	SS
+dallas	CN
+tx	SA
+75230	ZC
+5402	ZA
+
+2517	HN
+old	SN
+dennis	SN
+rd	SS
+weatherford	CN
+tx	SA
+76087	ZC
+6894	ZA
+
+5508	HN
+linmore	SN
+ln	SS
+plano	CN
+tx	SA
+75093	ZC
+7619	ZA
+
+7108	HN
+falling	SN
+springs	SN
+rd	SS
+fort	CN
+worth	CN
+tx	SA
+76116	ZC
+9309	ZA
+
+2349	HN
+waterford	SN
+grace	SN
+new	CN
+braunfels	CN
+tx	SA
+78130	ZC
+9575	ZA
+
+1588	HN
+dwiggins	SN
+st	SS
+wilmington	CN
+oh	SA
+45177	ZC
+9524	ZA
+
+8701	HN
+s	SD
+kolb	SN
+rd	SS
+4216	UV
+tucson	CN
+az	SA
+85706	ZC
+9607	ZA
+
+535	HN
+e	SD
+orange	SN
+st	SS
+lancaster	CN
+pa	SA
+17602	ZC
+3033	ZA
+
+26	HN
+pershing	SN
+rd	SS
+queensbury	CN
+ny	SA
+12804	ZC
+2526	ZA
+
+po	PO
+box	BT
+21	BV
+elburn	CN
+il	SA
+60119	ZC
+0021	ZA
+
+320	HN
+s	SD
+cherry	SN
+st	SS
+crescent	CN
+ok	SA
+73028	ZC
+8942	ZA
+
+166	HN
+beaman	SN
+road	SS
+princeton	CN
+ma	SA
+01541	ZC
+1134	ZA
+
+1126	HN
+nw	SD
+57th	SN
+st	SS
+gainesville	CN
+fl	SA
+32605	ZC
+4494	ZA
+
+rr	RR
+1	RV
+knox	CN
+pa	SA
+16232	ZC
+9522	ZA
+
+rr	RR
+4	RV
+box	BT
+287c	BV
+blk	CN
+river	CN
+fls	CN
+wi	SA
+54615	ZC
+8950	ZA
+
+61	HN
+farrand	SN
+drive	SS
+parsippany	CN
+nj	SA
+07054	ZC
+2146	ZA
+
+3101	HN
+lorna	SN
+rd	SS
+apt	UT
+1014	UV
+birmingham	CN
+al	SA
+35216	ZC
+5437	ZA
+
+14602	HN
+daybreak	SN
+dr	SS
+lutz	CN
+fl	SA
+33549	ZC
+3247	ZA
+
+59	HN
+greenmeadow	SN
+ln	SS
+huntington	CN
+ny	SA
+11743	ZC
+5124	ZA
+
+6161	HN
+south	SD
+boston	SN
+cir	SS
+englewood	CN
+co	SA
+80111	ZC
+5242	ZA
+
+5935	HN
+grace	SN
+lee	SN
+ave	SS
+sykesville	CN
+md	SA
+21784	ZC
+8713	ZA
+
+105	HN
+n	SD
+washington	SN
+str	SS
+fulda	CN
+mn	SA
+56131	ZC
+9468	ZA
+
+271	HN
+poplar	SN
+st	SS
+wilkes	CN
+barre	CN
+pa	SA
+18702	ZC
+4544	ZA
+
+11515	HN
+county	SN
+road	SS
+nevada	CN
+tx	SA
+75173	ZC
+7150	ZA
+
+1014	HN
+sam	SN
+hill	SN
+st	SS
+irving	CN
+tx	SA
+75062	ZC
+3645	ZA
+
+2323	HN
+bright	SN
+meadows	SN
+dr	SS
+missouri	CN
+city	CN
+tx	SA
+77489	ZC
+5012	ZA
+
+7721	HN
+timber	SN
+top	SN
+dr	SS
+fair	SN
+oaks	CN
+tx	SA
+78015	ZC
+4570	ZA
+
+517	HN
+dogwood	SN
+ln	SS
+du	CN
+quoin	CN
+il	SA
+62832	ZC
+2629	ZA
+
+6216	HN
+junius	SN
+st	SS
+dallas	CN
+tx	SA
+75214	ZC
+4434	ZA
+
+6991	HN
+helsem	SN
+way	SS
+dallas	CN
+tx	SA
+75230	ZC
+1985	ZA
+
+po	PO
+box	BT
+187	BV
+franklin	CN
+tx	SA
+77856	ZC
+0187	ZA
+
+9747	HN
+eastridge	SN
+dr	SS
+el	CN
+paso	CN
+tx	SA
+79925	ZC
+6832	ZA
+
+27133	HN
+lana	SN
+ln	SS
+conroe	CN
+tx	SA
+77385	ZC
+8056	ZA
+
+5315	HN
+stormy	SN
+dawn	SN
+san	CN
+antonio	CN
+tx	SA
+78247	ZC
+1701	ZA
+
+82	HN
+pinewood	SN
+cir	SS
+danbury	CN
+ct	SS
+06810	ZC
+7605	ZA
+
+10333	HN
+garland	SN
+road	SS
+dallas	CN
+tx	SA
+75218	ZC
+2969	ZA
+
+257	HN
+edmondson	SN
+drive	SS
+coppell	CN
+tx	SA
+75019	ZC
+4535	ZA
+
+4618	HN
+chantilly	SN
+cir	SS
+houston	CN
+tx	SA
+77018	ZC
+3215	ZA
+
+308	HN
+lake	SN
+ter	SS
+rockwall	CN
+tx	SA
+75087	ZC
+3022	ZA
+
+875-b	HN
+enterprise	SN
+place	SN
+roanoke	CN
+tx	SA
+76262	ZC
+6811	ZA
+
+240	HN
+n	SD
+jones	SN
+blvd	SS
+suite	UT
+f	UV
+las	CN
+vegas	CN
+nv	SA
+89107	ZC
+1400	ZA
+
+108	HN
+hapsburg	SN
+ct	SS
+irving	CN
+tx	SA
+75062	ZC
+4507	ZA
+
+4825	HN
+everheart	SN
+rd	SS
+crp	CN
+christi	CN
+tx	SA
+78411	ZC
+2745	ZA
+
+p.o.	PO
+32365	SN
+amarillo	CN
+tx	SA
+79120	ZC
+2365	ZA
+
+9747	HN
+eastridge	SN
+dr	SS
+el	CN
+paso	CN
+tx	SA
+79925	ZC
+6832	ZA
+
+10600	HN
+vista	SN
+lomas	SN
+dr	SS
+el	CN
+paso	CN
+tx	SA
+79935	ZC
+3609	ZA
+
+633	HN
+saint	SN
+paul	SN
+dr	SS
+arlington	CN
+tx	SA
+76013	ZC
+1378	ZA
+
+520	HN
+e	SD
+central	SN
+pkwy	SS
+suite	UT
+112	UV
+plano	CN
+tx	SA
+75074	ZC
+5526	ZA
+
+2901	HN
+alton	SN
+rd	SS
+fort	CN
+worth	CN
+tx	SA
+76109	ZC
+1204	ZA
+
+4605	HN
+hampshire	SN
+dr	SS
+flower	SN
+mound	CN
+tx	SA
+75028	ZC
+3053	ZA
+
+4135	HN
+eastman	SN
+way	SS
+addison	CN
+tx	SA
+75001	ZC
+3539	ZA
+
+257	HN
+edmondson	SN
+dr	SS
+coppell	CN
+tx	SA
+75019	ZC
+4535	ZA
+
+309	HN
+mountain	SN
+view	SN
+ct	SS
+bedford	CN
+tx	SA
+76021	ZC
+4143	ZA
+
+6437	HN
+craig	SN
+raod	SS
+knoxville,	CN
+tn	SA
+37919	ZC
+
+2133	HN
+lattice	SN
+ct	SS
+plano	CN
+tx	SA
+75075	ZC
+3561	ZA
+
+1449	HN
+monte	SN
+negro	SN
+dr	SS
+el	CN
+paso	CN
+tx	SA
+79935	ZC
+3716	ZA
+
+16475	HN
+dallas	SN
+pkwy	SS
+addison	CN
+tx	SA
+75001	ZC
+6821	ZA
+
+311	HN
+scarlet	SN
+dr	SS
+mckinney	CN
+tx	SA
+75070	ZC
+5879	ZA
+
+1501	HN
+carolina	SN
+ct	SS
+friendswood	CN
+tx	SA
+77546	ZC
+4947	ZA
+
+311	HN
+scarlet	SN
+dr	SS
+mckinney	CN
+tx	SA
+75070	ZC
+5879	ZA
+
+32610	HN
+wedmore	SN
+pl	SS
+fulshear	CN
+tx	SA
+77441	ZC
+4230	ZA
+
+8634	HN
+pekin	SN
+rd	SS
+novelty	CN
+oh	SA
+44072	ZC
+9738	ZA
+
+rr	RR
+1	RV
+box	BT
+417-a	BV
+emporium	CN
+pa	SA
+15834	ZC
+9736	ZA
+
+8225	HN
+hart	SN
+ln	SS
+alton	CN
+il	SA
+62002	ZC
+7939	ZA
+
+rr	RR
+box	BT
+25a	BV
+crescent	CN
+ok	SA
+73028	ZC
+9614	ZA
+
+4701	HN
+willard	SN
+ave	SS
+apt	UT
+510	UV
+chevy	CN
+chase	CN
+md	SA
+20815	ZC
+4613	ZA
+
+1601	HN
+been	SN
+road	SS
+bentonville	CN
+ar	SA
+72712	ZC
+9142	ZA
+
+po	PO
+box	BT
+212	BV
+new	CN
+matamoras	CN
+oh	SA
+45767	ZC
+0212	ZA
+
+643	HN
+n	SD
+brys	SN
+drive	SS
+grosse	CN
+pointe	CN
+mi	SA
+48236	ZC
+1246	ZA
+
+548	HN
+hopmeadow	SN
+st	SS
+simsbury	CN
+ct	SS
+06070	ZC
+2415	ZA
+
+282	HN
+shasta	SN
+dr	SS
+pittsburgh	CN
+pa	SA
+15239	ZC
+2921	ZA
+
+204	HN
+s	SD
+quaker	SN
+ln	SS
+hyde	CN
+park	CN
+ny	SA
+12538	ZC
+2705	ZA
+
+922	HN
+cleveland	SN
+st	SS
+w	SD
+hempstead	CN
+ny	SA
+11552	ZC
+3635	ZA
+
+2283	HN
+san	CN
+marcos	SN
+dr	SS
+franklin	CN
+ma	SA
+02038	ZC
+
+14	HN
+harrows	SN
+lane	SS
+purchase	CN
+ny	SA
+10577	ZC
+1709	ZA
+
+4704	HN
+sandra	SN
+ln	SS
+fairfax	CN
+va	SA
+22030	ZC
+5409	ZA
+
+6747	HN
+ransome	SN
+drive	SS
+baltimore	CN
+md	SA
+21207	ZC
+5318	ZA
+
+2121	HN
+bay	SN
+front	SN
+ter	SS
+annapolis	CN
+md	SA
+21401	ZC
+5704	ZA
+
+628	HN
+nw	SD
+douglas	SN
+st	SS
+burleson	CN
+tx	SA
+76028	ZC
+2708	ZA
+
+3435	HN
+westheimer	SN
+road	SS
+apt	UT
+207	UV
+houston	CN
+tx	SA
+77027	ZC
+5347	ZA
+
+633	HN
+n	SD
+mount	SN
+antero	SN
+way	SS
+boulder	CN
+city	CN
+nv	SA
+99999	ZC
+9999	ZA
+
+8949	HN
+random	SN
+road	SS
+fort	CN
+worth	CN
+tx	SA
+76179	ZC
+2741	ZA
+
+2024	HN
+bosbury	SN
+dr	SS
+flower	SN
+mound	CN
+tx	SA
+75028	ZC
+7151	ZA
+
+rr	RR
+1	RV
+box	BT
+28a	BV
+rochelle	CN
+tx	SA
+76872	ZC
+9708	ZA
+
+10451	HN
+coppedge	SN
+ln	SS
+dallas	CN
+tx	SA
+75229	ZC
+5208	ZA
+
+1107	HN
+dove	SN
+brook	SN
+dr	SS
+allen	CN
+tx	SA
+75002	ZC
+2702	ZA
+
+2208	HN
+chrisman	SN
+trail	SN
+mansfield	CN
+tx	SA
+76063	ZC
+5135	ZA
+
+15	HN
+alder	SN
+gate	SN
+court	SS
+asheville	CN
+nc	SA
+20777	ZC
+0589	ZA
+
+2208	HN
+chrisman	SN
+trl	SS
+mansfield	CN
+tx	SA
+76063	ZC
+5135	ZA
+
+12731	HN
+retreat	SN
+trl	ZA
+
+633	HN
+saint	SN
+paul	SN
+drive	SS
+arlington	CN
+tx	SA
+76013	ZC
+1378	ZA
+
+23	HN
+n	SD
+goldenvine	SN
+cir	SS
+the	CN
+woodlands	CN
+tx	SA
+77382	ZC
+5303	ZA
+
+pmb	HN
+48	HN
+240	HN
+n	SD
+jones	SN
+blvd	SS
+s	SD
+las	CN
+vegas	CN
+nv	SA
+89107	ZC
+
+257	HN
+edmondson	SN
+dr	SS
+coppell	CN
+tx	SA
+75019	ZC
+4535	ZA
+
+7011	HN
+dogwood	SN
+creek	SN
+ln	SS
+dallas	CN
+tx	SA
+75252	ZC
+2772	ZA
+
+po	PO
+box	BT
+9128	BV
+el	CN
+paso	CN
+tx	SA
+79995	ZC
+9128	ZA
+
+6604	HN
+lancaster	SN
+dr	SS
+orange	CN
+tx	SA
+77632	ZC
+8933	ZA
+
+9201	HN
+turrentine	SN
+dr	SS
+el	CN
+paso	CN
+tx	SA
+79925	ZC
+5935	ZA
+
+3226	HN
+odessa	SN
+ave	SS
+fort	CN
+worth	CN
+tx	SA
+76109	ZC
+2218	ZA
+
+805	HN
+corey	SN
+creek	SN
+dr	SS
+el	CN
+paso	CN
+tx	SA
+79912	ZC
+3454	ZA
+
+616	HN
+alexander	SN
+road	SS
+alexander	CN
+nc	SA
+28701	ZC
+8761	ZA
+
+1910	HN
+surrey	SN
+oaks	SN
+ct	SS
+arlington	CN
+tx	SA
+76006	ZC
+5770	ZA
+
+510	HN
+daisy	SN
+rd	SS
+midlothian	CN
+tx	SA
+76065	ZC
+622	ZA
+
+5337	HN
+annabel	SN
+ln	SS
+plano	CN
+tx	SA
+75093	ZC
+3428	ZA
+
+4922	HN
+canberra	SN
+ln	SS
+arlington	CN
+tx	SA
+76017	ZC
+1050	ZA
+
+2014	HN
+misty	SN
+creek	SN
+dr	SS
+arlington	CN
+tx	SA
+76017	ZC
+2732	ZA
+
+2350	HN
+walden	SN
+place	SN
+ct	SS
+grand	CN
+prairie	CN
+tx	SA
+75052	ZC
+7822	ZA
+
+7018	HN
+wildgrove	SN
+ave	SS
+dallas	CN
+tx	SA
+75214	ZC
+3838	ZA
+
+2910	HN
+holly	SN
+hall	SN
+st	SS
+houston	CN
+tx	SA
+77054	ZC
+4160	ZA
+
+5508	HN
+linmore	SN
+lane	SS
+plano	CN
+tx	SA
+75093	ZC
+7619	ZA
+
+4044	HN
+sperry	SN
+st	SS
+dallas	CN
+tx	SA
+75214	ZC
+2740	ZA
+
+6315	HN
+rippling	SN
+hollow	SN
+dr	SS
+spring	CN
+tx	SA
+77379	ZC
+4278	ZA
+
+4220	HN
+belle	SN
+park	SN
+dr	SS
+baton	CN
+rouge	CN
+la	SA
+77072	ZC
+
+3115	HN
+knobdale	SN
+rd	SS
+nashville	CN
+tn	SA
+37214	ZC
+1805	ZA
+
+po	PO
+box	BT
+156	BV
+huntingburg	CN
+in	SA
+47542	ZC
+0156	ZA
+
+515	HN
+haring	SN
+rd	SS
+metairie	CN
+la	SA
+70001	ZC
+4309	ZA
+
+1802	HN
+tulane	SN
+ave	SS
+new	CN
+orleans	CN
+la	SA
+70112	ZC
+2246	ZA
+
+4549	HN
+e	SD
+dearing	SN
+rd	SS
+memphis	CN
+tn	SA
+38117	ZC
+6508	ZA
+
+460	HN
+south	SD
+main	SN
+street	SN
+53	HN
+greencastle	CN
+pa	SA
+17255	ZC
+
+216	HN
+kings	SN
+bridge	SN
+road	SS
+nesconset	CN
+ny	SA
+11767	ZC
+1803	ZA
+
+hc	HN
+30	PO
+box	BT
+20	BV
+pelsor	CN
+ar	SA
+72856	ZC
+9603	ZA
+
+3111	HN
+river	SN
+oaks	SN
+dr	SS
+monroe	CN
+la	SA
+71201	ZC
+2031	ZA
+
+1743	HN
+n	SD
+redondo	SN
+dr	SS
+baton	CN
+rouge	CN
+la	SA
+70815	ZC
+8939	ZA
+
+1937	HN
+generes	SN
+dr	SS
+harahan	CN
+la	SA
+70123	ZC
+1619	ZA
+
+4549	HN
+e	SD
+dearing	SN
+rd	SS
+memphis	CN
+tn	SA
+38117	ZC
+6508	ZA
+
+5790	HN
+the	UNKNOWN
+twelfth	SN
+fairway	SN
+suwanee	CN
+ga	SA
+30024	ZC
+3401	ZA
+
+912	HN
+royal	SN
+st	SS
+lake	CN
+charles	CN
+la	SA
+70607	ZC
+6336	ZA
+
+5419	HN
+paris	SN
+ave	SS
+new	CN
+orleans	CN
+la	SA
+70122	ZC
+2603	ZA
+
+3539	HN
+dial	SN
+dr	SS
+stone	SN
+mtn	CN
+ga	SA
+30083	ZC
+4020	ZA
+
+730	HN
+mayflower	SN
+rd	SS
+claremont	CN
+ca	SA
+91711	ZC
+4241	ZA
+
+11329	HN
+ne	SD
+67th	SN
+st	SS
+kirkland	CN
+wa	SA
+98033	ZC
+7112	ZA
+
+540	HN
+w	SD
+colorado	SN
+st	SS
+glendale	CN
+ca	SA
+91204	ZC
+1102	ZA
+
+po	PO
+box	BT
+4302	BV
+napa	CN
+ca	SA
+94558	ZC
+0430	ZA
+
+990	HN
+bayside	SN
+cv	SN
+newport	CN
+beach	CN
+ca	SA
+92660	ZC
+7404	ZA
+
+5262	HN
+marlborough	SN
+drive	SS
+san	CN
+diego	CN
+ca	SA
+92116	ZC
+2035	ZA
+
+740	HN
+7th	SN
+ave	SS
+honolulu	CN
+hi	SA
+96816	ZC
+2127	ZA
+
+po	PO
+box	BT
+7133	BV
+rcho	CN
+santa	CN
+fe	CN
+ca	SA
+92067	ZC
+7133	ZA
+
+2615	HN
+waho	SN
+street	SN
+koloa	CN
+hi	SA
+96756	ZC
+9551	ZA
+
+1056	HN
+via	SN
+sinuoso	SN
+chula	SN
+vista	CN
+ca	SA
+91910	ZC
+7070	ZA
+
+2021	HN
+arnold	SN
+drive	SS
+bayonet	CN
+point	CN
+fl	SA
+34667	ZC
+
+217	HN
+prospect	SN
+st	SS
+apt	UT
+apt	UT
+a	UV
+honolulu	CN
+hi	SA
+96813	ZC
+1753	ZA
+
+307	HN
+n	SD
+arthur	SN
+dr	SS
+beverly	CN
+nj	SA
+08010	ZC
+2103	ZA
+
+345	HN
+pioneer	SN
+drive	SS
+unit	CN
+703	SN
+glendale	CN
+ca	SA
+91203	ZC
+2779	ZA
+
+2001	HN
+falcon	SN
+ridge	SN
+dr	SS
+petaluma	CN
+ca	SA
+94954	ZC
+5881	ZA
+
+1325	HN
+valley	SN
+view	SN
+road	SS
+unit	CN
+glendale	CN
+ca	SA
+91202	ZC
+1754	ZA
+
+6043	HN
+broadmeadow	SN
+san	CN
+antonio	CN
+tx	SA
+78240	ZC
+5307	ZA
+
+905	HN
+cypress	SN
+station	SN
+dr	SS
+ap	SN
+houston	CN
+tx	SA
+77090	ZC
+1500	ZA
+
+1279	HN
+blalock	SN
+rd	SS
+houston	CN
+tx	SA
+77055	ZC
+6424	ZA
+
+100	HN
+glenview	SN
+place	SS
+607	CN
+phoenixville	CN
+pa	SA
+19460	ZC
+
+5642	HN
+dorchhester	SN
+ave	SS
+chicago	CN
+al	SA
+60637	ZC
+8956	ZA
+
+15323	HN
+coastal	SN
+oak	SN
+ct	SS
+houston	CN
+tx	SA
+77059	ZC
+6443	ZA
+
+5508	HN
+linmore	SN
+lane	SS
+plano	CN
+tx	SA
+75093	ZC
+7619	ZA
+
+1320	HN
+w	SD
+isles	SN
+street	SN
+rochester	CN
+ny	SA
+14681	ZC
+
+6609	HN
+needham	SN
+ln	SS
+austin	CN
+tx	SA
+78739	ZC
+1578	ZA
+
+4118	HN
+meadow	SN
+edge	SN
+drive	SS
+sugar	CN
+land	CN
+tx	SA
+77479	ZC
+2438	ZA
+
+1280	HN
+hawkins	SN
+blvd	SS
+suite	UT
+202	UV
+el	CN
+paso	CN
+tx	SA
+79925	ZC
+4949	ZA
+
+7108	HN
+falling	CN
+springs	SN
+road	SS
+fort	CN
+worth	CN
+tx	SA
+76116	ZC
+9309	ZA
+
+42	HN
+8th	SN
+st	SS
+apt	UT
+1504	UV
+plano	CN
+tx	SA
+02129	ZC
+
+3401	HN
+sterling	SN
+road	SS
+yardley	CN
+pa	SA
+19067	ZC
+5448	ZA
+
+5515	HN
+silver	SN
+maple	SN
+dr	SS
+arlington	CN
+tx	SA
+76018	ZC
+1500	ZA
+
+603	HN
+westminster	SN
+dr	SS
+chapel	SN
+hill	CN
+nc	SA
+27514	ZC
+1662	ZA
+
+209	HN
+s	SD
+baywood	SN
+ln	SS
+greenville	CN
+nc	SA
+27834	ZC
+6942	ZA
+
+266	HN
+spring	CN
+pines	SN
+drive	SS
+spring	CN
+tx	SA
+77386	ZC
+1130	ZA
+
+2609	HN
+fountain	SN
+head	SN
+drive	SS
+plano	CN
+tx	SA
+75023	ZC
+6417	ZA
+
+3216	HN
+waldrop	SN
+dr	SS
+dallas	CN
+tx	SA
+75229	ZC
+5004	ZA
+
+708	HN
+falcon	SN
+lane	SS
+coppell	CN
+tx	SA
+75019	ZC
+4122	ZA
+
+3435	HN
+westheimer	SN
+rd	SS
+apt	UT
+207	UV
+houston	CN
+tx	SA
+77027	ZC
+5347	ZA
+
+po	PO
+box	BT
+1418	BV
+mableton	CN
+ga	SA
+30126	ZC
+1006	ZA
+
+40	HN
+heritage	SN
+ln	SS
+new	CN
+orleans	CN
+la	SA
+70114	ZC
+6729	ZA
+
+2219	HN
+west	CN
+11	HN
+texarkana	CN
+tx	SA
+75501	ZC
+
+415	HN
+park	SN
+rd	SS
+metairie	CN
+la	SA
+70005	ZC
+4439	ZA
+
+363	HN
+windermere	SN
+blvd	SS
+unit	CN
+alexandria	CN
+la	SA
+71303	ZC
+3505	ZA
+
+1508	HN
+bunker	CN
+hills	CN
+towers	ZC
+800	SN
+w	SD
+1st	SN
+street	CN
+la	CN
+ca	SA
+90012	ZC
+
+12430	HN
+magnolia	SN
+cir	SS
+alpharetta	CN
+ga	SA
+30005	ZC
+8922	ZA
+
+suite	HN
+105	UV
+atlanta	CN
+ga	SA
+30309	ZC
+
+2147	HN
+southwood	SN
+road	SS
+jackson	CN
+ms	SA
+39211	ZC
+6128	ZA
+
+5503	HN
+highway	SN
+90	SN
+w	SD
+new	CN
+iberia	CN
+la	SA
+70560	ZC
+7642	ZA
+
+3188	HN
+boxley	SN
+valley	SN
+road	SS
+franklin	CN
+tn	SA
+37064	ZC
+9371	ZA
+
+rr	RR
+1	RV
+box	BT
+824a	BV
+big	SN
+sandy	CN
+tx	SA
+75755	ZC
+9656	ZA
+
+1767	HN
+tobey	SN
+rd	SS
+chamblee	CN
+ga	SA
+30341	ZC
+4829	ZA
+
+6555	HN
+lake	SS
+estates	SN
+ct	SS
+cumming	CN
+ga	SA
+30040	ZC
+6691	ZA
+
+po	PO
+box	BT
+85	BV
+scott	CN
+la	SA
+70583	ZC
+0085	ZA
+
+po	PO
+box	BT
+52902	BV
+atlanta	CN
+ga	SA
+30355	ZC
+0902	ZA
+
+405	HN
+river	SN
+creek	SN
+ct	SS
+old	CN
+hickory	CN
+tn	SA
+37138	ZC
+2830	ZA
+
+18	HN
+baggy	SN
+wrinkle	SN
+cove	SN
+warren	CN
+ri	SA
+02885	ZA
+
+8402	HN
+la	SN
+sierra	SN
+ave	SS
+whittier	CN
+ca	SA
+90605	ZC
+1222	ZA
+
+2206	HN
+n	SD
+4th	SN
+ave	SS
+upland	CN
+ca	SA
+91784	ZC
+8400	ZA
+
+76	HN
+canterbury	SN
+lane	SS
+st	CN
+louis	CN
+mo	SA
+63367	ZC
+1315	ZA
+
+1044	HN
+e	SD
+chase	SN
+ave	SS
+el	CN
+cajon	CN
+ca	SA
+92020	ZC
+7803	ZA
+
+211	HN
+seale	SN
+ave	SS
+palo	CN
+alto	CN
+ca	SA
+94301	ZC
+3732	ZA
+
+6838	HN
+cumberland	SN
+place	SS
+stockton	CN
+ca	SA
+95219	ZC
+3256	ZA
+
+box	BT
+113	BV
+ottumwa	CN
+ia	SA
+52501	ZC
+2904	ZA
+
+1730	HN
+marlin	SN
+way	SS
+newport	CN
+beach	CN
+ca	SA
+92660	ZC
+4328	ZA
+
+drawer	UNKNOWN
+7133	HN
+rcho	SN
+santa	CN
+fe	CN
+ca	SA
+92067	ZC
+7133	ZA
+
+1800	HN
+ne	SD
+44th	SN
+st	SS
+suite	UT
+240	UV
+renton	CN
+wa	SA
+98056	ZC
+1697	ZA
+
+2615	HN
+waho	SN
+st	SS
+koloa	CN
+hi	SA
+96756	ZC
+9551	ZA
+
+10780	HN
+n	SD
+ridgewind	SN
+court	SS
+tucson	CN
+az	SA
+85737	ZC
+6689	ZA
+
+1002	HN
+south	SN
+burnside	SN
+ave	SS
+apt	UT
+103	UV
+apt	UT
+103	UV
+6th	FV
+flr	FV
+los	CN
+angeles	CN
+ca	SA
+90019	ZC
+6746	ZA
+
+6100	HN
+w	SD
+friendly	SN
+ave	SS
+newtown	CN
+square	CN
+pa	SA
+19073	ZC
+
+800	HN
+petit	SN
+chalet	SN
+ct	SS
+las	CN
+vegas	CN
+nv	SA
+89145	ZC
+8600	ZA
+
+2538	HN
+e	SD
+andrews	SN
+ave	SS
+apt	UT
+1	UV
+fresno	CN
+ca	SA
+93726	ZC
+6605	ZA
+
+1910	HN
+surrey	SN
+oaks	SN
+court	SS
+arlington	CN
+tx	SA
+76006	ZC
+5770	ZA
+
+4104	HN
+ambleside	SN
+court	SS
+colleyville	CN
+tx	SA
+76034	ZC
+4493	ZA
+
+2404	HN
+grant	SN
+ct	SS
+heath	CN
+tx	SA
+75032	ZC
+5938	ZA
+
+2103	HN
+clearwater	SN
+trl	SS
+carrollton	CN
+tx	SA
+75010	ZC
+4137	ZA
+
+1910	HN
+surrey	SN
+oaks	SN
+ct	SS
+arlington	CN
+tx	SA
+76006	ZC
+5770	ZA
+
+5217	HN
+southern	CN
+hills	SN
+dr	SS
+frisco	CN
+tx	SA
+75034	ZC
+6857	ZA
+
+1525	HN
+eaglepoint	SN
+dr	SS
+carrollton	CN
+tx	SA
+75007	ZC
+6027	ZA
+
+6201	HN
+fallow	SN
+court	SS
+fort	CN
+worth	CN
+tx	SA
+76132	ZC
+3544	ZA
+
+2034	HN
+pitch	HN
+pine	SN
+dr	SS
+shreveport	CN
+la	SA
+71118	ZC
+4725	ZA
+
+637	HN
+main	SN
+st	SS
+pineville	CN
+la	SA
+71360	ZC
+6935	ZA
+
+2909	HN
+cobb	SN
+st	SS
+marietta	CN
+ga	SA
+30068	ZC
+2320	ZA
+
+243	HN
+cannon	SN
+road	SS
+riverside	CN
+ca	SA
+92506	ZC
+6154	ZA
+
+405	HN
+wheeler	SN
+st	SS
+savannah	CN
+ga	SA
+31405	ZC
+5957	ZA
+
+50	HN
+old	CN
+pearson	SN
+hwy	SS
+willacoochee	CN
+ga	SA
+31650	ZC
+4210	ZA
+
+3850	HN
+holcomb	SN
+bridge	SN
+road	SS
+norcross	CN
+ga	SA
+30092	ZC
+5223	ZA
+
+1604	HN
+pendley	SN
+dr	SS
+austell	CN
+ga	SA
+30168	ZC
+4522	ZA
+
+po	PO
+box	BT
+96	BV
+cotton	CN
+valley	CN
+la	SA
+71018	ZC
+0096	ZA
+
+1767	HN
+tobey	SN
+rd	SS
+chamblee	CN
+ga	SA
+30341	ZC
+4829	ZA
+
+3715	HN
+douglas	SN
+ave	SS
+dallas	CN
+tx	SA
+75219	ZC
+2941	ZA
+
+4282	HN
+w	SD
+union	SN
+road	SS
+millington	CN
+tn	SA
+38053	ZC
+4422	ZA
+
+311	HN
+pinehurst	SN
+cir	SS
+hazlehurst	CN
+ms	SA
+39083	SN
+2421	ZA
+
+3715	HN
+douglas	SN
+ave	SS
+dallas	CN
+tx	SA
+75219	ZC
+2941	ZA
+
+8920	HN
+south	SD
+somerset	SN
+ln	SS
+alpharetta	CN
+ga	SA
+30004	ZC
+7456	ZA
+
+3787	HN
+crosby	SN
+driv	SS
+birmingham	CN
+al	SA
+35223	ZC
+2830	ZA
+
+1372	HN
+peachtree	SN
+st	SS
+ne	SD
+ste	ZC
+1	UV
+atlanta	CN
+ga	SA
+30309	ZC
+3225	ZA
+
+1608	HN
+birchcrest	SN
+cir	SS
+brea	CN
+ca	SA
+92821	ZC
+1813	ZA
+
+2572	HN
+steeplechase	SN
+ln	SS
+diamond	CN
+bar	CN
+ca	SA
+91765	ZC
+3621	ZA
+
+7342	HN
+reche	SN
+canyon	SN
+road	SS
+colton	CN
+ca	SA
+92324	ZC
+9629	ZA
+
+9164	HN
+bidwell	SN
+st	SS
+temple	CN
+city	CN
+ca	SA
+91780	ZC
+2454	ZA
+
+po	PO
+box	BT
+431	BV
+san	CN
+carlos	CN
+ca	SA
+94070	ZC
+0431	ZA
+
+21103	HN
+ne	SD
+60th	SN
+pl	SS
+redmond	CN
+wa	SA
+98053	ZC
+2402	ZA
+
+1891	HN
+mckinney	SN
+way	SS
+apt	UT
+26a	UV
+seal	CN
+beach	CN
+ca	SA
+90740	ZC
+4410	ZA
+
+4080	HN
+athenian	SN
+way	SS
+los	CN
+angeles	CN
+ca	SA
+90043	ZC
+1620	ZA
+
+151	HN
+s	SD
+vista	SN
+st	SS
+los	CN
+angeles	CN
+ca	SA
+90036	ZC
+2707	ZA
+
+654	HN
+fairview	SN
+ave	SS
+sierra	CN
+madre	CN
+ca	SA
+91024	ZC
+1006	ZA
+
+726	HN
+16th	SN
+ave	SS
+e	SD
+seattle	CN
+wa	SA
+98112	ZC
+3916	ZA
+
+2020	HN
+hoolaulea	SN
+st	SS
+pearl	CN
+city	CN
+hi	SA
+96782	ZC
+1434	ZA
+
+5129	HN
+frances	SN
+ave	SS
+ne	SD
+tacoma	CN
+wa	SA
+98422	ZC
+1837	ZA
+
+907	HN
+beard	SN
+street	SN
+madill	CN
+ok	SA
+73446	ZC
+
+2021	HN
+bordeaux	SN
+lane	SS
+half	CN
+moon	CN
+bay	CN
+ca	SA
+94019	ZC
+1432	ZA
+
+4930	HN
+south	SD
+verdun	SN
+ave	SS
+los	CN
+angeles	CN
+ca	SA
+90043	ZC
+1519	ZA
+
+2741	HN
+donner	SN
+way	SS
+sacramento	CN
+ca	SA
+95818	ZC
+3936	ZA
+
+18392	HN
+redmond	SN
+way	SS
+redmond	CN
+wa	SA
+98052	ZC
+5012	ZA
+
+6719	HN
+morton	SN
+dr	SS
+boise	SN
+id	SN
+83704	SN
+4654	ZA
+
+5332	HN
+residencia	SN
+newport	CN
+beach	CN
+ca	SA
+92660	ZC
+9045	ZA
+
+4424	HN
+seahurst	SN
+ave	SS
+everett	CN
+wa	SA
+98203	ZC
+1718	ZA
+
+4796	HN
+50th	SN
+st	SS
+san	CN
+diego	CN
+ca	SA
+92115	ZC
+2021	ZA
+
+584	HN
+lomas	SS
+santa	CN
+fe	SN
+drive	SS
+solana	CN
+beach	CN
+ca	SA
+92075	ZC
+1347	ZA
+
+3422	HN
+huntley	SN
+drive	SS
+los	CN
+alamitos	CN
+ca	SA
+90720	ZC
+3861	ZA
+
+3650	HN
+92nd	SN
+ave	SS
+se	SD
+mercer	SN
+island	CN
+wa	SA
+98040	ZC
+3734	ZA
+
+902	HN
+south	SD
+victoria	SN
+ave	SS
+los	CN
+angeles	CN
+ca	SA
+90019	ZC
+1922	ZA
+
+909	HN
+alderwood	SN
+ln	SS
+sedro	CN
+woolley	CN
+wa	SA
+98284	ZC
+9369	ZA
+
+2119	HN
+brown	SN
+street	SN
+napa	CN
+ca	SA
+94559	ZC
+1229	ZA
+
+700	HN
+richards	SN
+st	SS
+apt	UT
+2101	UV
+honolulu	CN
+hi	SA
+96813	ZC
+4620	ZA
+
+8355a	HN
+greensboro	SN
+dr	SS
+mclean	CN
+va	SA
+22102	ZC
+3530	ZA
+
+1039	HN
+eagle	CN
+bend	CN
+ct	SS
+jacksonville	CN
+fl	SA
+32226	ZC
+1111	ZA
+
+12053	HN
+hood	SN
+landing	SN
+road	SS
+jacksonville	CN
+fl	SA
+32258	ZC
+2030	ZA
+
+5315	HN
+stormy	SN
+dawn	SN
+san	CN
+antonio	CN
+tx	SA
+78247	ZC
+1701	ZA
+
+2206	HN
+ravinia	SN
+drive	SS
+arlington	CN
+tx	SA
+76012	ZC
+2933	ZA
+
+1516	HN
+bastrop	SN
+dr	SS
+carrollton	CN
+tx	SA
+75010	ZC
+6423	ZA
+
+po	PO
+box	BT
+628	BV
+franklin	CN
+tx	SA
+77856	ZC
+0628	ZA
+
+108	HN
+rainbow	SN
+crest	SN
+st	SS
+burleson	CN
+tx	SA
+76028	ZC
+1404	ZA
+
+9000	HN
+shepard	SN
+dr	SS
+austin	CN
+tx	SA
+78753	ZC
+5049	ZA
+
+5147	HN
+w	SD
+europa	SN
+drive	SS
+huntingdon	CN
+vly	CN
+pa	SA
+19006	ZC
+
+10235	HN
+browning	SN
+dr	SS
+baton	CN
+rouge	CN
+la	SA
+70815	ZC
+4714	ZA
+
+10724	HN
+persimmon	SN
+creek	SN
+dr	SS
+charlotte	CN
+nc	SA
+28227	ZC
+6665	ZA
+
+415	HN
+park	SN
+rd	SS
+metairie	CN
+la	SA
+70005	ZC
+4439	ZA
+
+2453	HN
+w	SD
+eagleridge	SN
+lane	SS
+cordova	CN
+tn	SA
+38018	ZC
+4639	ZA
+
+149	HN
+blossom	SN
+ct	SS
+thibodaux	CN
+la	SA
+70301	ZC
+9425	ZA
+
+3636	HN
+woodberry	SN
+dr	SS
+duluth	CN
+ga	SA
+30096	ZC
+3830	ZA
+
+3346	HN
+camelot	SN
+dr	SS
+marietta	CN
+ga	SA
+30062	ZC
+4406	ZA
+
+4821	HN
+highway	SN
+421	UV
+bristol	CN
+tn	SA
+37620	ZC
+0634	ZA
+
+836	HN
+windy	SN
+meadow	SN
+driv	SS
+desoto	CN
+tx	SA
+75115	ZC
+7535	ZA
+
+701	HN
+e	SD
+lakeshore	SN
+dr	SS
+carriere	CN
+ms	SA
+39426	ZC
+7709	ZA
+
+1612	HN
+dunraven	SN
+drive	SS
+knoxville	CN
+tn	SA
+37922	ZC
+6234	ZA
+
+6695	HN
+burchfield	SN
+loop	SS
+mc	CN
+calla	CN
+al	SA
+35111	ZC
+3357	ZA
+
+5407	HN
+elysian	SN
+fields	SN
+ave	SS
+new	CN
+orleans	CN
+la	SA
+70122	ZC
+4221	ZA
+
+1746	HN
+randolph	SN
+pl	SS
+apt	UT
+7	UV
+memphis	CN
+tn	SA
+38120	ZC
+4352	ZA
+
+132	HN
+swoon	SN
+dr	SS
+lafayette	CN
+la	SA
+70508	ZC
+9635	ZA
+
+1815	HN
+ridgefield	SN
+way	SS
+dalton	CN
+ga	SA
+30720	ZC
+7115	ZA
+
+701	HN
+b	SN
+st	SS
+ste	UT
+1500	UV
+san	CN
+diego	CN
+ca	SA
+92101	ZC
+8170	ZA
+
+1190	HN
+boxelder	SN
+cir	SS
+folsom	CN
+ca	SA
+95630	ZC
+7669	ZA
+
+11329	HN
+ne	SD
+67th	ZC
+street	SN
+kirkland	CN
+wa	SA
+98033	ZC
+7112	ZA
+
+2316	HN
+s	SD
+8th	SN
+ave	SS
+arcadia	CN
+ca	SA
+91006	ZC
+5435	ZA
+
+6287	HN
+grangers	SN
+dairy	SN
+dr	SS
+sacramento	CN
+ca	SA
+95831	ZC
+1037	ZA
+
+349	HN
+camino	SN
+de	SN
+las	CN
+colinas	SN
+redondo	CN
+beach	CN
+ca	SA
+90277	ZC
+6436	ZA
+
+12	HN
+rocky	SN
+creek	SN
+lane	SS
+laguna	CN
+hills	CN
+ca	SA
+92653	ZC
+4488	ZA
+
+1214	HN
+londonderry	SN
+st	SS
+costa	CN
+mesa	CN
+ca	SA
+92626	ZC
+2662	ZA
+
+3012	HN
+cove	SN
+ave	SS
+reedley	CN
+ca	SA
+93654	ZC
+9615	ZA
+
+11100	HN
+se	SD
+176th	SN
+st	SS
+unit	CN
+renton	CN
+wa	SA
+98055	ZC
+5686	ZA
+
+5	HN
+monterey	SN
+pine	SN
+dr	SS
+newport	CN
+coast	CN
+ca	SA
+92657	ZC
+1526	ZA
+
+4111	HN
+olympiad	SN
+drive	SS
+los	CN
+angeles	CN
+ca	SA
+90043	ZC
+1631	ZA
+
+1148	HN
+keniston	SN
+ave	SS
+los	CN
+angeles	CN
+ca	SA
+90019	ZC
+1709	ZA
+
+24	HN
+samoa	SN
+way	SS
+pacific	CN
+plsds	CN
+ca	SA
+90272	ZC
+4653	ZA
+
+8983	HN
+sw	SD
+joe	SN
+ct	SS
+portland	CN
+or	SA
+97223	ZC
+6892	ZA
+
+5300	HN
+w	SD
+sahara	SN
+ave	SS
+suite	UT
+101	HN
+las	CN
+vegas	CN
+nv	SA
+89146	ZC
+0319	ZA
+
+2119	HN
+brown	SN
+st	SS
+napa	CN
+ca	SA
+94559	ZC
+1229	ZA
+
+840	HN
+county	SS
+square	SN
+dr	SS
+247	UV
+ventura	CN
+ca	SA
+93003	ZC
+5406	ZA
+
+201	HN
+adams	SN
+st	SS
+sierra	CN
+madre	CN
+ca	SA
+91024	ZC
+1721	ZA
+
+49	HN
+mazie	SN
+dr	SS
+pleasant	SN
+hill	CN
+ca	SA
+94523	ZC
+3309	ZA
+
+700	HN
+donatello	SN
+dr	SS
+corona	CN
+ca	SA
+92882	ZC
+6394	ZA
+
+21103	HN
+ne	SD
+60th	SN
+pl	SS
+redmond	CN
+wa	SA
+98053	ZC
+2402	ZA
+
+1800	HN
+ne	SD
+44th	SN
+st	SS
+ste	UT
+240	UV
+renton	CN
+wa	SA
+98056	ZC
+1697	ZA
+
+5129	HN
+frances	SN
+ave	SS
+ne	SD
+tacoma	CN
+wa	SA
+98422	ZC
+1837	ZA
+
+62	HN
+aaron	SN
+dr	SS
+novato	CN
+ca	SA
+94949	ZC
+5497	ZA
+
+91-1555	HN
+wahane	SN
+st	SS
+kapolei	CN
+hi	SA
+96707	ZC
+3106	ZA
+
+775	HN
+elizabeth	SN
+st	SS
+san	CN
+francisco	CN
+ca	SA
+94114	ZC
+3144	ZA
+
+1089	HN
+maiha	SN
+cir	SS
+pearl	CN
+city	CN
+hi	SA
+96782	ZC
+1461	ZA
+
+1550	HN
+ala	SN
+amoamo	SN
+st	SS
+honolulu	CN
+hi	SA
+96819	ZC
+1709	ZA
+
+1197	HN
+hideaway	SN
+dr	SS
+n	SD
+jacksonville	CN
+fl	SA
+32259	ZC
+2984	ZA
+
+7035	HN
+mira	SN
+vista	SN
+st	SS
+las	CN
+vegas	CN
+nv	SA
+89120	ZC
+3031	ZA
+
+247	HN
+s	SD
+7th	SN
+st	SS
+philadelphia	CN
+pa	SA
+19106	ZC
+4135	ZA
+
+1700	HN
+robin	SN
+lane	SS
+apt	UT
+304	HN
+olean	CN
+ny	SA
+17458	ZC
+
+12683	HN
+sw	SD
+79th	SN
+st	SS
+miami	CN
+fl	SA
+33183	ZC
+3513	ZA
+
+3300	HN
+ah	SN
+we	SN
+wa	SN
+st	SS
+coconut	CN
+grove	CN
+fl	SA
+33133	ZC
+3339	ZA
+
+8841	HN
+nw	SD
+11th	SN
+ct	SS
+pmbk	CN
+pines	CN
+fl	SA
+33024	ZC
+4710	ZA
+
+14	HN
+hopkins	SN
+cir	SS
+orlando	CN
+fl	SA
+32804	ZC
+5910	ZA
+
+4801	HN
+s	SD
+university	SN
+drive	SS
+suite3	CN
+davie	CN
+fl	SA
+33328	ZC
+3839	ZA
+
+1735	HN
+metzmont	SN
+drive	SS
+jackson	CN
+mi	SA
+49203	ZC
+5345	ZA
+
+1629	HN
+hempel	SN
+ave	SS
+windermere	CN
+fl	SA
+34786	ZC
+8117	ZA
+
+650	HN
+harrison	SN
+avenue	SS
+mechanicsville	CN
+va	SA
+23111	ZC
+
+2810	HN
+ne	SD
+44th	SN
+st	SS
+ft	CN
+lauderdale	CN
+fl	SA
+33308	ZC
+5725	ZA
+
+2645	HN
+south	SD
+bayshore	SN
+drive	SS
+ste	UT
+2104	UV
+coconut	SN
+grove	CN
+fl	SA
+33133	ZC
+5400	ZA
+
+4928	HN
+sw	SD
+33rd	SN
+ave	SS
+ft	CN
+lauderdale	CN
+fl	SA
+33312	ZC
+7938	ZA
+
+406	HN
+nw	SD
+68th	SN
+ave	SS
+apt	UT
+223	UV
+plantation	CN
+fl	SA
+33317	ZC
+7521	ZA
+
+10	HN
+rocky	SN
+hill	SN
+road	SS
+354	CN
+mt	SA
+sinai	CN
+ny	SA
+11766	ZC
+1212	ZA
+
+3081	HN
+big	SN
+pass	SN
+ln	SS
+punta	CN
+gorda	CN
+fl	SA
+33955	ZC
+3825	ZA
+
+159	HN
+route	SN
+25a	SN
+unit	UT
+6	UV
+miller	CN
+place	CN
+ny	SA
+11764	ZC
+2428	ZA
+
+357	HN
+sw	SD
+belmont	SN
+cir	SS
+port	SN
+st	SS
+lucie	CN
+fl	SA
+34953	ZC
+7103	ZA
+
+9436	HN
+western	SN
+trl	SS
+irving	CN
+tx	SA
+75063	ZC
+5046	ZA
+
+2800	HN
+n	SD
+flagler	SN
+dr	SS
+west	CN
+palm	CN
+bch	CN
+fl	SA
+33407	ZC
+5228	ZA
+
+5507	HN
+egret	SN
+isle	SN
+trl	SS
+lake	CN
+worth	CN
+fl	SA
+33467	ZC
+1721	ZA
+
+206	HN
+ramsbury	SN
+ct	SS
+longwood	CN
+fl	SA
+32779	ZC
+4552	ZA
+
+270	HN
+se	SD
+6th	SN
+st	SS
+pompano	CN
+beach	CN
+fl	SA
+33060	ZC
+8420	ZA
+
+1629	HN
+hempel	SN
+ave	SS
+windermere	CN
+fl	SA
+34786	ZC
+8117	ZA
+
+10507	HN
+cranleigh	SN
+court	SS
+tampa	CN
+fl	SA
+33626	ZC
+2583	ZA
+
+3250	HN
+s	SD
+ocean	SN
+blvd	SS
+5015	CN
+palm	CN
+beach	CN
+fl	SA
+33480	ZC
+5604	ZA
+
+3303	HN
+w	SD
+blossom	SN
+dr	SS
+beverly	CN
+hills	CN
+fl	SA
+34465	ZC
+2245	ZA
+
+5800	HN
+beach	SN
+blvd	SS
+203-223	CN
+jacksonville	CN
+fl	SA
+32207	ZC
+5120	ZA
+
+3465	HN
+nw	SD
+44th	SN
+st	SS
+apt	UT
+101	UV
+ft	SN
+lauderdale	CN
+fl	SA
+33309	ZC
+4263	ZA
+
+1374	HN
+woodland	SN
+ave	SS
+san	CN
+carlos	CN
+ca	SA
+94070	ZC
+4838	ZA
+
+9	HN
+sonoma	SN
+st	SS
+san	CN
+rafael	CN
+ca	SA
+94901	ZC
+4341	ZA
+
+6373	HN
+ne	SD
+151st	SN
+st	SS
+kenmore	CN
+wa	SA
+98028	ZC
+4388	ZA
+
+3203	HN
+hayden	SN
+st	SS
+honolulu	CN
+hi	SA
+96815	ZC
+4324	ZA
+
+6126	HN
+e	SD
+san	CN
+lorenzo	SN
+ln	SS
+anaheim	CN
+hills	CN
+ca	SA
+92807	ZC
+4017	ZA
+
+rr	RR
+2	RV
+box	BT
+2255	BV
+wheatland	CN
+mo	SA
+65779	ZC
+9804	ZA
+
+1414	HN
+oxforoad	SN
+rd	SS
+san	CN
+marino	CN
+ca	SA
+91108	ZC
+2009	ZA
+
+4305	HN
+turner	SN
+ave	SS
+oakland	CN
+ca	SA
+94605	ZC
+5540	ZA
+
+3699	HN
+clay	SN
+st	SS
+apt	UT
+2	UV
+san	CN
+francisco	CN
+ca	SA
+94118	ZC
+1858	ZA
+
+41209	HN
+pomegranate	SN
+ct	SS
+madera	CN
+ca	SA
+93638	ZC
+8826	ZA
+
+2119	HN
+brown	SN
+st	SS
+napa	CN
+ca	SA
+94559	ZC
+1229	ZA
+
+11010	HN
+sw	SD
+60th	SN
+ave	SS
+miami	CN
+fl	SA
+33156	ZC
+4921	ZA
+
+423	HN
+scenic	SN
+drive	SS
+pob	CN
+340	BV
+ypsilanti	CN
+mi	SA
+48198	ZC
+
+5145	HN
+ne	SD
+7th	SN
+pl	SS
+ocala	CN
+fl	SA
+34470	ZC
+1195	ZA
+
+19610	HN
+w	SD
+oakmont	SN
+dr	SS
+hialeah	CN
+fl	SA
+33015	ZC
+2033	ZA
+
+2470	HN
+stockton	SN
+dr	SS
+green	CN
+cv	CN
+spgs	CN
+fl	SA
+32043	ZC
+8789	ZA
+
+n	HN
+704-6th	SN
+avenue	SS
+washington	CN
+dc	SA
+20007	ZA
+
+122	HN
+robie	SN
+dr	SS
+boulder	CN
+city	CN
+nv	SA
+89005	ZC
+
+14950	HN
+roan	SN
+ct	SS
+west	CN
+palm	CN
+bch	CN
+fl	SA
+33414	ZC
+1015	ZA
+
+po	PO
+box	BT
+118	BV
+nokomis	CN
+fl	SA
+34274	ZC
+0118	ZA
+
+11730	HN
+sw	SD
+123rd	SN
+ave	SS
+miami	CN
+fl	SA
+33186	ZC
+5047	ZA
+
+10691	HN
+sw	SD
+83rd	SN
+ave	SS
+miami	CN
+fl	SA
+33156	ZC
+3513	ZA
+
+2942	HN
+longbrooke	SN
+way	SS
+clearwater	CN
+fl	SA
+33760	ZC
+1719	ZA
+
+10-l	HN
+west	SN
+lane	SS
+salem	CN
+or	SA
+97303	ZA
+
+1596	HN
+carillon	SN
+park	SN
+dr	SS
+oviedo	CN
+fl	SA
+32765	ZC
+5125	ZA
+
+12804	HN
+sw	SD
+48th	SN
+ter	SS
+miami	CN
+fl	SA
+33175	ZC
+4630	ZA
+
+1622	HN
+s	SD
+mills	SN
+ave	SS
+orlando	CN
+fl	SA
+32806	ZC
+2327	ZA
+
+416	HN
+eade	SN
+road	SS
+ocala	CN
+fl	SA
+28729	ZC
+
+2470	HN
+stockton	SN
+drive	SS
+green	CN
+cv	CN
+spgs	CN
+fl	SA
+32043	ZC
+8789	ZA
+
+311	HN
+e	SD
+morse	SN
+blvd	SS
+apt	UT
+1-6	UV
+winter	SN
+park	CN
+fl	SA
+32789	ZC
+3833	ZA
+
+7559	HN
+sw	SD
+109th	SN
+ave	SS
+miami	CN
+fl	SA
+33173	ZC
+2724	ZA
+
+10155	HN
+collins	SN
+ave	SS
+apt	UT
+509	HN
+bal	SN
+harbour	CN
+fl	SA
+33154	ZC
+1620	ZA
+
+13958	HN
+sound	SN
+overlook	SN
+drv	SS
+s	SD
+jacksonville	CN
+fl	SA
+32224	ZC
+2303	ZA
+
+1771	HN
+se	SD
+27th	SN
+loop	SS
+ocala	CN
+fl	SA
+34471	ZC
+6085	ZA
+
+6410	HN
+tarrega	SN
+st	SS
+coral	CN
+gables	CN
+fl	SA
+33146	ZC
+
+200	HN
+cattail	SN
+court	SS
+orlando	CN
+fl	SA
+32806	ZC
+6103	ZA
+
+1540	HN
+ne	SD
+40th	SN
+pl	SS
+oakland	CN
+park	CN
+fl	SA
+33334	ZC
+4655	ZA
+
+2191	HN
+buena	SN
+vista	SN
+blvd	SS
+vero	CN
+beach	CN
+fl	SA
+32960	ZC
+2964	ZA
+
+15208	HN
+persimmon	SN
+ave	SS
+delray	CN
+beach	CN
+fl	SA
+33446	ZC
+9791	ZA
+
+1389	HN
+harbour	SN
+side	SN
+drive	SS
+weston	CN
+fl	SA
+33326	ZC
+2764	ZA
+
+1502	HN
+shaw	SN
+driv	SS
+key	CN
+largo	CN
+fl	SA
+33037	ZC
+2743	ZA
+
+2508	HN
+s	SD
+dundee	SN
+st	SS
+tampa	CN
+fl	SA
+33629	ZC
+6411	ZA
+
+3250	HN
+south	SD
+ocean	SN
+blvd	SS
+5015	CN
+palm	CN
+beach	CN
+fl	SA
+33480	ZC
+5604	ZA
+
+1313	HN
+mockingbird	SN
+lane	SS
+bristol	CN
+tn	SA
+37620	ZC
+
+1692	HN
+cypress	SN
+pointe	SN
+dr	SS
+coral	CN
+springs	CN
+fl	SA
+33071	ZC
+4286	ZA
+
+3609	HN
+starboard	SN
+ave	SS
+cooper	CN
+city	CN
+fl	SA
+33026	ZC
+1367	ZA
+
+7559	HN
+sw	SD
+109th	SN
+ave	SS
+miami	CN
+fl	SA
+33173	ZC
+2724	ZA
+
+1289	HN
+w	SD
+camino	SN
+real	SS
+boca	CN
+raton	CN
+fl	SA
+33486	ZC
+8448	ZA
+
+581	HN
+sw	SD
+fairway	SN
+ave	SS
+port	SN
+st	SS
+lucie	CN
+fl	SA
+34983	ZC
+2905	ZA
+
+2920	HN
+ne	SD
+22nd	SN
+court	SS
+pompano	CN
+beach	CN
+fl	SA
+33062	ZC
+1112	ZA
+
+406	HN
+nw	SD
+68th	SN
+ave	SS
+apt	UT
+223	UV
+plantation	CN
+fl	SA
+33317	ZC
+7521	ZA
+
+7410	HN
+sw	SD
+87th	SN
+ct	SS
+miami	CN
+fl	SA
+33173	ZC
+3577	ZA
+
+159	HN
+route	SN
+25a	ON
+unit	SN
+6	UV
+miller	SN
+place	CN
+ny	SA
+11764	ZC
+2428	ZA
+
+814	HN
+a1a	ZA
+n	SD
+ste	SN
+303	HN
+ponte	SN
+vedra	CN
+fl	SA
+32082	ZC
+3270	ZA
+
+4762	HN
+mintwood	SN
+dr	SS
+concord	CN
+ca	SA
+94521	ZC
+2151	ZA
+
+1924	HN
+wallace	SN
+ave	SS
+apt	UT
+a204	UV
+costa	SN
+mesa	CN
+ca	SA
+92627	ZC
+6213	ZA
+
+4155	HN
+mount	SN
+alifan	SN
+place	SS
+unit	UT
+san	CN
+diego	CN
+ca	SA
+92111	ZC
+2810	ZA
+
+8070	HN
+la	SN
+jolla	SN
+shores	SN
+dr	SS
+la	CN
+jolla	CN
+ca	SA
+92037	ZC
+3230	ZA
+
+5502	HN
+duncan	SN
+ave	SS
+se	SD
+auburn	CN
+wa	SA
+98092	ZC
+8420	ZA
+
+584	HN
+lomas	SS
+santa	CN
+fe	SN
+dr	SS
+solana	CN
+beach	CN
+ca	SA
+92075	ZC
+1347	ZA
+
+2601	HN
+scofield	SN
+ridge	SN
+pkwy	SS
+apt	UT
+121	UV
+everett	CN
+wa	SA
+78727	ZC
+
+110	HN
+w	SD
+maple	SN
+st	SS
+glendale	CN
+ca	SA
+91204	ZC
+2191	ZA
+
+213	HN
+crestview	SN
+gln	SN
+escondido	CN
+ca	SA
+92026	ZC
+1302	ZA
+
+306	HN
+van	ON
+ness	SN
+ave	SS
+upland	CN
+ca	SA
+91786	ZC
+7135	ZA
+
+1142	HN
+blythe	SN
+st	SS
+foster	CN
+city	CN
+ca	SA
+94404	ZC
+3604	ZA
+
+1619	HN
+nw	SD
+bridgeway	SN
+ln	SS
+beaverton	CN
+or	SA
+97006	ZC
+3291	ZA
+
+10839	HN
+sw	SD
+38th	SN
+st	SS
+miami	CN
+fl	SA
+33165	ZC
+4409	ZA
+
+56	HN
+7th	SN
+ave	SS
+apt	UT
+19h	UV
+new	CN
+york	CN
+ny	SA
+10011	ZC
+6667	ZA
+
+po	PO
+box	BT
+1504	BV
+santa	CN
+rsa	CN
+bch	CN
+fl	SA
+32459	ZC
+1504	ZA
+
+5968	HN
+wolffork	SN
+rd	SS
+rabun	CN
+gap	CN
+ga	SA
+30568	ZC
+2634	ZA
+
+2366	HN
+anthony	SN
+ave	SS
+clearwater	CN
+fl	SA
+33759	ZC
+1201	ZA
+
+address	HN
+unkown	CN
+opelika	CN
+al	SA
+36801	ZC
+
+1015	HN
+symphony	SN
+isles	SN
+blvd	SS
+apollo	CN
+beach	CN
+fl	SA
+33572	ZC
+2713	ZA
+
+6320	HN
+moultrie	SN
+place	SS
+hialeah	CN
+fl	SA
+33014	ZC
+2316	ZA
+
+4801	HN
+s	SD
+university	SN
+dr	SS
+ste	UT
+davie	CN
+fl	SA
+33328	ZC
+3839	ZA
+
+4116	HN
+cochise	SN
+ter	SS
+sarasota	CN
+fl	SA
+34233	ZC
+1529	ZA
+
+511	HN
+ivy	SN
+ave	SS
+palm	CN
+bch	CN
+gdns	CN
+fl	SA
+33410	ZC
+4831	ZA
+
+po	PO
+box	BT
+830906	BV
+miami	CN
+fl	SA
+33283	ZC
+0906	ZA
+
+3001	HN
+ponce	SN
+de	SN
+leon	SN
+blvd	SS
+coral	CN
+gables	CN
+fl	SA
+33134	ZC
+6824	ZA
+
+6320	HN
+moultrie	SN
+pl	SS
+miami	CN
+lakes	CN
+fl	SA
+33014	ZC
+2316	ZA
+
+15208	HN
+persimmon	SN
+avenue	SS
+delray	CN
+beach	CN
+fl	SA
+33446	ZC
+9791	ZA
+
+64	HN
+ne	SD
+acacia	SN
+trl	SS
+jensen	CN
+beach	CN
+fl	SA
+34957	ZC
+4611	ZA
+
+4780	HN
+gentry	SN
+pines	SN
+ln	SS
+saint	CN
+cloud	CN
+fl	SA
+34772	ZC
+9307	ZA
+
+8686	HN
+pinion	SN
+dr	SS
+lake	CN
+worth	CN
+fl	SA
+33467	ZC
+1125	ZA
+
+626	HN
+beverly	SN
+drive	SS
+lake	CN
+wales	CN
+fl	SA
+33853	ZC
+4804	ZA
+
+100	HN
+lume	SN
+rd	SS
+manlius	CN
+ny	SA
+1310	ZC
+4	ZA
+
+6521	HN
+burnham	SN
+cir	SS
+ponte	CN
+vedra	CN
+fl	SA
+32082	ZC
+2505	ZA
+
+164	HN
+water	SN
+wheel	SN
+ln	SS
+rabun	CN
+gap	CN
+ga	SA
+30568	ZC
+2917	ZA
+
+5507	HN
+egret	SN
+isle	SN
+trl	SS
+lake	CN
+worth	CN
+fl	SA
+33467	ZC
+1721	ZA
+
+13219	HN
+meadowlark	SN
+ln	SS
+orlando	CN
+fl	SA
+32828	ZC
+8424	ZA
+
+1540	HN
+ne	SD
+40th	SN
+pl	SS
+ft	CN
+lauderdale	CN
+fl	SA
+33334	ZC
+4655	ZA
+
+8091	HN
+n	SD
+fairwind	SN
+loop	SS
+hernando	CN
+fl	SA
+34442	ZC
+2149	ZA
+
+8737	HN
+butternut	SN
+blvd	SS
+orlando	CN
+fl	SA
+32817	ZC
+1322	ZA
+
+142	HN
+reef	SN
+road	SS
+daytona	CN
+beach	CN
+fl	SA
+32119	ZC
+2227	ZA
+
+4414	HN
+south	SD
+tom	SN
+ave	SS
+inverness	CN
+fl	SA
+34452	ZC
+7543	ZA
+
+450	HN
+golfview	SN
+drive	SS
+longwood	CN
+fl	SA
+32750	ZC
+6101	ZA
+
+1596	HN
+carillon	SN
+park	SN
+drive	SS
+oviedo	CN
+fl	SA
+32765	ZC
+5125	ZA
+
+8716	HN
+wendell	SN
+avenue	SS
+san	CN
+clemente	CN
+ca	SA
+92672	ZC
+
+2060	HN
+candle	SN
+tree	SN
+cv	SN
+sandy	CN
+ut	SA
+84092	ZC
+3296	ZA
+
+po	PO
+box	BT
+31	BV
+kanab	CN
+ut	SA
+84741	ZC
+0031	ZA
+
+102	HN
+s	SD
+chelton	SN
+rd	SS
+colorado	CN
+spgs	CN
+co	SA
+80910	ZC
+2807	ZA
+
+193	HN
+long	SN
+ridge	SN
+drive	SS
+bailey	CN
+co	SA
+80421	ZC
+2128	ZA
+
+po	PO
+box	BT
+1909	BV
+fairplay	CN
+co	SA
+80440	ZC
+1909	ZA
+
+430	HN
+jensen	SN
+st	SS
+green	CN
+river	CN
+wy	SA
+82935	ZC
+5115	ZA
+
+4099	HN
+n	SD
+2000	SN
+w	SD
+helper	CN
+ut	SA
+84526	ZC
+2033	ZA
+
+2540	HN
+s	SD
+oak	SN
+ridge	SN
+rd	SS
+sedalia	CN
+co	SA
+80135	ZC
+8228	ZA
+
+5722	HN
+e	SD
+ellis	SN
+st	SS
+mesa	CN
+az	SA
+85205	ZC
+5856	ZA
+
+6759	HN
+forest	CN
+hills	SN
+dr	SS
+ne	SD
+albuquerque	CN
+nm	SA
+87109	ZC
+4093	ZA
+
+3421	HN
+n	SD
+grannen	SN
+rd	SS
+tucson	CN
+az	SA
+85745	ZC
+9655	ZA
+
+15602	HN
+n	SD
+29th	SN
+ave	SS
+phoenix	CN
+az	SA
+85053	ZC
+4056	ZA
+
+3528	HN
+e	SD
+kristal	SN
+way	SS
+phoenix	CN
+az	SA
+85050	ZC
+6304	ZA
+
+8117	HN
+hesperides	SN
+ave	SS
+las	CN
+vegas	CN
+nv	SA
+89131	ZC
+8152	ZA
+
+2	HN
+gold	SN
+pan	SN
+rd	SS
+boise	CN
+id	SN
+83716	SN
+4216	ZA
+
+1463	HN
+county	SN
+road	SS
+4	CN
+howard	CN
+co	SA
+81233	ZC
+9671	ZA
+
+23400	HN
+mercantile	SN
+rd	SS
+suite	UT
+10	HN
+beachwood	CN
+oh	SA
+44122	ZC
+5948	ZA
+
+119	HN
+lincoln	SN
+dr	SS
+sarver	CN
+pa	SA
+16055	ZC
+9269	ZA
+
+4543	HN
+south	SD
+akron	SN
+st	SS
+greenwood	CN
+vlg	CN
+co	SA
+80111	ZC
+1238	ZA
+
+2482	HN
+cedar	SN
+meadows	SN
+st	SS
+henderson	CN
+nv	SA
+89052	ZC
+4921	ZA
+
+rr	RR
+1	RV
+box	BT
+531	BV
+du	CN
+bois	CN
+pa	SA
+15801	ZC
+8724	ZA
+
+po	PO
+box	BT
+34	BV
+pattersonvle	CN
+ny	SA
+12137	ZC
+0034	ZA
+
+rr	RR
+5	RV
+box	BT
+613c	BV
+clarksburg	CN
+wv	SA
+26301	ZC
+9330	ZA
+
+3136	HN
+arrowhead	SN
+dr	SS
+lexington	CN
+ky	SA
+40503	ZC
+2773	ZA
+
+206	HN
+abner	SN
+drive	SS
+highfield	CN
+butler	CN
+pa	SA
+16001	ZC
+3130	ZA
+
+2540	HN
+buckhurst	SN
+dr	SS
+beachwood	CN
+oh	SA
+44122	ZC
+1669	ZA
+
+1055	HN
+saint	SN
+paul	SN
+pl	SS
+cincinnati	CN
+oh	SA
+45202	ZC
+6042	ZA
+
+1288	HN
+peartree	SN
+ct	SS
+tallmadge	CN
+oh	SA
+44278	ZC
+2680	ZA
+
+1588	HN
+dwiggins	SN
+st	SS
+wilmington	CN
+oh	SA
+45177	ZC
+9524	ZA
+
+4	HN
+clay	SN
+ave	SS
+wheeling	CN
+wv	SA
+26003	ZC
+5314	ZA
+
+2186	HN
+colfax	SN
+ave	SS
+columbus	CN
+oh	SA
+43224	ZC
+2307	ZA
+
+2009	HN
+starmont	SN
+rd	SS
+louisville	CN
+ky	SA
+40207	ZC
+1161	ZA
+
+859	HN
+lincoln	SN
+blvd	SS
+bedford	CN
+oh	SA
+44146	ZC
+3731	ZA
+
+20881	HN
+westminster	SN
+dr	SS
+strongsville	CN
+oh	SA
+44149	ZC
+6782	ZA
+
+57	HN
+ticonderoga	SN
+blvd	SS
+freehold	CN
+nj	SA
+07728	ZC
+5800	ZA
+
+343	HN
+wren	SN
+lane	SS
+bedminster	CN
+nj	SA
+07921	ZC
+1930	ZA
+
+453	HN
+etheridge	SN
+blvd	SS
+s	SD
+canal	SN
+fulton	CN
+oh	SA
+44614	ZC
+9399	ZA
+
+35	HN
+n	SD
+daniels	SN
+dr	SS
+batavia	CN
+il	SA
+60510	ZC
+7624	ZA
+
+3147	HN
+moon	SN
+hill	SN
+dr	SS
+northbrook	CN
+il	SA
+60062	ZC
+3305	ZA
+
+18520	HN
+sw	SD
+128th	SN
+ave	SS
+miami	CN
+fl	SA
+33177	ZC
+3034	ZA
+
+po	PO
+box	BT
+1449	BV
+luquillo	CN
+pr	SA
+00773	ZC
+1449	ZA
+
+100	HN
+ilume	SN
+st	SS
+manlius	CN
+ny	SA
+1310	ZC
+4	ZA
+
+675	HN
+florida	SN
+ave	SS
+oviedo	CN
+fl	SA
+32765	ZC
+8905	ZA
+
+509	HN
+rutile	SN
+dr	SS
+ponte	SN
+vedra	CN
+fl	SA
+32082	ZC
+2319	ZA
+
+3251	HN
+sw	SD
+margela	SN
+st	SS
+port	SN
+st	SS
+lucie	CN
+fl	SA
+34953	ZC
+
+204	HN
+springhouse	SN
+dr	SS
+white	SN
+hse	SN
+sta	CN
+nj	SA
+08889	ZC
+3221	ZA
+
+6261	HN
+timber	SN
+lake	SN
+drive	SS
+unit	CN
+sarasota	CN
+fl	SA
+34243	ZC
+3144	ZA
+
+16215	HN
+sw	SD
+26th	SN
+st	SS
+miramar	CN
+fl	SA
+33027	ZC
+4409	ZA
+
+7833	HN
+georgeann	SN
+st	SS
+winter	CN
+park	CN
+fl	SA
+32792	ZC
+8919	ZA
+
+7445	HN
+sw	SD
+128th	SN
+st	SS
+miami	CN
+fl	SA
+33156	ZC
+5343	ZA
+
+747	HN
+ne	SD
+195th	SN
+st	SS
+miami	CN
+fl	SA
+33179	ZC
+3421	ZA
+
+724	HN
+willow	SN
+run	SN
+lane	SS
+winter	CN
+spgs	CN
+fl	SA
+32708	ZC
+4949	ZA
+
+9163	HN
+kings	SN
+colony	SN
+rd	SS
+jacksonville	CN
+fl	SA
+32257	ZC
+4933	ZA
+
+1108	HN
+waterbrook	SN
+lane	SS
+weston	CN
+fl	SA
+33326	ZC
+2830	ZA
+
+910	HN
+w	SD
+end	SN
+ave	SS
+apt	UT
+12a	UV
+new	CN
+york	CN
+ny	SA
+10025	ZC
+3556	ZA
+
+1132	HN
+s	SD
+500	HN
+w	SD
+salt	SN
+lake	SN
+cty	CN
+ut	SA
+84101	ZC
+3018	ZA
+
+4530	HN
+jewel	SN
+ln	SS
+n	SD
+plymouth	CN
+mn	SA
+55446	ZC
+2448	ZA
+
+1600	HN
+arenas	SN
+pl	SS
+se	SD
+albuquerque	CN
+nm	SA
+87123	ZC
+4487	ZA
+
+4431	HN
+hollyhock	SN
+st	SS
+ft	CN
+collins	CN
+co	SA
+80526	ZC
+3515	ZA
+
+7908	HN
+ranchitos	SN
+loop	SS
+ne	SD
+albuquerque	CN
+nm	SA
+87113	ZC
+1428	ZA
+
+465	HN
+s	SD
+moss	SN
+hill	SN
+dr	SS
+bountiful	CN
+ut	SA
+84010	ZC
+1427	ZA
+
+2659	HN
+hemlock	SN
+ct	SS
+grand	CN
+jct	CN
+co	SA
+81506	ZC
+1414	ZA
+
+1463	HN
+county	SN
+road	SS
+4	CN
+howard	CN
+co	SA
+81233	ZC
+9671	ZA
+
+2	HN
+gold	SN
+pan	SN
+rd	SS
+boise	CN
+id	SN
+83716	SN
+4216	ZA
+
+3028	HN
+s	SD
+dayton	SN
+ct	SS
+denver	CN
+co	SA
+80231	ZC
+4710	ZA
+
+3069	HN
+1/2	SN
+dupont	SN
+ct	SS
+grand	CN
+jct	CN
+co	SA
+81504	ZC
+6354	ZA
+
+3995	HN
+easley	SN
+rd	SS
+golden	CN
+co	SA
+80403	ZC
+1503	ZA
+
+5312	HN
+pinon	SN
+dr	SS
+elizabeth	CN
+co	SA
+80107	ZC
+7824	ZA
+
+1137	HN
+gunnison	SN
+ave	SS
+grand	CN
+jct	CN
+co	SA
+81501	ZC
+3227	ZA
+
+950	HN
+cagney	SN
+ln	SS
+apt	UT
+307	UV
+newport	CN
+beach	CN
+ca	SA
+92663	ZC
+1612	ZA
+
+316	HN
+wayne	SN
+st	SS
+fort	CN
+collins	CN
+co	SA
+80521	ZC
+2434	ZA
+
+17407	HN
+beech	SN
+grove	SN
+trl	SS
+chagrin	CN
+falls	CN
+oh	SA
+44023	ZC
+1421	ZA
+
+31850	HN
+farm	SN
+dr	SS
+solon	CN
+oh	SA
+44139	ZC
+1956	ZA
+
+2463	HN
+12th	SN
+st	SS
+cuyahoga	CN
+fls	CN
+oh	SA
+44223	ZC
+2023	ZA
+
+509	HN
+fairlawn	SN
+road	SS
+louisville	CN
+ky	SA
+40207	ZC
+3	ZA
+
+9927	HN
+darrow	SN
+park	SN
+dr	SS
+apt	UT
+209n	UV
+twinsburg	CN
+oh	SA
+44087	ZC
+3519	ZA
+
+pob	PO
+345	BV
+asheville	CN
+nc	SA
+28803	ZC
+4567	ZA
+
+6935	HN
+carlisle	SN
+court	SS
+raleigh	CN
+nc	SA
+27608	ZC
+
+2500a	HN
+leitnaker	SN
+road	SS
+ne	SD
+pleasantville	CN
+oh	SA
+43148	ZC
+
+900	HN
+washington	SN
+rd	SS
+apt	UT
+402	UV
+pittsburgh	CN
+pa	SA
+15228	ZC
+2033	ZA
+
+21	HN
+ohio	SN
+ave	SS
+fort	CN
+thomas	CN
+ky	SA
+41075	ZC
+1328	ZA
+
+1889	HN
+dunkard	SN
+hollow	SN
+rd	SS
+alum	CN
+bank	CN
+pa	SA
+15521	ZC
+8624	ZA
+
+209	HN
+seaward	SN
+way	SS
+avon	CN
+lake	CN
+oh	SA
+44012	ZC
+2415	ZA
+
+408	HN
+scottsdale	SN
+dr	SS
+moon	SN
+township	CN
+pa	SA
+15108	ZC
+9609	ZA
+
+10655	HN
+springfield	SN
+pike	SS
+cincinnati	CN
+oh	SA
+45215	ZC
+1120	ZA
+
+710	HN
+antrim	SN
+rd	SS
+louisville	CN
+ky	SA
+40207	ZC
+1739	ZA
+
+3140	HN
+kingsley	SN
+road	SS
+shaker	CN
+hts	CN
+oh	SA
+44122	ZC
+2818	ZA
+
+1450	HN
+bobbitt	SN
+rd	SS
+wilmington	CN
+oh	SA
+45177	ZC
+9667	ZA
+
+466	HN
+barclay	SN
+road	SS
+rosemont	CN
+pa	SA
+19010	ZC
+1218	ZA
+
+154	HN
+lauriston	SN
+st	SS
+philadelphia	CN
+pa	SA
+19128	ZC
+3728	ZA
+
+572	HN
+alida	SN
+dr	SS
+cary	CN
+il	SA
+60013	ZC
+2002	ZA
+
+5340	HN
+s	SD
+hyde	CN
+park	SN
+blvd	SS
+chicago	CN
+il	SA
+60615	ZC
+5706	ZA
+
+5770	HN
+n	SD
+sunny	SN
+point	SN
+road	SS
+glendale	CN
+wi	SA
+53209	ZC
+4427	ZA
+
+2750	HN
+n	SD
+100	SN
+e	SD
+bluffton	CN
+in	SA
+46714	ZC
+9713	ZA
+
+4972	HN
+essington	SN
+court	SS
+barrington	CN
+il	SA
+60010	ZC
+5525	ZA
+
+9402	HN
+monticello	SN
+ave	SS
+evanston	CN
+il	SA
+60203	ZC
+1118	ZA
+
+804	HN
+addison	SN
+st	SS
+philadelphia	CN
+pa	SA
+19147	ZC
+1303	ZA
+
+po	PO
+box	BT
+827	BV
+farmington	CN
+ut	SA
+84025	ZC
+0827	ZA
+
+1035	HN
+scott	SN
+dr	SS
+apt	UT
+129	UV
+prescott	CN
+az	SA
+86301	ZC
+1774	ZA
+
+602	HN
+east	SN
+st	SS
+morris	CN
+il	SA
+60450	ZC
+2037	ZA
+
+980	HN
+river	SN
+road	SS
+midway	CN
+ut	SA
+84049	ZC
+6912	ZA
+
+1384	HN
+manzanita	SN
+street	SN
+floor	UNKNOWN
+6	UV
+sarasota	CN
+fl	SA
+34329	ZC
+
+6255	HN
+n	SD
+camino	SN
+pimeria	SN
+alta	SN
+tucson	CN
+az	SS
+85718	ZC
+3635	ZA
+
+912	HN
+utah	SN
+st	SS
+ne	SD
+albuquerque	CN
+nm	SA
+87108	ZC
+2439	ZA
+
+13812	HN
+winterwood	SN
+way	SS
+se	SD
+albuquerque	CN
+nm	SA
+87123	ZC
+4345	ZA
+
+po	PO
+box	BT
+771571	BV
+steamboat	SN
+spr	CN
+co	SA
+80477	ZC
+1571	ZA
+
+8118	HN
+e	SD
+windsor	SN
+ave	SS
+scottsdale	CN
+az	SA
+85257	ZC
+1745	ZA
+
+3421	HN
+n	SD
+grannen	SN
+road	SS
+tucson	CN
+az	SA
+85745	ZC
+9655	ZA
+
+po	PO
+box	BT
+31	BV
+kanab	CN
+ut	SA
+84741	ZC
+0031	ZA
+
+364	HN
+w	SD
+willowick	SN
+cir	SS
+hghlnds	CN
+ranch	CN
+co	SA
+80129	ZC
+6253	ZA
+
+430	HN
+jensen	SN
+st	SS
+green	CN
+river	CN
+wy	SA
+82935	ZC
+5115	ZA
+
+105	HN
+pinnacle	SN
+drive	SS
+lake	CN
+mills	CN
+wi	SA
+53551	ZC
+2000	ZA
+
+120	HN
+alexander	CN
+overlook	SN
+telluride	CN
+co	SA
+81435	ZC
+8905	ZA
+
+1293	HN
+bailey	SN
+road	SS
+cuyahoga	CN
+fls	CN
+oh	SA
+44221	ZC
+5201	ZA
+
+7307	HN
+grant	SN
+st	SS
+mentor	CN
+oh	SA
+44060	ZC
+4705	ZA
+
+8634	HN
+pekin	SN
+road	SS
+novelty	CN
+oh	SA
+44072	ZC
+9738	ZA
+
+2324	HN
+eagleville	SN
+rd	SS
+jefferson	CN
+oh	SA
+44047	ZC
+
+100	HN
+south	SN
+belcher	SN
+road	SS
+276	CN
+fairway	SN
+village	CN
+largo	CN
+fl	SA
+33771	ZC
+
+617	HN
+spring	SN
+ave	SS
+wshngtn	CN
+ct	SS
+hs	CN
+oh	SA
+43160	ZC
+1743	ZA
+
+465	HN
+girard	SN
+st	SS
+johnstown	CN
+pa	SA
+15905	ZC
+3321	ZA
+
+526	HN
+spicewood	SN
+dr	SS
+clarksville	CN
+in	SA
+47129	ZC
+1270	ZA
+
+201	HN
+orchard	SN
+st	SS
+alma	CN
+mi	SA
+48801	ZC
+1604	ZA
+
+3048	HN
+s	SD
+adams	SN
+street	SN
+midlothian	CN
+va	SA
+23113	ZC
+
+10	HN
+ottawa	SN
+ave	SS
+fredericktown	CN
+oh	SA
+43019	ZC
+9037	ZA
+
+1412	HN
+coolwood	SN
+ct	SS
+beavercreek	CN
+oh	SA
+45434	ZC
+6912	ZA
+
+6938	HN
+leigh	SN
+ave	SS
+nw	SD
+north	CN
+canton	CN
+oh	SA
+44720	ZC
+6520	ZA
+
+1305	HN
+sweetbay	SN
+dr	SS
+lexington	CN
+ky	SA
+40502	ZC
+2724	ZA
+
+4901	HN
+stone	SN
+black	SN
+drive	SS
+w	SD
+trenton	CN
+nj	SA
+08862	ZC
+
+710	HN
+antrim	SN
+rd	SS
+louisville	CN
+ky	SA
+40207	ZC
+1739	ZA
+
+207	HN
+connoquenessing	SN
+ave	SS
+ellwood	CN
+city	CN
+pa	SA
+16117	ZC
+3912	ZA
+
+300	HN
+e	SD
+62nd	SN
+st	SS
+apt	UT
+2104	UV
+new	CN
+york	CN
+ny	SA
+10021	ZC
+8238	ZA
+
+1725	HN
+walnut	SN
+st	SS
+lansdale	CN
+pa	SA
+19446	ZC
+1136	ZA
+
+3104	HN
+jolly	SN
+road	SS
+plymouth	CN
+mtng	CN
+pa	SA
+19462	ZC
+2302	ZA
+
+7800	HN
+shelby	SN
+st	SS
+ste	UT
+7	UV
+indianapolis	CN
+in	SA
+46227	ZC
+5957	ZA
+
+160	HN
+brentwood	SN
+trl	SS
+elgin	CN
+il	SA
+60120	ZC
+4653	ZA
+
+po	PO
+box	BT
+215	BV
+rosedale	CN
+in	SA
+47874	ZC
+0215	ZA
+
+38165	HN
+n	SD
+golf	SN
+ln	SS
+wadsworth	CN
+il	SA
+60083	ZC
+9212	ZA
+
+8447	HN
+n	SD
+olcott	SN
+ave	SS
+niles	CN
+il	SA
+60714	ZC
+2007	ZA
+
+1665	HN
+imperial	SN
+cir	SS
+naperville	CN
+il	SA
+60563	ZC
+0132	ZA
+
+750	HN
+s	SD
+warnock	SN
+st	SS
+philadelphia	CN
+pa	SA
+19147	ZC
+2729	ZA
+
+5602	HN
+comanche	SN
+way	SS
+madison	CN
+wi	SA
+53704	ZC
+1051	ZA
+
+2490	HN
+erbe	SN
+rd	SS
+blue	CN
+mounds	CN
+wi	SA
+53517	ZC
+
+po	PO
+box	BT
+142	BV
+waterloo	CN
+wi	SA
+53594	ZC
+0142	ZA
+
+601	HN
+grover	SN
+st	SS
+hollandale	CN
+wi	SA
+53544	ZC
+
+1011	HN
+west	CN
+1st	SN
+st	SS
+sumner	CN
+ia	SA
+50674	ZC
+1205	ZA
+
+9208	HN
+wembley	SN
+woods	SN
+dr	SS
+saint	CN
+louis	CN
+mo	SA
+63126	ZC
+3035	ZA
+
+1869	HN
+w	SD
+bend	SN
+dr	SS
+bloomfield	CN
+mi	SA
+48302	ZC
+1210	ZA
+
+2806	HN
+keystone	SN
+road	SS
+bloomington	CN
+il	SA
+61704	ZC
+8444	ZA
+
+1205	HN
+gettysburg	SN
+dr	SS
+bloomington	CN
+il	SA
+61704	ZC
+3603	ZA
+
+404	HN
+grandview	SN
+dr	SS
+normal	CN
+il	SA
+61761	ZC
+3139	ZA
+
+6172	HN
+riverglen	SN
+rd	SS
+ozark	CN
+mo	SA
+65721	ZC
+6683	ZA
+
+66201	HN
+e	SD
+290	SN
+road	SS
+grove	CN
+ok	SA
+74344	ZC
+6251	ZA
+
+po	PO
+box	BT
+249	BV
+duncan	CN
+ok	SA
+73534	ZC
+0249	ZA
+
+hc	HN
+61	PO
+box	BT
+6	BV
+bartlett	CN
+ne	SD
+68622	ZC
+9502	ZA
+
+1608	HN
+woodmont	SN
+blvd	SS
+nashville	CN
+tn	SA
+37215	ZC
+1524	ZA
+
+1049	HN
+fayette	SN
+st	SS
+uniondale	CN
+ny	SA
+11553	ZC
+1611	ZA
+
+6	HN
+chestnut	SN
+hill	SN
+westbury	CN
+ny	SA
+11590	ZC
+
+600	HN
+west	SN
+end	SN
+ave	SS
+apt	UT
+5e	UV
+new	CN
+york	CN
+ny	SA
+10024	ZC
+1643	ZA
+
+141	HN
+e	SD
+37th	SN
+st	SS
+new	CN
+york	CN
+ny	SA
+10016	ZC
+3117	ZA
+
+2	HN
+washington	SN
+square	SN
+vlg	ZA
+apt	UT
+14r	UV
+new	CN
+york	CN
+ny	SA
+10012	ZC
+1710	ZA
+
+2985	HN
+socialville	SN
+foster	SN
+rd	SS
+maineville	CN
+oh	SA
+45039	ZC
+8343	ZA
+
+800	HN
+lasalle	SN
+ave	SS
+ste	UT
+2800	UV
+minneapolis	CN
+mn	SA
+55402	ZC
+2039	ZA
+
+806	HN
+bonnie	SN
+dr	SS
+baldwin	CN
+ny	SA
+11510	ZC
+4521	ZA
+
+po	PO
+box	BT
+588	BV
+avon	SN
+ct	SS
+06001	ZC
+0588	ZA
+
+8020	HN
+spruce	SN
+hill	SN
+dr	SS
+clay	CN
+ny	SA
+13041	ZC
+8616	ZA
+
+81	HN
+blueberry	SN
+dr	SS
+stamford	CN
+ct	SA
+06902	ZC
+1805	ZA
+
+po	PO
+box	BT
+267	BV
+wolcott	CN
+ny	SA
+14590	ZC
+0267	ZA
+
+po	PO
+box	BT
+578	BV
+honeoye	CN
+ny	SA
+14471	ZC
+0578	ZA
+
+770	HN
+sassafras	SN
+ct	SS
+mahwah	CN
+nj	SA
+07430	ZC
+3454	ZA
+
+255	HN
+louis	SN
+st	SS
+hackensack	CN
+nj	SA
+07601	ZC
+3023	ZA
+
+53	HN
+harwich	SN
+road	SS
+fairfield	CN
+ct	SA
+06432	ZC
+1403	ZA
+
+116	HN
+cane	SN
+st	SS
+bogota	CN
+nj	SA
+07603	ZC
+1104	ZA
+
+1104	HN
+kenilworth	SN
+drive	SS
+ste	UT
+30	UV
+towson	CN
+md	SA
+21204	ZC
+2101	ZA
+
+7217	HN
+verbena	SN
+road	SS
+baltimore	CN
+md	SA
+21209	ZC
+1035	ZA
+
+2502	HN
+riverwood	SN
+ter	SS
+st	SS
+joseph	CN
+mi	SA
+49085	ZC
+2121	ZA
+
+630	HN
+sugar	SN
+pine	SN
+dr	SS
+w	SD
+melbourne	CN
+fl	SA
+32904	ZC
+1962	ZA
+
+9333	HN
+raisin	SN
+st	SS
+maybee	CN
+mi	SA
+48159	ZC
+9701	ZA
+
+822	HN
+golf	SN
+view	SN
+dr	SS
+apt	UT
+110	UV
+medford	CN
+or	SA
+97504	ZC
+9656	ZA
+
+910	HN
+n	SD
+broadway	SN
+st	SS
+lewistown	CN
+il	SA
+61542	ZC
+1072	ZA
+
+176	HN
+e	SD
+77th	SN
+st	SS
+apt	UT
+7c	UV
+new	CN
+york	CN
+ny	SA
+10021	ZC
+1911	ZA
+
+16	HN
+n	SD
+chatsworth	SN
+ave	SS
+apt	UT
+709	HN
+larchmont	CN
+ny	SA
+10538	ZC
+2146	ZA
+
+1719	HN
+mississippi	SN
+st	SS
+lawrence	CN
+ks	SA
+66044	ZC
+4063	ZA
+
+2496	HN
+silver	SN
+oak	SN
+circle	SN
+palm	CN
+springs	CN
+ca	SA
+92264	ZC
+8630	ZA
+
+p.o.	PO
+348	SN
+fargo	CN
+nd	SA
+58107	ZC
+0348	ZA
+
+1600	HN
+e	SD
+39th	SN
+st	SS
+n	SD
+sioux	SN
+falls	CN
+sd	CN
+57104	SN
+5472	ZA
+
+401	HN
+meadowood	SN
+lane	SS
+burnsville	CN
+mn	SA
+55337	ZC
+6841	ZA
+
+810	HN
+river	SN
+oaks	SN
+trail	SN
+mosinee	CN
+wi	SA
+54455	ZC
+7969	ZA
+
+3700	HN
+s	SD
+lindbergh	SN
+blvd	SS
+e	SD
+saint	CN
+louis	CN
+mo	SA
+63127	ZC
+1338	ZA
+
+8401	HN
+deer	SN
+pointe	SN
+dr	SS
+alton	CN
+il	SA
+62002	ZC
+7956	ZA
+
+1822	HN
+cardinal	SN
+ct	SS
+pontiac	CN
+il	SA
+61764	ZC
+9332	ZA
+
+2	HN
+brompton	SN
+ct	SS
+bloomington	CN
+il	SA
+61704	ZC
+6283	ZA
+
+204	HN
+s	SD
+williamsburg	SN
+drive	SS
+bloomington	CN
+il	SA
+61704	ZC
+4536	ZA
+
+3316	HN
+cumbria	SN
+dr	SS
+bloomington	CN
+il	SA
+61704	ZC
+1226	ZA
+
+622	HN
+forest	SN
+leaf	SN
+drive	SS
+ballwin	CN
+mo	SA
+63011	ZC
+3473	ZA
+
+99	HN
+professional	SN
+center	SN
+pkwy	SS
+ap	SN
+san	CN
+rafael	CN
+ca	SA
+94903	ZC
+2754	ZA
+
+642	HN
+scotland	SN
+dr	SS
+santa	CN
+rosa	CN
+ca	SA
+95409	ZC
+4419	ZA
+
+2026	HN
+5th	SN
+ave	SS
+s	SD
+fort	CN
+dodge	CN
+ia	SA
+50501	ZC
+4308	ZA
+
+508	HN
+queens	SN
+rd	SS
+sanford	CN
+nc	SA
+27330	ZC
+3416	ZA
+
+6	HN
+orchard	SN
+lane	SS
+old	CN
+westbury	CN
+ny	SA
+11568	ZC
+1048	ZA
+
+494	HN
+ionia	SN
+ave	SS
+staten	CN
+island	CN
+ny	SA
+10312	ZC
+2816	ZA
+
+415	HN
+madison	SN
+ave	SS
+fl	UT
+18	ZC
+new	CN
+york	CN
+ny	SA
+10017	ZC
+1111	ZA
+
+2	HN
+washington	SN
+square	SN
+village	SN
+new	CN
+york	CN
+ny	SA
+10012	ZC
+1711	ZA
+
+8	HN
+sunbeam	SN
+drive	SS
+trumbull	CN
+ct	SS
+06611	ZC
+1655	ZA
+
+7602	HN
+central	SN
+ave	SS
+suite	UT
+101	HN
+philadelphia	CN
+pa	SA
+19111	ZC
+2443	ZA
+
+5053	HN
+w	SD
+100	SN
+n	SN
+boggstown	CN
+in	SA
+46110	ZC
+9712	ZA
+
+310	HN
+busse	SN
+hwy	SS
+292	UV
+park	CN
+ridge	CN
+il	SA
+60068	ZC
+3251	ZA
+
+5215	HN
+estes	SN
+cir	SS
+arvada	CN
+co	SA
+80002	ZC
+3370	ZA
+
+11572	HN
+autumn	SN
+hill	SN
+dr	SS
+apt	UT
+d	UV
+sandy	CN
+ut	SA
+84094	ZC
+7338	ZA
+
+377	HN
+s	SD
+nevada	SN
+st	SS
+carson	CN
+city	CN
+nv	SA
+89703	ZC
+4290	ZA
+
+4604	HN
+leon	SN
+grande	SN
+ave	SS
+se	SD
+rio	CN
+rancho	CN
+nm	SA
+87124	ZC
+1369	ZA
+
+410	HN
+n	SD
+31st	SN
+st	SS
+colorado	CN
+spgs	CN
+co	SA
+80904	ZC
+2015	ZA
+
+6104	HN
+buffalo	SN
+grass	SN
+ct	SS
+ne	SD
+albuquerque	CN
+nm	SA
+87111	ZC
+8327	ZA
+
+638	HN
+g	SN
+st	SS
+apt	UT
+58	UV
+salida	CN
+co	SA
+81201	ZC
+2424	ZA
+
+527	HN
+washington	SN
+ave	SS
+west	CN
+oneonta	CN
+ny	SA
+13861	ZC
+
+1950	HN
+n	SD
+canino	SN
+sabadell	SN
+tucson	CN
+az	SA
+85715	ZC
+
+5722	HN
+e	SD
+ellis	SN
+st	SS
+mesa	CN
+az	SA
+85205	ZC
+5856	ZA
+
+4213	HN
+jacob	SN
+meadows	SN
+dr	SS
+okemos	CN
+mi	SA
+48864	ZC
+3181	ZA
+
+po	PO
+box	BT
+25145	BV
+albuquerque	CN
+nm	SA
+87125	ZC
+0145	ZA
+
+8	HN
+mai	SN
+strasse	SN
+31/4	SN
+9020	SN
+klagdenfurt	ZA
+
+15029	HN
+mcgraw	SN
+ave	SS
+pt	CN
+charlotte	CN
+fl	SA
+33953	ZC
+4540	ZA
+
+1923	HN
+n	SD
+wild	SN
+hyacinth	SN
+dr	SS
+tucson	CN
+az	SA
+85715	ZC
+5928	ZA
+
+5117	HN
+w	SD
+cove	SN
+st	SS
+boise	CN
+id	SA
+83703	ZC
+1977	ZA
+
+2801	HN
+n	SD
+sparkman	SN
+blvd	SS
+tucson	CN
+az	SA
+85716	ZC
+1930	ZA
+
+25520	HN
+bryden	SN
+road	SS
+beachwood	CN
+oh	SA
+44122	ZC
+4165	ZA
+
+246	HN
+s	SD
+lake	SN
+street	SN
+rogers	CN
+city	CN
+mi	SA
+49779	ZC
+
+4543	HN
+south	SD
+akron	SN
+st	SS
+greenwood	CN
+vlg	CN
+co	SA
+80111	ZC
+1238	ZA
+
+5587	HN
+ashbrook	SN
+st	SS
+louisville	CN
+oh	SA
+44641	ZC
+8821	ZA
+
+pob	PO
+43	BV
+industry	CN
+pa	SA
+15052	ZC
+0043	ZA
+
+16701	HN
+winding	SN
+view	SN
+trl	SS
+tr	CN
+fisherville	CN
+ky	SA
+40023	ZC
+9747	ZA
+
+6300	HN
+forest	SN
+way	SS
+pl	SS
+louisville	CN
+ky	SA
+40258	ZC
+5424	ZA
+
+2905	HN
+tallwood	SN
+ct	SS
+north	CN
+olmsted	CN
+oh	SA
+44070	ZC
+
+646	HN
+college	SN
+ave	SS
+wooster	CN
+oh	SA
+44691	ZC
+2914	ZA
+
+116	HN
+casto	SN
+road	SS
+cross	CN
+lanes	CN
+wv	SA
+25313	ZC
+1309	ZA
+
+apt	UT
+607	UV
+2700	HN
+north	SD
+atlantic	SN
+avenue	SS
+bronxville	CN
+ny	SA
+10708	ZC
+
+rr	RR
+2	RV
+box	BT
+382	BV
+saint	SN
+marys	CN
+wv	SA
+26170	ZC
+9775	ZA
+
+207	HN
+lakengren	SN
+drive	SS
+eaton	CN
+oh	SA
+45320	ZC
+2810	ZA
+
+7659	HN
+saint	SN
+james	SN
+driv	SS
+mentor	CN
+oh	SA
+44060	ZC
+8435	ZA
+
+194	HN
+twinkle	SN
+toes	SN
+drive	SS
+saint	CN
+marys	CN
+oh	SA
+48558	ZC
+
+205	HN
+lake	SN
+terrace	SN
+drive	SS
+munroe	CN
+falls	CN
+oh	SA
+44262	ZC
+1027	ZA
+
+206	HN
+foxglove	SN
+dr	SS
+baden	CN
+pa	SA
+15005	ZC
+2608	ZA
+
+1477	HN
+cassville	CN
+mt	SA
+morris	SN
+rd	SS
+morgantown	CN
+wv	SA
+26501	ZC
+2117	ZA
+
+638	HN
+stokes	SN
+road	SS
+medford	CN
+nj	SA
+08055	ZC
+2902	ZA
+
+4972	HN
+essington	SN
+ct	SS
+barrington	CN
+il	SA
+60010	ZC
+5525	ZA
+
+c/o	CO
+norwalk	ON
+tank	ON
+co.	ON
+maple	SN
+joliet	CN
+il	SA
+60432	ZC
+9642	ZA
+
+9812	HN
+rawles	SN
+ave	SS
+indianapolis	CN
+in	SA
+46229	ZC
+3073	ZA
+
+3147	HN
+moon	SN
+hill	SN
+drive	SS
+northbrook	CN
+il	SA
+60062	ZC
+3305	ZA
+
+4398	HN
+e	SD
+2940th	SN
+rd	SS
+sheridan	CN
+il	SA
+60551	ZC
+9670	ZA
+
+9402	HN
+monticello	SN
+ave	SS
+evanston	CN
+il	SA
+60203	ZC
+1118	ZA
+
+421	HN
+chandlee	SN
+drive	SS
+berwyn	CN
+pa	SA
+19312	ZC
+2063	ZA
+
+4800	HN
+n	SD
+55th	SN
+ave	SS
+wausau	CN
+wi	SA
+54401	ZC
+8322	ZA
+
+216	HN
+lewis	SN
+ave	SS
+so	CN
+watertown	CN
+mn	SA
+55388	ZC
+
+1306	HN
+canterbury	SN
+road	SS
+green	CN
+bay	CN
+wi	SA
+54304	ZC
+4010	ZA
+
+po	PO
+box	BT
+141	BV
+manchester	CN
+ca	SA
+95459	ZC
+0141	ZA
+
+4295	HN
+cottage	SN
+row	SN
+fish	CN
+creek	CN
+wi	SA
+54212	ZC
+9715	ZA
+
+n10030	HN
+fairground	SN
+ave	SS
+greenwood	CN
+wi	SA
+54437	ZC
+8241	ZA
+
+1512	HN
+weston	SN
+pointe	SN
+drive	SS
+springfield	CN
+il	SA
+62704	ZC
+6489	ZA
+
+po	PO
+box	BT
+355	HN
+hudson	CN
+il	SA
+61748	ZC
+0355	ZA
+
+5	HN
+carney	SN
+ct	SS
+bloomington	CN
+il	SA
+61704	ZC
+8353	ZA
+
+1002	HN
+twin	SN
+lake	SN
+road	SS
+bloomington	CN
+il	SA
+61704	ZC
+7242	ZA
+
+6112	HN
+32nd	SN
+ave	SS
+woodside	CN
+ny	SA
+11377	ZC
+2021	ZA
+
+85	HN
+laurel	SN
+hill	SN
+drive	SS
+woodstock	CN
+vly	SN
+ct	SS
+06282	ZC
+2518	ZA
+
+116	HN
+genesee	SN
+st	SS
+new	CN
+hartford	CN
+ny	SA
+13413	ZC
+2329	ZA
+
+502	HN
+n	SD
+orcharoad	SN
+rd	SS
+solvay	CN
+ny	SA
+13209	ZC
+2022	ZA
+
+72	HN
+winchester	SN
+rd	SS
+new	CN
+hartford	SN
+ct	SS
+06057	ZC
+2921	ZA
+
+900	SN
+sherman	SN
+dr	SS
+utica	CN
+ny	SA
+13501	ZC
+5305	ZA
+
+2	HN
+wyndham	SN
+ct	SS
+boonton	CN
+nj	SA
+07005	ZC
+9510	ZA
+
+738	HN
+briarcliff	SN
+ave	SS
+maywood	CN
+nj	SA
+07607	ZC
+1440	ZA
+
+53	HN
+harwich	SN
+rd	SS
+fairfield	SN
+ct	SS
+06432	ZC
+1403	ZA
+
+9710	HN
+62nd	SN
+drive	SS
+apt	UT
+9g	UV
+rego	SN
+park	CN
+ny	SA
+11374	ZC
+1305	ZA
+
+2	HN
+shepherd	SN
+house	SN
+court	SS
+catonsville	CN
+md	SA
+21228	ZC
+5363	ZA
+
+2001	HN
+south	SD
+main	SN
+st	SS
+suite	UT
+6	UV
+blacksburg	CN
+va	SA
+24060	ZC
+6667	ZA
+
+643	HN
+n	SD
+brys	SN
+dr	SS
+grosse	SN
+pointe	CN
+mi	SA
+48236	ZC
+1246	ZA
+
+3851	HN
+common	SN
+road	SS
+warren	CN
+mi	SA
+48092	ZC
+3360	ZA
+
+4930	HN
+mill	SN
+creek	SN
+dr	SS
+rochester	CN
+mi	SA
+48306	ZC
+1638	ZA
+
+9th	CN
+fl	CN
+ny	CN
+ny	SA
+10104	ZC
+
+4555	HN
+odin	SN
+ln	SS
+new	CN
+franken	CN
+wi	SA
+54229	ZC
+9484	ZA
+
+5675	HN
+lago	SN
+vis	SN
+abrams	CN
+wi	SA
+54101	ZC
+9631	ZA
+
+6561	HN
+kell	SN
+ln	SS
+las	CN
+vegas	CN
+nv	SA
+89156	ZC
+7017	ZA
+
+1205	HN
+n	SD
+fairlakes	SN
+ave	SS
+fairmont	CN
+mn	SA
+56031	ZC
+1630	ZA
+
+5354	HN
+w	SD
+62nd	SN
+st	SS
+indianapolis	CN
+in	SA
+46268	ZC
+4491	ZA
+
+7990	HN
+sw	SD
+146th	SN
+st	SS
+miami	CN
+fl	SA
+33158	ZC
+2064	ZA
+
+122	HN
+palmers	SN
+hill	SN
+road	SS
+1334	CN
+stamford	CN
+ct	SA
+06902	ZC
+2145	ZA
+
+2398	HN
+edgemere	SN
+court	SS
+cincinnati	CN
+oh	SA
+45244	ZC
+3717	ZA
+
+c/o	CO
+james	ON
+t	ON
+bland	ON
+1202	HN
+richardson	SN
+dr	SS
+ste	UT
+203	UV
+richardson	CN
+tx	SA
+75080	ZC
+4677	ZA
+
+718	HN
+n	SD
+montana	SN
+place	SN
+kennewick	CN
+wa	SA
+99336	ZC
+1001	ZA
+
+c/o	CO
+thomas	ON
+battershell	ON
+1920	HN
+helena	CN
+mt	SA
+59601	ZC
+4765	ZA
+
+137	HN
+grayton	SN
+rd	SS
+tonawanda	CN
+ny	SA
+14150	ZC
+9033	ZA
+
+2308	HN
+hwy	SN
+98	SN
+east	SD
+carrabelle	CN
+fl	SA
+32322	ZC
+
+29	HN
+aarons	SN
+court	SS
+ridgefield	CN
+ct	SA
+06877	ZC
+1118	ZA
+
+140	HN
+alston	SN
+ave	SS
+new	CN
+haven	CN
+ct	SS
+06515	ZC
+2002	ZA
+
+c/o	CO
+nancy	ON
+c	ON
+gerosa	ON
+29	HN
+aarons	SN
+ct	SS
+ridgefield	CN
+ct	SA
+06877	ZC
+1118	ZA
+
+2710	HN
+blackshear	SN
+ave	SS
+pensacola	CN
+fl	SA
+32503	ZC
+4903	ZA
+
+211	HN
+annandale	SN
+cres	SN
+birmingham	CN
+al	SA
+35223	ZC
+2901	ZA
+
+7990	HN
+sw	SD
+146th	SN
+st	SS
+miami	CN
+fl	SA
+33158	ZC
+2064	ZA
+
+po	PO
+box	BT
+276	BV
+windom	CN
+mn	SA
+56101	ZC
+0276	ZA
+
+5475	HN
+south	SD
+lowell	SN
+blvd	SS
+littleton	CN
+co	SA
+80123	ZC
+2933	ZA
+
+12915	HN
+meadow	SN
+creek	SN
+ln	SS
+apt	UT
+307	UV
+pineville	CN
+nc	SA
+28134	ZC
+6334	ZA
+
+2529	HN
+eucalyptus	SN
+drive	SS
+plano	CN
+tx	SA
+75075	ZC
+3106	ZA
+
+527	HN
+elysian	SN
+fields	SN
+ave	SS
+new	CN
+orleans	CN
+la	SA
+70117	ZC
+8646	ZA
+
+2033	HN
+colorado	SN
+ave	SS
+sun	CN
+prairie	CN
+wi	SA
+53590	ZC
+2505	ZA
+
+25	HN
+northwood	SN
+commons	SN
+place	SS
+chico	CN
+ca	SA
+95926	ZC
+7213	ZA
+
+8001	HN
+metcalf	SN
+ave	SS
+overland	CN
+park	CN
+ks	SA
+66204	ZC
+3844	ZA
+
+po	PO
+box	BT
+250	BV
+la	CN
+grange	CN
+ky	SA
+40031	ZC
+0250	ZA
+
+po	PO
+box	BT
+30278	BV
+las	CN
+vegas	CN
+nv	SA
+89173	ZC
+0278	ZA
+
+3655	HN
+s	SD
+whitnall	SN
+ave	SS
+milwaukee	CN
+wi	SA
+53207	ZC
+3367	ZA
+
+107	HN
+east	SD
+wigham	SN
+st	SS
+centralia	CN
+mo	SA
+65240	ZC
+1072	ZA
+
+253	HN
+n	SD
+columbia	SN
+ave	SS
+columbus	CN
+oh	SA
+43209	ZC
+1417	ZA
+
+1414	HN
+south	SD
+tyler	SN
+st	SS
+covington	CN
+la	SA
+70433	ZC
+2334	ZA
+
+6	HN
+woodland	SN
+rd	SS
+roslyn	CN
+ny	SA
+11576	ZC
+1421	ZA
+
+c/o	CO
+morris	ON
+schwab	ON
+tr	ON
+po	PO
+box	BT
+5967	BV
+harrisburg	CN
+pa	SA
+17110	ZC
+0967	ZA
+
+po	PO
+box	BT
+540	BV
+greensboro	CN
+nc	SA
+27402	ZC
+0540	ZA
+
+po	PO
+box	BT
+145	BV
+birch	SN
+run	CN
+mi	SA
+48415	ZC
+0145	ZA
+
+rr	RR
+90	RV
+king	CN
+ferry	CN
+ny	SA
+13081	ZC
+
+2238	HN
+godwin	SN
+ave	SS
+se	SD
+grand	CN
+rapids	CN
+mi	SA
+49507	ZC
+3130	ZA
+
+2	HN
+wilshire	SN
+ct	SS
+bloomington	CN
+il	SA
+61704	ZC
+6258	ZA
+
+85	HN
+julie	SN
+lane	SS
+saint	CN
+peters	CN
+mo	SA
+63376	ZC
+2151	ZA
+
+161	HN
+n	SD
+byron	SN
+road	SS
+wichita	CN
+ks	SA
+67212	ZC
+3721	ZA
+
+10	HN
+forest	SN
+road	SS
+ponca	CN
+city	CN
+ok	SA
+74604	ZC
+5119	ZA
+
+734	HN
+n	SD
+57th	SN
+st	SS
+omaha	CN
+ne	SD
+68132	ZC
+2034	ZA
+
+509	HN
+amos	SN
+bridges	SN
+rd	SS
+sanford	CN
+nc	SA
+27330	ZC
+
+145	HN
+w	SD
+commercial	SN
+ave	SS
+moonachie	CN
+nj	SA
+07074	ZC
+1704	ZA
+
+608	HN
+plutarch	SN
+road	SS
+highland	CN
+ny	SA
+12528	ZC
+2912	ZA
+
+3412	HN
+ocean	SN
+ave	SS
+oceanside	CN
+ny	SA
+11572	ZC
+4328	ZA
+
+11	HN
+sunset	SN
+road	SS
+n	SD
+albertson	CN
+ny	SA
+11507	ZC
+1132	ZA
+
+6315	HN
+everton	SN
+st	SS
+rego	CN
+park	CN
+ny	SA
+11374	ZC
+2810	ZA
+
+2822	HN
+len	SN
+drive	SS
+bellmore	CN
+ny	SA
+11710	ZC
+5204	ZA
+
+20	HN
+briarwood	SN
+drive	SS
+glen	CN
+cove	CN
+ny	SA
+11542	ZC
+1602	ZA
+
+71	HN
+richmond	SN
+hill	SN
+rd	SS
+greenwich	SN
+ct	SS
+06831	ZC
+2525	ZA
+
+65	HN
+pleasant	SN
+st	SS
+marblehead	CN
+ma	SA
+01945	ZC
+3345	ZA
+
+3203	HN
+reston	SN
+dr	SS
+baldwinsville	CN
+ny	SA
+13027	ZC
+1729	ZA
+
+509	HN
+delano	SN
+ave	SS
+vestal	CN
+ny	SA
+0138	ZC
+5	ZA
+
+103	HN
+north	SN
+ave	SS
+natick	CN
+ma	SA
+01760	ZC
+3512	ZA
+
+2329	HN
+coney	SN
+island	SN
+ave	SS
+brooklyn	CN
+ny	SA
+11223	ZC
+5001	ZA
+
+65	HN
+dumont	SN
+ave	SS
+clifton	CN
+nj	SA
+07013	ZC
+1008	ZA
+
+65	HN
+dumont	SN
+ave	SS
+clifton	CN
+nj	SA
+07013	ZC
+1008	ZA
+
+36	HN
+stoneham	SN
+pl	SS
+metuchen	CN
+nj	SA
+08840	ZC
+1633	ZA
+
+2322	HN
+n	SD
+broad	SN
+st	SS
+24	SD
+philadelphia	CN
+pa	SA
+19132	ZC
+4503	ZA
+
+2225	HN
+pocoshock	SN
+blvd	SS
+richmond	CN
+va	SA
+23235	ZC
+6311	ZA
+
+315	HN
+w	SD
+main	SN
+st	SS
+clayton	CN
+nc	SA
+27520	ZC
+2324	ZA
+
+9406	HN
+westwind	SN
+dr	SS
+livonia	CN
+mi	SA
+48150	ZC
+4527	ZA
+
+3007	HN
+lakeview	SN
+st	SS
+harrison	CN
+mi	SA
+48625	ZC
+8019	ZA
+
+3505	HN
+merritt	SN
+rd	SS
+ypsilanti	CN
+mi	SA
+48197	ZC
+9397	ZA
+
+12678	HN
+headwater	SN
+cir	SS
+wellington	CN
+fl	SA
+33414	ZC
+4908	ZA
+
+41	HN
+carriage	SN
+ct	SS
+pittsford	CN
+ny	SA
+14534	ZC
+4031	ZA
+
+c/o	CO
+l	ON
+stevanns	SN
+payne	SN
+10840	ZA
+n	SD
+friar	SN
+dr	SS
+hayden	SN
+lake	SS
+id	SA
+83835	SN
+9570	ZA
+
+1006	HN
+north	CN
+1st	SN
+st	SS
+bismarck	CN
+nd	SA
+58501	ZC
+3518	ZA
+
+1300	HN
+wrightstown	SN
+road	SS
+newtown	CN
+pa	SA
+18940	ZC
+9602	ZA
+
+n8865	HN
+tiffany	SN
+ln	SS
+brillion	CN
+wi	SA
+54110	ZC
+9620	ZA
+
+3136	HN
+maple	SN
+grv	SN
+suamico	CN
+wi	SA
+54173	ZC
+8131	ZA
+
+533	HN
+wildflower	SN
+burnsville	CN
+mn	SA
+55306	ZC
+5292	ZA
+
+4525	HN
+northbrook	SN
+rd	SS
+la	CN
+crosse	CN
+wi	SA
+54601	ZC
+2965	ZA
+
+1065	HN
+w	SD
+haseltine	SN
+st	SS
+richland	CN
+ctr	CN
+wi	SA
+53581	ZC
+2014	ZA
+
+6724	HN
+black	SN
+water	SN
+dr	SS
+saint	CN
+louis	CN
+mo	SA
+63129	ZC
+4964	ZA
+
+po	PO
+box	BT
+223	BV
+kelso	CN
+mo	SA
+63758	ZC
+0223	ZA
+
+320	HN
+firetree	SN
+road	SS
+bloomington	CN
+il	SA
+61704	ZC
+9138	ZA
+
+rr	RR
+2	RV
+box	BT
+148	BV
+colfax	CN
+il	SA
+61728	ZC
+9655	ZA
+
+117	HN
+doud	SN
+drive	SS
+normal	CN
+il	SA
+61761	ZC
+3211	ZA
+
+1627	HN
+n	SD
+5th	SN
+st	SS
+chillicothe	CN
+il	SA
+61523	ZC
+1101	ZA
+
+1150	HN
+south	SD
+longford	SN
+ct	SS
+wichita	CN
+ks	SA
+67207	ZC
+3211	ZA
+
+1602	HN
+santa	CN
+fe	SN
+st	SS
+atchison	CN
+ks	SA
+66002	ZC
+2239	ZA
+
+14779	HN
+w	SD
+piccadilly	SN
+road	SS
+goodyear	CN
+az	SA
+85338	ZC
+8829	ZA
+
+3474	HN
+se	SD
+crestwater	SN
+dr	SS
+topeka	CN
+ks	SA
+66605	ZC
+2315	ZA
+
+1401	HN
+elm	SN
+ave	SS
+al	UNKNOWN
+highway	UNKNOWN
+monroe,	CN
+al	SA
+36521	ZC
+
+814	HN
+fulton	SN
+st	SS
+farmingdale	CN
+ny	SA
+11735	ZC
+3601	ZA
+
+145	HN
+grand	SN
+ave	SS
+staten	CN
+island	CN
+ny	SA
+10301	ZC
+4058	ZA
+
+22	HN
+milford	SN
+dr	SS
+plainview	CN
+ny	SA
+11803	ZC
+3233	ZA
+
+560	HN
+broadway	SN
+new	CN
+york	CN
+ny	SA
+10012	ZC
+3938	ZA
+
+109	HN
+garden	SN
+dr	SS
+albertson	CN
+ny	SA
+11507	ZC
+1211	ZA
+
+800	HN
+lasalle	SN
+ave	SS
+apt	UT
+2800	UV
+minneapolis	CN
+mn	SA
+55402	ZC
+2039	ZA
+
+175	HN
+federal	SN
+st	SS
+boston	CN
+ma	SA
+02110	ZC
+2210	ZA
+
+1505	HN
+via	SN
+castilla	SN
+pls	SN
+vrds	SN
+est	CN
+ca	SA
+90274	ZC
+2852	ZA
+
+750	HN
+black	SN
+canyon	SN
+drv	SS
+estes	CN
+park	CN
+co	SA
+80517	ZC
+9635	ZA
+
+att	ZA
+
+6th	HN
+&	SN
+new	CN
+hampshire	CN
+lawrence	CN
+ks	SA
+66044	ZC
+
+738	HN
+alleghany	SN
+road	SS
+grayslake	CN
+il	SA
+60030	ZC
+3830	ZA
+
+241	HN
+westmorland	SN
+dr	SS
+apt	UT
+206	UV
+vernon	CN
+hills	CN
+il	SA
+60060	ZC
+
+po	PO
+box	BT
+2309	ZA
+syracuse	CN
+ny	SA
+13220	ZC
+2309	ZA
+
+7574	HN
+stein	SN
+rd	SS
+zionsville	CN
+pa	SA
+18092	ZC
+2920	ZA
+
+524	HN
+w	SD
+grant	SN
+st	SS
+lindsborg	CN
+ks	SA
+67456	ZC
+2317	ZA
+
+c/o	CO
+judith	ON
+a	ON
+norback	ON
+6620	HN
+edina	CN
+mn	SA
+55435	ZC
+1529	ZA
+
+1543	HN
+lexington	SN
+drive	SS
+lynchburg	CN
+va	SA
+24503	ZC
+1927	ZA
+
+4129	HN
+w	SD
+228th	SN
+pl	SS
+torrance	CN
+ca	SA
+90505	ZC
+3539	ZA
+
+1419	HN
+sherwood	SN
+lane	SS
+oklahoma	CN
+city	CN
+ok	SA
+73116	ZC
+5633	ZA
+
+po	PO
+box	BT
+21909	BV
+charleston	CN
+sc	SA
+29413	ZC
+1909	ZA
+
+233	HN
+east	SD
+nottingham	SN
+pl	SS
+san	CN
+antonio	CN
+tx	SA
+78209	ZC
+3326	ZA
+
+s9591	HN
+church	SN
+road	SS
+pr	SS
+du	CN
+sac	CN
+wi	SA
+53578	ZC
+9717	ZA
+
+rr	RR
+1	RV
+cleveland	SN
+mn	SA
+56017	ZC
+9803	ZA
+
+2115	HN
+big	SN
+cove	SN
+road	SS
+se	SD
+huntsville	CN
+al	SA
+35801	ZC
+1347	ZA
+
+4473	HN
+golden	SN
+lane	SS
+lake	CN
+oswego	CN
+or	SA
+97035	ZC
+1856	ZA
+
+6	HN
+woodland	SN
+road	SS
+roslyn	CN
+ny	SA
+11576	ZC
+1421	ZA
+
+5858	HN
+york	SN
+rd	SS
+versailles	CN
+oh	SA
+45380	ZC
+9428	ZA
+
+223	HN
+e	SD
+lafayette	SN
+st	SS
+fayetteville	CN
+ar	SA
+72701	ZC
+4242	ZA
+
+po	PO
+box	BT
+2343	BV
+hickory	CN
+nc	SA
+28603	ZC
+2343	ZA
+
+3303	HN
+waldron	SN
+dr	SS
+greensboro	CN
+nc	SA
+27408	ZC
+3129	ZA
+
+100	HN
+sumer	SN
+street	SN
+ste	UT
+15	UV
+mcadenville	CN
+nc	SA
+28101	ZC
+
+5555	HN
+n	SD
+west	SN
+ave	SS
+apt	UT
+140	UV
+fresno	CN
+ca	SA
+93711	ZC
+2360	ZA
+
+795	HN
+gorge	SN
+blvd	SS
+akron	CN
+oh	SA
+44310	ZC
+3442	ZA
+
+po	PO
+box	BT
+1393	BV
+stamford	CN
+ct	SS
+06904	ZC
+1393	ZA
+
+po	PO
+box	BT
+26	BV
+augusta	CN
+ks	SA
+67010	ZC
+0026	ZA
+
+8845	HN
+teal	SN
+point	SN
+road	SS
+easton	CN
+md	SA
+21601	ZC
+7311	ZA
+
+po	PO
+box	BT
+1636	BV
+asheville	CN
+nc	SA
+28802	ZC
+1636	ZA
+
+440	HN
+chowning	SN
+pl	SS
+nw	SD
+marietta	CN
+ga	SA
+30064	ZC
+1404	ZA
+
+59	HN
+monroe	SN
+st	SS
+apt	UT
+307	UV
+pontiac	CN
+mi	SA
+48341	ZC
+1248	ZA
+
+po	PO
+box	BT
+115	HN
+panacea	CN
+fl	SA
+32346	ZC
+0115	ZA
+
+604	HN
+hfgr	SN
+ave	SS
+n	SD
+canby	CN
+mn	SA
+56220	ZC
+
+202	HN
+taylor	SN
+place	SN
+hot	CN
+springs	CN
+ar	SA
+71901	ZC
+7735	ZA
+
+2714	HN
+westminister	SN
+way	SS
+se	SD
+huntsville	CN
+al	SA
+35801	ZC
+2264	ZA
+
+93	HN
+southern	SN
+pkwy	SS
+rochester	CN
+ny	SA
+14618	ZC
+1038	ZA
+
+15	HN
+ober	SN
+st	SS
+beverly	CN
+ma	SA
+01915	ZC
+4639	ZA
+
+214	HN
+dewey	SN
+st	SS
+pittsburgh	CN
+pa	SA
+15218	ZC
+1410	ZA
+
+po	PO
+box	BT
+1754	BV
+port	SN
+angeles	CN
+wa	SA
+98362	ZC
+0091	ZA
+
+1478	HN
+rocking	SN
+w	SD
+dr	SS
+bishop	CN
+ca	SA
+93514	ZC
+1958	ZA
+
+3855	HN
+columbia	SN
+ave	SS
+mountville	CN
+pa	SA
+17554	ZC
+1803	ZA
+
+rural	RR
+route	RR
+1	SN
+pr	SS
+du	CN
+sac	CN
+wi	SA
+53578	ZC
+9801	ZA
+
+po	PO
+box	BT
+522	BV
+von	SN
+ormy	CN
+tx	SA
+78073	ZC
+0522	ZA
+
+3737	HN
+mcgregor	SN
+ln	SS
+toledo	CN
+oh	SA
+43623	ZC
+1732	ZA
+
+1006	HN
+n	SD
+1st	SN
+street	SN
+bismarck	CN
+nd	SA
+58501	ZC
+3518	ZA
+
+5219	HN
+n	SD
+1100th	SN
+st	SS
+robinson	CN
+il	SA
+62454	ZC
+6816	ZA
+
+310	HN
+central	SN
+rd	SS
+su1	CN
+fredericksbrg	CN
+va	SA
+22401	ZC
+7008	ZA
+
+po	PO
+box	BT
+13974	BV
+new	CN
+bern	CN
+nc	SA
+28561	ZC
+3974	ZA
+
+425	HN
+n	SD
+main	SN
+st	SS
+princeton	CN
+in	SN
+47670	ZC
+1515	ZA
+
+185	HN
+hansen	SN
+court	SS
+suite	UT
+110	UV
+wood	SN
+dale	CN
+il	SA
+60191	ZC
+1114	ZA
+
+185	HN
+hansen	SN
+ct	SS
+suite	UT
+110	UV
+wood	SN
+dale	CN
+il	SA
+60191	ZC
+1114	ZA
+
+500	HN
+2nd	SN
+ave	SS
+w	SD
+madison	CN
+wv	SA
+25130	ZC
+1167	ZA
+
+510	HN
+frantz	SN
+ave	SS
+baltimore	CN
+md	SA
+21234	ZC
+
+11572	HN
+autum	SN
+hill	SN
+drv	SS
+d	CN
+sandy	CN
+ut	SA
+84094	ZC
+7338	ZA
+
+501	HN
+broadway	SN
+pt	SS
+pleas	CN
+bch	CN
+nj	SA
+08742	ZC
+2558	ZA
+
+9725	HN
+cheddar	SN
+drive	SS
+vienna	CN
+va	SA
+22182	ZC
+1925	ZA
+
+92	HN
+head	SN
+of	SN
+meadow	SN
+road	SS
+newtown	CN
+ct	SS
+06470	ZC
+1909	ZA
+
+492	HN
+silvia	SN
+street	SN
+rochester	CN
+ny	SA
+14602	ZC
+
+2867	HN
+oakleigh	SN
+ln	SS
+germantown	CN
+tn	SA
+38138	ZC
+7315	ZA
+
+3524	HN
+wharton	SN
+dr	SS
+fort	CN
+worth	CN
+tx	SA
+76133	ZC
+2121	ZA
+
+7315	HN
+n	SD
+oketo	SN
+ave	SS
+chicago	CN
+il	SA
+60631	ZC
+4377	ZA
+
+3607	HN
+anne	SN
+st	SS
+mchenry	CN
+il	SA
+60050	ZC
+5576	ZA
+
+220	HN
+southview	SN
+dr	SS
+cherry	SN
+hill	CN
+nj	SA
+08034	ZC
+2841	ZA
+
+2544	HN
+david	SN
+lee	SN
+dr	SS
+parkersburg	CN
+wv	SA
+26101	ZC
+7120	ZA
+
+rr	RR
+2	RV
+box	BT
+3580	BV
+bartlesville	CN
+ok	SA
+74006	ZC
+9802	ZA
+
+405	HN
+e	SD
+3rd	SN
+st	SS
+alton	CN
+il	SA
+62002	ZC
+2410	ZA
+
+3041	HN
+e	SD
+andrvew	SN
+rd	SS
+sherman	CN
+il	SA
+62684	ZC
+8018	ZA
+
+1814	HN
+thornton	SN
+pl	SS
+birmingham	CN
+al	SA
+35226	ZC
+2731	ZA
+
+3440	HN
+fritz	SN
+cove	SN
+rd	SS
+juneau	CN
+ak	CN
+99801	SN
+8507	ZA
+
+13241	HN
+w	SD
+choctaw	SN
+trl	SS
+lockport	CN
+il	SA
+60441	ZC
+8663	ZA
+
+1202	HN
+meadow	SN
+green	SN
+ln	SS
+mclean	CN
+va	SA
+22102	ZC
+2411	ZA
+
+po	PO
+box	BT
+571	BV
+roseville	CN
+il	SA
+61473	ZC
+0571	ZA
+
+524	HN
+n	SD
+orchard	SN
+st	SS
+pittsfield	CN
+il	SA
+62363	ZC
+1069	ZA
+
+108	HN
+w	SD
+walnut	SN
+st	SS
+kingston	CN
+pa	SA
+18704	ZC
+3822	ZA
+
+rri	HN
+box	BT
+1140	BV
+dushore	CN
+pa	SA
+18614	ZC
+
+36171	HN
+christine	SN
+blvd	SS
+whitehall	CN
+wi	SA
+54773	ZC
+8618	ZA
+
+258	HN
+juniper	SN
+st	SS
+park	CN
+forest	CN
+il	SA
+60466	ZC
+1725	ZA
+
+45	HN
+georgian	SN
+court	SS
+east	CN
+hills	CN
+ny	SA
+11576	ZC
+2711	ZA
+
+3	HN
+colonial	SN
+acres	SN
+wyoming	CN
+pa	SA
+18644	ZC
+1326	ZA
+
+po	PO
+box	BT
+205	BV
+festus	CN
+mo	SA
+63028	ZC
+0205	ZA
+
+15	HN
+e	SD
+marseille	SN
+drive	SS
+placentia	CN
+ca	SA
+92870	ZC
+
+149	HN
+blossom	SN
+ct	SS
+thibodaux	CN
+la	SA
+70301	ZC
+9425	ZA
+
+3	HN
+colonial	SN
+acres	SN
+wyoming	CN
+pa	SA
+18644	ZC
+1326	ZA
+
+167	HN
+nippon	SN
+ave	SS
+staten	CN
+island	CN
+ny	SA
+10312	ZC
+2764	ZA
+
+35	HN
+hereford	SN
+dr	SS
+princeton	CN
+jct	CN
+nj	SA
+08550	ZC
+1507	ZA
+
+2190	HN
+christian	SN
+st	SS
+baton	CN
+rouge	CN
+la	SA
+70808	ZC
+2186	ZA
+
+23	HN
+lambeth	SN
+st	SS
+holbrook	CN
+ny	SA
+11741	ZC
+5503	ZA
+
+13251	HN
+oakwood	SN
+ct	SS
+punta	CN
+gorda	CN
+fl	SA
+33982	ZC
+9699	ZA
+
+1913	HN
+alvarez	SN
+road	SS
+anthony	CN
+nm	SA
+88021	ZC
+8444	ZA
+
+8638	HN
+e	SD
+thoroughbred	SN
+trl	SS
+scottsdale	CN
+az	SA
+85258	ZC
+1453	ZA
+
+po	PO
+box	BT
+220	BV
+wagner	SN
+sd	SN
+57380	ZC
+0220	ZA
+
+914	HN
+shoreline	SN
+road	SS
+barrington	CN
+il	SA
+60010	ZC
+1676	ZA
+
+7017	HN
+buxton	SN
+ter	SS
+bethesda	CN
+md	SA
+20817	ZC
+4404	ZA
+
+po	PO
+box	BT
+1548	BV
+the	CN
+dalles	CN
+or	SA
+97058	ZC
+8004	ZA
+
+111	HN
+breakspear	SN
+rd	SS
+syracuse	CN
+ny	SA
+13219	ZC
+1401	ZA
+
+2322	HN
+n	SD
+broad	SN
+st	SS
+24	SD
+philadelphia	CN
+pa	SA
+19132	ZC
+4503	ZA
+
+291	HN
+charlotte	SN
+ct	SS
+cary	CN
+il	SA
+60013	ZC
+2657	ZA
+
+2346	HN
+dawson	SN
+ln	SS
+algonquin	CN
+il	SA
+60102	ZC
+5979	ZA
+
+1465	HN
+jouet	SN
+ct	SS
+toms	CN
+river	CN
+nj	SA
+08753	ZC
+2766	ZA
+
+1097	HN
+lenape	SN
+way	SS
+scotch	CN
+plains	CN
+nj	SA
+07076	ZC
+2813	ZA
+
+5000	HN
+parkway	SN
+calabasas	SS
+calabasas	CN
+ca	SA
+91302	ZC
+1400	ZA
+
+324	HN
+ellerton	SN
+s	SD
+laurel	CN
+md	SA
+20724	ZC
+2404	ZA
+
+10002	HN
+woodland	SN
+drive	SS
+wausau	CN
+wi	SA
+54401	ZC
+9755	ZA
+
+4886	HN
+foxfire	SN
+trail	SS
+middleton	CN
+wi	SA
+53562	ZC
+1104	ZA
+
+1	HN
+forest	SN
+farm	SN
+ln	SS
+roxbury	SN
+ct	SS
+06783	ZC
+1018	ZA
+
+39	HN
+thistle	SN
+road	SS
+norwalk	CN
+ct	SS
+06851	ZC
+1914	ZA
+
+397370	HN
+w	SD
+1300	SN
+rd	SS
+dewey	CN
+ok	SA
+74029	ZC
+3929	ZA
+
+405	HN
+commonwealth	SN
+ave	SS
+newton	CN
+ma	SA
+02459	ZC
+1301	ZA
+
+6100	HN
+w	SD
+96th	SN
+st	SS
+suite	UT
+100	UV
+indianapolis	CN
+in	SA
+46278	ZC
+6006	ZA
+
+3203	HN
+reston	SN
+drive	SS
+baldwinsville	CN
+ny	SA
+13027	ZC
+1729	ZA
+
+1283	HN
+portland	SN
+ave	SS
+rochester	CN
+ny	SA
+14621	ZC
+2728	ZA
+
+45	HN
+martha	SN
+pl	SS
+hamburg	CN
+ny	SA
+14075	ZC
+5221	ZA
+
+505	HN
+betsinger	SN
+rd	SS
+sherrill	CN
+ny	SA
+13461	ZC
+1214	ZA
+
+9	HN
+toboggan	SN
+ridge	SN
+rd	SS
+saddle	CN
+river	CN
+nj	SA
+07458	ZC
+2521	ZA
+
+9	HN
+toboggan	SN
+ridge	SN
+road	SS
+saddle	CN
+river	CN
+nj	SA
+07458	ZC
+2521	ZA
+
+135	HN
+summit	SN
+ter	SS
+n	SD
+kinnelon	CN
+nj	SA
+07405	ZC
+2419	ZA
+
+13	HN
+overbrook	SN
+road	SS
+s	SD
+barrington	CN
+il	SA
+60010	ZC
+9568	ZA
+
+132	HN
+randolphs	SN
+grn	SS
+williamsburg	CN
+va	SA
+23185	ZC
+6537	ZA
+
+4601	HN
+hydes	SN
+road	SS
+hydes	CN
+md	SA
+21082	ZC
+9553	ZA
+
+920	HN
+beach	SN
+rd	SS
+sanibel	CN
+fl	SA
+33957	ZC
+6909	ZA
+
+3841	HN
+white	SN
+trillium	SN
+saginaw	CN
+mi	SA
+48603	ZC
+
+5008	HN
+kings	SN
+gate	SN
+way	SS
+bloomfield	CN
+mi	SA
+48302	ZC
+2806	ZA
+
+po	PO
+box	BT
+1355	BV
+carbondale	CN
+il	SA
+62903	ZC
+1355	ZA
+
+24	HN
+bromleigh	SN
+way	SS
+morris	CN
+plains	CN
+nj	SA
+07950	ZC
+1642	ZA
+
+176	HN
+e	SD
+77th	SN
+st	SS
+new	CN
+york	CN
+ny	SA
+10021	ZC
+1908	ZA
+
+123	HN
+east	SD
+3rd	SN
+st	SS
+ottumwa	CN
+ia	SA
+52501	ZC
+2904	ZA
+
+375	HN
+white	SN
+cottage	SN
+road	SS
+s	SD
+angwin	CN
+ca	SA
+94508	ZC
+9633	ZA
+
+po	PO
+box	BT
+171	BV
+sheboygan	CN
+wi	SA
+53082	ZC
+0171	ZA
+
+25	HN
+northwood	SN
+commons	SN
+pl	SS
+chico	CN
+ca	SA
+95926	ZC
+7213	ZA
+
+6005	HN
+brookside	SN
+dr	SS
+chevy	SN
+chase	CN
+md	SA
+20815	ZC
+6658	ZA
+
+4085	HN
+wieuca	SN
+road	SS
+ne	SD
+atlanta	CN
+ga	SA
+30342	ZC
+3848	ZA
+
+2603	HN
+greenbriar	SN
+dr	SS
+jonesboro	CN
+ar	SA
+72401	ZC
+5939	ZA
+
+1123	HN
+w	SD
+2nd	SN
+st	SS
+grand	CN
+island	CN
+ne	SD
+68801	ZC
+5823	ZA
+
+4853	HN
+cordell	SN
+ave	SS
+apt	UT
+922	UV
+bethesda	CN
+md	SA
+20814	ZC
+3024	ZA
+
+284	HN
+n	SD
+hobcaw	SN
+dr	SS
+mt	CN
+pleasant	CN
+sc	SA
+29464	ZC
+2562	ZA
+
+po	PO
+box	BT
+462	BV
+norfolk	CN
+ne	SD
+68702	ZC
+0462	ZA
+
+348	HN
+s	SD
+point	SN
+ct	SS
+satellite	CN
+bch	CN
+fl	SA
+32937	ZC
+3827	ZA
+
+57	HN
+e	SD
+delaware	SN
+pl	SS
+apt	UT
+3701	UV
+chicago	CN
+il	SA
+60611	ZC
+1635	ZA
+
+15311	HN
+washington	SN
+st	SS
+bainbridge	CN
+wa	SA
+98010	ZC
+3687	ZA
+
+9522	HN
+ne	SD
+239th	SN
+st	SS
+battleground	CN
+wa	SA
+98604	ZC
+5404	ZA
+
+625	HN
+kenilworth	SN
+rd	SS
+bay	CN
+village	CN
+oh	SA
+44140	ZC
+2479	ZA
+
+7990	HN
+sw	SD
+146th	SN
+st	SS
+miami	CN
+fl	SA
+33158	ZC
+2064	ZA
+
+46	HN
+danforth	SN
+cres	SN
+rochester	CN
+ny	SA
+14618	ZC
+4202	ZA
+
+c/o	CO
+321	ON
+nw	SD
+23rd	SN
+st	SS
+gainesville	CN
+fl	SA
+32607	ZC
+
+100	HN
+summer	SN
+street	SN
+suite	UT
+15	UV
+mcadenville	CN
+nc	SA
+28101	ZC
+
+4174	HN
+pont	SN
+dr	SS
+bridgeton	CN
+mo	SA
+63044	ZC
+1704	ZA
+
+16595	HN
+valley	SN
+dr	SS
+e	SD
+liverpool	CN
+oh	SA
+43920	ZC
+9517	ZA
+
+2418	HN
+uplong	SN
+st	SS
+w	SD
+bloomfield	CN
+mi	SA
+48324	ZC
+1880	ZA
+
+11605	HN
+se	SD
+88th	SN
+st	SS
+renton	CN
+wa	SA
+98056	ZC
+1739	ZA
+
+2284	HN
+benden	SN
+dr	SS
+wooster	CN
+oh	SA
+44691	ZC
+2567	ZA
+
+2620	HN
+corona	SN
+drv	SS
+davis	CN
+ca	SA
+95616	ZC
+0112	ZA
+
+po	PO
+box	BT
+564	BV
+lewiston	CN
+mn	SA
+55952	ZC
+0564	ZA
+
+4131	HN
+brentwood	SN
+lane	SS
+waukegan	CN
+il	SA
+60087	ZC
+1810	ZA
+
+4789	HN
+manzanita	SN
+ave	SS
+apt	UT
+60	UV
+carmichael	CN
+ca	SA
+95608	ZC
+0874	ZA
+
+po	PO
+box	BT
+687	BV
+morristown	CN
+tn	SA
+37815	ZC
+0687	ZA
+
+po	PO
+box	BT
+547	BV
+commack	CN
+ny	SA
+11725	ZC
+0547	ZA
+
+107	HN
+n	SD
+wigham	SN
+st	SS
+apt	UT
+64	UV
+centralia	CN
+mo	SA
+65240	ZC
+1072	ZA
+
+1325	HN
+hineman	SN
+drive	SS
+garden	CN
+city	CN
+ks	SA
+67846	ZC
+3538	ZA
+
+60	HN
+caribe	SN
+way	SS
+vero	CN
+beach	CN
+fl	SA
+32963	ZC
+9502	ZA
+
+c/o	CO
+robert	ON
+r	ON
+van	ON
+dongen	ON
+ste	ON
+630	HN
+mckay	SN
+tower	SN
+grand	CN
+rapids	CN
+mi	SA
+49503	ZC
+
+2604	HN
+sunnyside	SN
+dr	SS
+cadillac	CN
+mi	SA
+49601	ZC
+8749	ZA
+
+44	HN
+pickman	SN
+rd	SS
+beverly	CN
+ma	SA
+01915	ZC
+4730	ZA
+
+7614	HN
+eaglet	SN
+ct	SS
+fort	CN
+myers	CN
+fl	SA
+33912	ZC
+1828	ZA
+
+5654	HN
+pickering	SN
+ave	SS
+whittier	CN
+ca	SA
+90601	ZC
+2414	ZA
+
+7001	HN
+castle	SN
+creek	SN
+dr	SS
+e	SD
+fort	CN
+worth	CN
+tx	SA
+76132	ZC
+3705	ZA
+
+2203	HN
+burgundy	SN
+dr	SS
+carrollton	CN
+tx	SA
+75006	ZC
+4325	ZA
+
+5510	HN
+black	SN
+cherry	SN
+cir	SS
+indianapolis	CN
+in	SA
+46237	ZC
+3806	ZA
+
+186	HN
+shaw	SN
+farm	SN
+road	SS
+holliston	CN
+ma	SA
+01746	ZC
+2547	ZA
+
+202	HN
+woodbine	SN
+road	SS
+taylorville	CN
+il	SA
+62568	ZC
+9700	ZA
+
+38	HN
+robinhood	SN
+road	SS
+danbury	CN
+ct	SS
+06811	ZC
+2843	ZA
+
+199	HN
+east	SD
+greenwood	SN
+ave	SS
+jacksonville	CN
+il	SA
+62650	ZC
+3421	ZA
+
+e	SD
+10446a	HN
+pine	SN
+circle	SN
+pr	SS
+du	CN
+sac	CN
+wi	SA
+53578	ZC
+0000	ZA
+
+1846	HN
+n	SD
+lincoln	SN
+park	SS
+w	SD
+chicago	CN
+il	SA
+60614	ZC
+5308	ZA
+
+43	HN
+e	SD
+155th	SN
+st	SS
+harvey	CN
+il	SA
+60426	ZC
+3633	ZA
+
+po	PO
+box	BT
+118	BV
+w	CN
+wardsboro	CN
+vt	SA
+05360	ZC
+0118	ZA
+
+290	HN
+north	SN
+st	SS
+new	CN
+hyde	CN
+park	CN
+ny	SA
+11040	ZC
+2340	ZA
+
+14	HN
+random	SN
+farms	SN
+dr	SS
+chappaqua	CN
+ny	SA
+10514	ZC
+1015	ZA
+
+58	HN
+farm	SN
+st	SS
+medfield	CN
+ma	SA
+02052	ZC
+1114	ZA
+
+311	HN
+10th	SN
+ave	SS
+e	SD
+northport	CN
+ny	SA
+11731	ZC
+1719	ZA
+
+po	PO
+box	BT
+159	BV
+essexville	CN
+mi	SA
+48732	ZC
+0159	ZA
+
+259	HN
+preston	SN
+ave	SS
+shreveport	CN
+la	SA
+71105	ZC
+3330	ZA
+
+po	PO
+box	BT
+2721	BV
+largo	CN
+fl	SA
+33779	ZC
+2721	ZA
+
+355	HN
+russett	SN
+ln	SS
+highland	CN
+park	CN
+il	SA
+60035	ZC
+4339	ZA
+
+255	HN
+n	SD
+charlotte	SN
+st	SS
+lombard	CN
+il	SA
+60148	ZC
+2035	ZA
+
+2201	HN
+glenarm	SN
+place	SS
+1	UV
+denver	CN
+co	SA
+80205	ZC
+3124	ZA
+
+726	HN
+center	SN
+ave	SS
+river	CN
+edge	CN
+nj	SA
+07661	ZC
+2409	ZA
+
+71	HN
+ottowa	SN
+rd	SS
+s	SD
+marlboro	CN
+nj	SA
+07746	ZC
+1248	ZA
+
+5158	HN
+via	SN
+portola	SN
+oceanside,	CN
+ca	SA
+92057-4510	ZC
+
+140	HN
+south	SD
+middle	SN
+neck	SN
+rd	SS
+great	CN
+neck	CN
+ny	SA
+11021	ZC
+3735	ZA
+
+9629	HN
+egret	SN
+lane	SS
+chesterfield	CN
+va	SA
+23838	ZC
+8949	ZA
+
+11760	HN
+briarwood	SN
+drv	SS
+chesterland	CN
+oh	SA
+44026	ZC
+1816	ZA
+
+108	HN
+slope	SN
+dr	SS
+short	CN
+hills	CN
+nj	SA
+07078	ZC
+1909	ZA
+
+n846	HN
+pond	SN
+rd	SS
+marinette	CN
+wi	SA
+54143	ZC
+9543	ZA
+
+6901	HN
+vista	SN
+willow	SN
+dr	SS
+dallas	CN
+tx	SA
+75248	ZC
+2953	ZA
+
+405	HN
+e	SD
+3rd	SN
+st	SS
+alton	CN
+il	SA
+62002	ZC
+2410	ZA
+
+rr	RR
+1	RV
+box	BT
+197	BV
+noxen	CN
+pa	SA
+18636	ZC
+9773	ZA
+
+1721	HN
+w	SD
+elfindale	SN
+st	SS
+unit	UT
+20	UV
+springfield	CN
+mo	SA
+65807	ZC
+1295	ZA
+
+11786	HN
+s	SD
+77th	SN
+east	SN
+ave	SS
+bixby	CN
+ok	SA
+74008	ZC
+2026	ZA
+
+12880	HN
+se	SD
+93rd	SN
+circle	SN
+dieterich	CN
+il	SA
+34491	ZC
+
+49	HN
+carriage	SN
+road	SS
+roslyn	CN
+ny	SA
+11576	ZC
+3122	ZA
+
+5	HN
+beaver	SN
+dam	SN
+rd	SS
+pomona	CN
+ny	SA
+10970	ZC
+3202	ZA
+
+4951	HN
+n	SD
+sedgewick	SN
+rd	SS
+lyndhurst	CN
+oh	SA
+44124	ZC
+1104	ZA
+
+6235	HN
+rocket	SN
+dr	SS
+florissant	CN
+mo	SA
+63033	ZC
+4905	ZA
+
+1113	HN
+fernhill	SN
+road	SS
+west	CN
+chester	CN
+pa	SA
+19380	ZC
+4630	ZA
+
+3	HN
+post	SN
+rd	SS
+rumson	CN
+nj	SA
+07760	ZC
+1023	ZA
+
+4345	HN
+arista	SN
+st	SS
+san	CN
+diego	CN
+ca	SA
+92103	ZC
+1028	ZA
+
+2810	HN
+elmwood	SN
+st	SS
+carlsbad	CN
+ca	SA
+92008	ZC
+1509	ZA
+
+3	HN
+seneca	SN
+place	SS
+montclair	CN
+nj	SA
+07043	ZC
+1114	ZA
+
+3215	HN
+avenue	SN
+h	SN
+apt	UT
+4c	UV
+brooklyn	CN
+ny	SA
+11210	ZC
+3214	ZA
+
+79	HN
+winsor	SN
+pl	SS
+glen	CN
+ridge	CN
+nj	SA
+07028	ZC
+2136	ZA
+
+1016	HN
+pheasant	SN
+run	SN
+rd	SS
+clarks	CN
+summit	CN
+pa	SA
+18411	ZC
+9201	ZA
+
+13802	HN
+khilani	SN
+ct	SS
+tampa	CN
+fl	SA
+33624	ZC
+6919	ZA
+
+4815	HN
+roma	SN
+ct	SS
+marina	ZC
+del	SN
+ray,	CN
+ca	SA
+90292	ZC
+
+2	HN
+guilles	SN
+ln	SS
+woodbury	CN
+ny	SA
+11797	ZC
+2301	ZA
+
+25167	HN
+u	SN
+s	SD
+highway	SN
+51	SS
+du	CN
+quoin	CN
+il	SA
+62832	ZC
+
+429	HN
+jefferson	SN
+st	SS
+waterloo	CN
+wi	SA
+53594	ZC
+1419	ZA
+
+po	PO
+box	BT
+532	BV
+new	CN
+milford	CN
+ct	SS
+06776	ZC
+0532	ZA
+
+1209	HN
+courier	SN
+ct	SS
+deerfield	CN
+il	SA
+60015	ZC
+2805	ZA
+
+rr	RR
+90	RV
+king	CN
+ferry	CN
+ny	SA
+13081	ZC
+
+602	HN
+barnstable	SN
+ct	SS
+camillus	CN
+ny	SA
+13031	ZC
+2064	ZA
+
+2244	HN
+indian	SN
+creek	SN
+road	SS
+huntley	CN
+mt	SA
+59037	ZC
+9343	ZA
+
+7311	HN
+12th	SN
+st	SS
+nw	SD
+washington	SN
+dc	SN
+20012	SN
+1707	ZA
+
+4073	HN
+ridgeview	SN
+cir	SS
+mclean	CN
+va	SA
+22101	ZC
+5809	ZA
+
+310	HN
+central	SN
+rd	SS
+1	UV
+fredericksbrg	CN
+va	SA
+22401	ZC
+7008	ZA
+
+po	PO
+box	BT
+1548	BV
+the	CN
+dalles	CN
+or	SA
+97058	ZC
+8004	ZA
+
+1768	HN
+south	SD
+deer	SN
+creek	SN
+rd	SS
+roseburg	CN
+or	SA
+97470	ZC
+9139	ZA
+
+c/o	CO
+bb&t-	ON
+division	SN
+200	SN
+s	SD
+college	SN
+st	SS
+charlotte	CN
+nc	SA
+28202	ZC
+2005	ZA
+
+1608	HN
+south	SD
+fairway	SN
+ave	SS
+springfield	CN
+mo	SA
+65804	ZC
+1315	ZA
+
+122	HN
+palmer	SN
+hill	SN
+rd	SS
+apt	UT
+1334	UV
+stamford	CN
+ct	SA
+06902	ZC
+2145	ZA
+
+1400	HN
+elm	SN
+st	SS
+el	CN
+paso	CN
+tx	SA
+79930	ZC
+2910	ZA
+
+po	PO
+box	BT
+547	BV
+commack	CN
+ny	SA
+11725	ZC
+0547	ZA
+
+625	HN
+cypress	SN
+run	SS
+woodbridge	CN
+ca	SA
+95258	ZC
+9181	ZA
+
+4516	HN
+andrew	SN
+dr	SS
+ne	SD
+albuquerque	CN
+nm	SA
+87109	ZC
+2706	ZA
+
+205	HN
+w	SD
+sandusky	SN
+st	SS
+findlay	CN
+oh	SA
+45840	ZC
+3233	ZA
+
+5	HN
+n	SD
+gay	SN
+st	SS
+rm	CN
+211	SN
+mount	CN
+vernon	CN
+oh	SA
+43050	ZC
+3241	ZA
+
+4506	HN
+browndale	SN
+ave	SS
+edina	CN
+mn	SA
+55424	ZC
+1141	ZA
+
+7412	HN
+acc	SN
+blvd	SS
+raleigh	CN
+nc	SA
+27613	ZC
+
+253	HN
+n	SD
+columbia	SN
+ave	SS
+columbus	CN
+oh	SA
+43209	ZC
+1417	ZA
+
+517	HN
+indiana	SN
+st	SS
+apt	UT
+8	UV
+greenfield	CN
+in	SA
+46140	ZC
+1716	ZA
+
+po	PO
+box	BT
+187	BV
+blue	CN
+mounds	CN
+wi	SA
+53517	ZC
+0187	ZA
+
+c/o	CO
+rf	ON
+trenner	ON
+&	ON
+ch	ON
+777	HN
+108th	SN
+ave	SS
+ne	SD
+st2000	ZC
+bellevue	CN
+wa	SA
+98004	ZC
+5130	ZA
+
+100	HN
+summer	SN
+st	SS
+suite	UT
+15	UV
+mcadenville	CN
+nc	SA
+28101	ZC
+
+6735	HN
+south	SD
+gilpin	SN
+cir	SS
+e	CN
+littleton	CN
+co	SA
+80122	ZC
+1330	ZA
+
+109	HN
+sw	SD
+6th	SN
+ave	SS
+topeka	CN
+ks	SA
+66603	ZC
+1298	ZA
+
+36833	HN
+269th	SN
+st	SS
+platte	CN
+sd	SN
+57369	SN
+6110	ZA
+
+po	PO
+box	BT
+1575	BV
+beckley	CN
+wv	SA
+25802	ZC
+1575	ZA
+
+24	HN
+bromleigh	SN
+way	SS
+morris	CN
+plains	CN
+nj	SA
+07950	ZC
+1642	ZA

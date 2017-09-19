@@ -1,0 +1,19 @@
+
+1006	HN
+n	SD
+1st	SN
+st	SS
+bismarck	CN
+nd	SA
+58501	ZC
+3518	ZA
+
+749	HN
+palm	SN
+view	SN
+dr	SS
+naples	CN
+fl	SA
+33942	ZC
+1207	ZA
+
