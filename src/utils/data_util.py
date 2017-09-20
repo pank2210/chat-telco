@@ -35,7 +35,8 @@ def getTokenizeData(file,window):
         if len(token) < 2:
           print("Error reading token in file at line[{}]".format(count))
           break
-        curX.append(token[0])
+        #Need to process each word using standard stem processing
+        curX.append(nu.stemAndGetWord(token[0]))
         curY.append(token[1])
        
       #print("Found X[{}] Y[{}] of token's in file.".format(len(dataX),len(dataY)))
@@ -297,13 +298,31 @@ def processRawData(raw_data_file):
       for line in (ifd):
         res = line.strip()
         res = removeJunkChar(res)
-        tokens = nu.processWordsWithNLTK1(res)
+        #tokens = nu.processWordsWithNLTK(res)
+        tokens = nu.processPunctuation(res)
         #tokens = res.split()
         for token in tokens:
-          ofd.write(token + '\n')
+          ofd.write(nu.stemAndGetWord(token) + '\n')
         ofd.write('\n')
   
   return os.path.basename(tmpfl)
+
+'''
+   printCollection - utility takes collectiona nd print key stats around it
+'''
+def printCollection(cntr,type=''):
+    if len(cntr) < 5:
+      return
+    tmp = sorted(cntr, key=cntr.get, reverse=True)[:len(cntr)]
+    print("---------Details of {} collection-------------".format(type))
+    print("  size - {}".format(len(cntr)))
+    print("---------Top 4 words--------------------------")
+    for tmp_cnt in range(1,5):
+      print('#no of time ',tmp_cnt,' content ',tmp[tmp_cnt], ' : ', cntr[tmp[tmp_cnt]])
+    print("---------Intermediate word count--------------")
+    for tmp_cnt in range(1,10):
+      ind_word = len(cntr)/10*tmp_cnt
+      print('#no of time ',ind_word,' content ',tmp[ind_word], ' : ', cntr[tmp[ind_word]])
 
 if __name__ == "__main__":
   #data, labels = getTokenizeData(file="tmptmp.txt",window=3)

@@ -11,6 +11,8 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 
+sno = nltk.stem.SnowballStemmer('english')
+
 def processPunctuation(data): 
   tokenizer = RegexpTokenizer(r'\w+')
   return tokenizer.tokenize(data)
@@ -26,8 +28,11 @@ def removeStopWords(data):
    
   return(wordsFiltered)
 
+def stemAndGetWord(w):
+  return sno.stem(w.lower())
+
 def stemAndGetSentence(data):
-  sno = nltk.stem.SnowballStemmer('english')
+  #sno = nltk.stem.SnowballStemmer('english')
   str = ''
 
   for w in data:
@@ -55,20 +60,6 @@ def processWordsWithNLTK(data):
   data = word_tokenize(data)
 
   return data
-
-if __name__ == "__main__":
-  data = "All work and no playing |tiii taking makes jack dull boy. All work and no play makes jack a dull boy. Eighty-seven miles to go, yet.  Onward! _tag_unk1"
-  if sys.argv[1] != None:
-     data = sys.argv[1]
-  print(data)
-  print(processWordsWithNLTK(data))
-  #print(data)
-  #data = processRawData("../../data/chat/res5000.txt")
-  '''
-  for conv in data:
-    for sent in conv:
-      print(sent[:10])
-  '''
 
 #Vocabulary class
 class Vocab:
@@ -211,4 +202,20 @@ class Vocab:
           idx = len(self.word2idx) + 1
           self.word2idx[word] = idx
           self.idx2word[idx] = word
+
+
+if __name__ == "__main__":
+  data = "All work and no playing |tiii taking makes jack dull boy. All work and no play makes jack a dull boy. Eighty-seven miles to go, yet.  Onward! _tag_unk1"
+  if sys.argv[1] != None:
+     data = sys.argv[1]
+  print(data)
+  print(stemAndGetWord("discounts"))
+  print(processWordsWithNLTK(data))
+  #print(data)
+  #data = processRawData("../../data/chat/res5000.txt")
+  '''
+  for conv in data:
+    for sent in conv:
+      print(sent[:10])
+  '''
 

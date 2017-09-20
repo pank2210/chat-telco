@@ -13,22 +13,24 @@ import utils.data_util as util
 
 #config class to hold DNN hyper param
 class Config:
-  def __init__(self,model_name):
+  def __init__(self,model_name,datadir):
     #dictionary
     self.model_name = model_name
+    self.datadir = datadir
     print("Initializing Config for NERModel[{}]...".format(self.model_name))
     self.vocab = None
     self.label = None
-    self.window = 3
+    self.window = 1
     
     #Model Param
-    self.epoch = 50
-    self.batch_size = 512
-    self.lrate = 0.01
+    self.epoch = 20
+    self.batch_size = 6
+    self.lrate = 0.001
     self.drop_prob = 0.5
     self.w_initializer = 'Xavier'
     self.optimizer = 'adam'
-    self.validation_set_ratio = 0.2
+    self.activation_1 = 'LeakyReLU'
+    self.validation_set_ratio = 0.1
     self.wv_size = 50
 
 #Vocabulary class
@@ -57,9 +59,9 @@ class Vocab:
 
     #truncate vocab of data to carry fwd just 10% of top dictinary words
     if self.dict_size > 100:
-      self.dict_size = int(round(self.dict_size*0.3))
+      self.dict_size = int(round(self.dict_size*self.dict_ratio))
       print("Words dictionary truncated to: ", self.dict_size)
-  
+ 
     self.vocab = sorted(self.cntr, key=self.cntr.get, reverse=True)[:self.dict_size]
     
     #Add not in vocab tag and update dict_size
@@ -71,15 +73,15 @@ class Vocab:
      
     print(self.vocab[:60])
     print('#no of time last word from vocab: ',self.vocab[-1], ': ', self.cntr[self.vocab[-1]])
-    '''
-    vocab1 = sorted(self.cntr, key=self.cntr.get, reverse=True)[:len(self.cntr)]
-    print('#no of time 500 th word from vocab: ',vocab1[500], ': ', self.cntr[vocab1[500]])
-    print('#no of time 1000 th word from vocab: ',vocab1[1000], ': ', self.cntr[vocab1[1000]])
-    print('#no of time 2000 th word from vocab: ',vocab1[2000], ': ', self.cntr[vocab1[2000]])
-    print('#no of time 3000 th word from vocab: ',vocab1[3000], ': ', self.cntr[vocab1[3000]])
-    print('#no of time 4000 th word from vocab: ',vocab1[4000], ': ', self.cntr[vocab1[4000]])
-    err
-    '''
+
+    #print Vocab stats
+    util.printCollection(self.cntr,'Vocab')
+    
+    #create vocab csv
+    v_df = pd.DataFrame(columns=["word","occurence"])
+    for i,v in enumerate(self.vocab):
+       v_df.loc[i] = [v,self.cntr[v]]
+    v_df.to_csv(self.config.datadir + self.config.model_name + "_" + self.id + "_vocab.csv")
 
     self.word2idx = {}
     for i,word in enumerate(self.vocab):
@@ -89,13 +91,16 @@ class Vocab:
     self.idx2word = dict((v, k) for k, v in self.word2idx.items()) 
     print('few keys of idx2word :',{k: self.idx2word[k] for k in self.idx2word.keys()[:5]})
    
-  def __init__(self,idata):
+  def __init__(self,id,idata,config):
+     self.id = id
      self.data = idata
+     self.config = config #get is from caller. for access to entire config
      self.vocab = []
      self.word2idx = {}
      self.idx2word = {}
      self.cntr = None
      self.UNK = 'IG'
+     self.dict_ratio = 0.2
      self.createVocab()
 
   def convData(self,data):
@@ -120,15 +125,20 @@ class Vocab:
 
      return rawdata
 
-  def encode(self,data):
+  def encode(self,data,msg=''):
      codes = []
+     not_in_dict = collections.Counter()
+     in_dict = collections.Counter()
      for i in range(len(data)):
        if type(data[i]) is list:
          r_code = []
          for word in data[i]:
            #code  = self.word2idx.get(word)
-           #if self.word2idx.has_key(word) == False:
-           #  print("word missing in dict: ",word)
+           if self.word2idx.has_key(word) == False:
+             #print("word missing in dict: ",word)
+             not_in_dict[word] += 1
+           else:
+             in_dict[word] += 1
            #print(word,code)
            #if word.isdigit():
            #  word = '<NUM>'
@@ -137,6 +147,10 @@ class Vocab:
        else:
          codes.append(self.word2idx.get(data[i],self.word2idx.get(self.UNK))) 
 
+     #print missing and present content stats
+     util.printCollection(not_in_dict,msg + "__" + "not_in_dict")
+     util.printCollection(in_dict,msg + "__" + "in_dict")
+     
      return codes
 
   def setUNK(self,UNK):
@@ -189,14 +203,24 @@ class NERModel:
    
   def printPrediction(self,data_only=False):
     print("Printing predictions for NERModel[{}]...".format(self.model_name))
-    sep = '\t'
+    #sep = '\t'
+    sep = ','
     rec = 0
     rec_change_flag = False
     rec_diff = 0
     rec_data = []
     i = 0
+    
+    p_df = pd.DataFrame(columns=[
+               "sent_id",
+               "word",
+               "label",
+               "vect_id",
+               "pr"])
 
     with open(self.datadir + self.model_name + '_test.pred','w') as f1:
+      prbuf = "sent_id" + sep + "word"  + sep + "tag"  + sep + "vect_id" + sep + "pr" + '\n'
+      f1.write(prbuf)
       for i in range(len(self.testX)):
         #check for sentence end based in n-gram used using window size
         new_rec_ind = ''
@@ -205,11 +229,23 @@ class NERModel:
         if new_rec_ind == ('UNK'*self.config.window):
           rec_change_flag = False
           rec_data = []
-          f1.write('\n')
+          #f1.write('\n')
           rec += 1
           #print(rec,self.testX[i])
         #print(i,self.testX[i]) 
-        prbuf = self.testX[i][self.config.window] + sep + self.labels.idx2word[self.pred_code[i]] + '\n'
+        #prbuf = self.testX[i][self.config.window] + sep + self.labels.idx2word[self.pred_code[i]] + '\n'
+        prbuf = str(rec) + sep  
+        prbuf = prbuf + self.testX[i][self.config.window] + sep 
+        prbuf = prbuf + self.labels.idx2word[self.pred_code[i]] + sep
+        prbuf = prbuf + self.vocab.idx2word[self.encodedXtestdata[i][self.config.window]] + sep 
+        prbuf = prbuf + str(self.pred_prob[i]) + '\n'
+
+        p_df.loc[p_df.shape[0]] = [ str(rec),
+                                    self.testX[i][self.config.window],
+                                    self.labels.idx2word[self.pred_code[i]],
+                                    self.vocab.idx2word[self.encodedXtestdata[i][self.config.window]],
+                                    str(self.pred_prob[i])]
+         
         rec_data.append(self.testX[i][self.config.window])
         f1.write(prbuf)
         if data_only == False:
@@ -217,7 +253,9 @@ class NERModel:
             #print(i,self.testX[i],self.labels.idx2word[self.pred_code[i]],rec_data) 
             rec_change_flag = True
             rec_diff += 1
-
+   
+    #write pandas DF to CSV file. 
+    p_df.to_csv(self.datadir + self.model_name + '_pred_df.csv')
     if data_only:
       print("Processes [{}] words / [{}] records".format(len(self.testX),rec))
     else:
@@ -242,6 +280,7 @@ class NERModel:
         prbuf = prbuf + 'n-' + str(pos) + sep
       prbuf = prbuf + 'y' + sep 
       prbuf = prbuf + 'yhat' + '\n'
+          
       for i,j in enumerate(self.pred_code):
         new_rec_ind = ''
         for ci in range(self.config.window):
@@ -251,8 +290,8 @@ class NERModel:
           rec_change_ind = True
         if self.labels.idx2word[self.encodedYtestdata[i]] != self.labels.idx2word[j]:
           if rec_change_ind and len(conf_df) > 0:
-             f1.write(conf_df.iloc[rec-1,1])
-             f1.write('\n')
+             #f1.write(conf_df.iloc[rec,1])
+             #f1.write('\n')
              rec_change_ind = False
           diff[i] = j
           prbuf = str(i) + sep;
@@ -262,7 +301,6 @@ class NERModel:
           prbuf = prbuf + self.labels.idx2word[j] + sep
           prbuf = prbuf + str(self.pred_prob[i]) + '\n'
           f1.write(prbuf)
-          
        
     self.accu = (len(self.pred_code) - len(diff))/float(len(self.pred_code)) 
     print(" {} words & {} errors Accuracy: {}".format(len(self.pred_code),len(diff),self.accu)) 
@@ -313,7 +351,7 @@ class NERModel:
     print("Initializing NERModel[{}]...".format(self.model_name))
     self.datadir = datadir
     self.train_data_file = datadir + trainfl
-    self.config = Config(self.model_name) #create config file
+    self.config = Config(self.model_name,self.datadir) #create config file
     self.createNERModel() #create NERModel
   
   def buildTrainingData(self):
@@ -321,8 +359,8 @@ class NERModel:
     #read training data in form of (n-gram) embeding
     #self.train_data_file = train_data_file
     trainX, trainY = util.getTokenizeData(self.train_data_file,self.config.window) 
-    self.vocab = Vocab(trainX) #build X vocab dict & required data
-    self.labels = Vocab(trainY) #build Y vocab dict & required data
+    self.vocab = Vocab("trainX",trainX,self.config) #build X vocab dict & required data
+    self.labels = Vocab("trainY",trainY,self.config) #build Y vocab dict & required data
      
     self.labels.setUNK('UNK1')  #Explicitly set label for unknown classification
      
@@ -347,7 +385,7 @@ class NERModel:
     #read test data in form of (n-gram) embeding
     self.test_data_file = self.datadir + testfl
     self.testX = util.getTokenizeSentenceData(self.test_data_file,self.config.window)
-    self.encodedXtestdata = self.vocab.encode(self.testX)
+    self.encodedXtestdata = self.vocab.encode(self.testX,'testX')
     
     print("Coded Test X {} data: {}".format(len(self.encodedXtestdata),self.vocab.convData(self.encodedXtestdata)[:10]))
     print("Coded Test X code: {}".format(self.encodedXtestdata[:10]))
@@ -358,11 +396,11 @@ class NERModel:
     self.test_data_file = self.datadir + testfl
     if data_only:
       self.testX = util.getTokenizeDataOnly(self.test_data_file,self.config.window)
-      self.encodedXtestdata = self.vocab.encode(self.testX)
+      self.encodedXtestdata = self.vocab.encode(self.testX,'testX')
     else:
       self.testX, testY = util.getTokenizeData(self.test_data_file,self.config.window)
-      self.encodedXtestdata = self.vocab.encode(self.testX)
-      self.encodedYtestdata = self.labels.encode(testY)
+      self.encodedXtestdata = self.vocab.encode(self.testX,'testX')
+      self.encodedYtestdata = self.labels.encode(testY,'testY')
     
     print("Coded Test X {} data: {}".format(len(self.encodedXtestdata),self.vocab.convData(self.encodedXtestdata)[:10]))
     print("Coded Test X code: {}".format(self.encodedXtestdata[:10]))
@@ -460,9 +498,9 @@ class NERModel:
         self.printDiff(data_config_file=self.datadir + data_config_file)
 
 if __name__ == "__main__":
-  nerModel = NERModel("chat1","train1.tagged","../data/chat/")
-  nerModel.trainTheModel()
-  #nerModel.loadModel('ner_model_chat1.tfl')
+  nerModel = NERModel("ner1","train1.tagged","../data/chat/")
+  #nerModel.trainTheModel()
+  nerModel.loadModel('ner_model_ner1.tfl')
   #nerModel.genSentTrainingCorpus(test_data_file="res5000.txt.conf")
   nerModel.testTheModel("test1.tagged",data_config_file="test1.conf")
   #nerModel.testTheModel("test1.txt",data_only=False)
