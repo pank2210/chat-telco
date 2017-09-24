@@ -6,6 +6,8 @@ import re
 import collections
 import math
 
+import data_util as du
+
 """
   input - Sent data file and NER tag dictionary 
   process - conv struct return from nlp.processRawData is processed to create config file tagged data file.
@@ -105,8 +107,9 @@ def processTaggedChat(data_file):
         continue
       #replace non-printable unicodes. this list will needs to be enhance with every failure
       buf = re.sub(r'[\xb5\xc5\xb3\xc3\xc6\xb6\xb9\xc9\xba\xc1\xc4\xe5\xef\xcf\xc5\xe2\xbc\xbe\xcb\xbd\xc3\xc2\xa1]'," ",buf)
-      words = nu.processWordsWithNLTK(buf)
-      #words = nu.processWordsWithNLTK1(buf)
+      buf = re.sub(r' \d+ ',"xnum",buf)  #replace numbers with constant string, if any
+      #words = nu.processWordsWithNLTK(buf)
+      words = nu.processWordsWithNLTK1(buf)
       if len(words[:-1]) == 0: #skip lines that ended up with nothing after processing
         continue
       #print(words[0:2])
@@ -180,18 +183,16 @@ def createBinTagFiles(sfile):
       else:
         tag = tag_unk1
       tags.append(tag)
-      o_sents.append(words[:-1]
- 
+      o_sents.append(words[:-1])
+       
       tfile = sfile + '.' + tag
       fdict[tag] = fdict.get(tag, open(tfile,'a+'))
       
        
-
-
 if __name__ == "__main__":
   #a,b = chatGenDataTags(data_file="../../data/chat/res5000.txt",tag_dict_file="../../data/chat/tags2.dict")
   #a,b = chatGenDataTags(data_file="../../data/chat/train1",tag_dict_file="../../data/chat/tags2.dict")
-  #a,b = chatGenDataTags(data_file="../../data/chat/test1",tag_dict_file="../../data/chat/tags2.dict")
+  a,b = chatGenDataTags(data_file="../../data/chat/test1",tag_dict_file="../../data/chat/tags2.dict")
   #print(a,b)
   #data = processTaggedChat("../../data/chat/res15000.txt")
-  data = processTaggedChat("../../data/chat/res5000.txt")
+  #data = processTaggedChat("../../data/chat/res5000.txt")

@@ -4,25 +4,66 @@ import numpy as np
 import sys
 import math
 import collections
-import nlp_util as nu
+import pandas as pd
 
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 
+import nlp_util as nu
+import data_util as du
+
+#initialize key variables..
+
 sno = nltk.stem.SnowballStemmer('english')
+
+exclude_stopwords = ['in','can','i','is','why','what','how','where','when','no','have','having','not','off']
+include_stopwords = ['xxx','xxxx']
+init_flag = 0
+
+#function based initialization
+def initVariables():
+  stopWords = set(stopwords.words('english'))
+  #print("init_flag=[{}]".format(init_flag)) 
+  for x in exclude_stopwords:
+    #print("excluding [{}]".format(x))
+    if x in stopWords:
+      stopWords.remove(x)
+      #print("excluded [{}]".format(x))
+  for x in include_stopwords:
+    #print("including [{}]".format(x))
+    stopWords.add(x)
+  
+  return stopWords
+'''
+    if x in stopWords:
+      #print("included [{}]".format(x))
+  init_flag = 1
+
+#Call initialization of Variables.
+initVariables()
+'''
 
 def processPunctuation(data): 
   tokenizer = RegexpTokenizer(r'\w+')
+   
   return tokenizer.tokenize(data)
 
 def removeStopWords(data): 
-  stopWords = set(stopwords.words('english'))
-  words = word_tokenize(data)
+  '''
+  global init_flag
+  global stopWords
+   
+  if init_flag == 0: #check for initialization
+  '''
+  stopWords = initVariables()
+
+  #print(stopWords) 
+  #words = word_tokenize(data)
   wordsFiltered = []
- 
-  for w in words:
+    
+  for w in data:
     if w not in stopWords:
       wordsFiltered.append(w)
    
@@ -44,11 +85,10 @@ def stemAndGetSentence(data):
 
 def processWordsWithNLTK1(data):
   data = processPunctuation(data)
-  #print(data)
+  data = removeStopWords(data)
   data = stemAndGetSentence(data)
-  #print(data)
   
-  return removeStopWords(data)
+  return word_tokenize(data)
 
 def processWordsWithNLTK(data):
   data = processPunctuation(data)
@@ -95,18 +135,22 @@ class Vocab:
     print('#no of time last word from vocab: ',self.vocab[-1], ': ', self.cntr[self.vocab[-1]])
     
     vocab1 = sorted(self.cntr, key=self.cntr.get, reverse=True)[:len(self.cntr)]
-     
-    print("#no of time {}th word from vocab: {} : {}".format(int(math.ceil(float(self.dict_size)*.1)),vocab1[int(math.ceil(float(self.dict_size)*.1))],self.cntr[vocab1[int(math.ceil(float(self.dict_size)*.1))]]))
-    print("#no of time {}th word from vocab: {} : {}".format(int(math.ceil(float(self.dict_size)*.2)),vocab1[int(math.ceil(float(self.dict_size)*.2))],self.cntr[vocab1[int(math.ceil(float(self.dict_size)*.2))]]))
-    print("#no of time {}th word from vocab: {} : {}".format(int(math.ceil(float(self.dict_size)*.3)),vocab1[int(math.ceil(float(self.dict_size)*.3))],self.cntr[vocab1[int(math.ceil(float(self.dict_size)*.3))]]))
-    print("#no of time {}th word from vocab: {} : {}".format(int(math.ceil(float(self.dict_size)*.4)),vocab1[int(math.ceil(float(self.dict_size)*.4))],self.cntr[vocab1[int(math.ceil(float(self.dict_size)*.4))]]))
-    """
-    err #error
-    print('#no of time 1000 th word from vocab: ',vocab1[1000], ': ', self.cntr[vocab1[1000]])
-    print('#no of time 2000 th word from vocab: ',vocab1[2000], ': ', self.cntr[vocab1[2000]])
-    print('#no of time 3000 th word from vocab: ',vocab1[3000], ': ', self.cntr[vocab1[3000]])
-    print('#no of time 4000 th word from vocab: ',vocab1[4000], ': ', self.cntr[vocab1[4000]])
-    """
+    if self.dict_ratio == 1: #Since label do not truncate for train
+      du.printCollection(self.cntr,type="Test")     
+    else: 
+      #create vocab csv
+      v_df = pd.DataFrame(columns=["word","occurence","truncated_flag"])
+      for i,v in enumerate(self.vocab):
+        v_df.loc[i] = [v,self.cntr[v],0]
+      
+      truncated_vocab = sorted(self.cntr, key=self.cntr.get, reverse=True)[self.dict_size+1:]
+      for i,v in enumerate(truncated_vocab):
+        v_df.loc[v_df.shape[0]] = [v,self.cntr[v],1]
+      
+      v_df.to_csv(self.config.datadir + self.config.model_name + "_vocab.csv")
+      
+      #print the Collection stats for Vocab
+      du.printCollection(self.cntr,type="Train")     
 
     self.word2idx = {}
     for i,word in enumerate(self.vocab):
@@ -116,14 +160,18 @@ class Vocab:
     self.idx2word = dict((v, k) for k, v in self.word2idx.items()) 
     print('few keys of idx2word :',{k: self.idx2word[k] for k in self.idx2word.keys()[:5]})
    
-  def __init__(self,idata,dict_ratio=.3):
+  def __init__(self,idata,config,label=False):
+     self.config = config
+     if label == True:
+       self.dict_ratio = 1 #If vocab is for label then do not truncate dictionary size as each vector is imp
+     else:
+       self.dict_ratio = self.config.vocab_dict_ratio
      self.data = idata
      self.vocab = []
      self.word2idx = {}
      self.idx2word = {}
      self.cntr = None
      self.UNK = 'IG'
-     self.dict_ratio = dict_ratio
      self.createVocab()
 
   def convData(self,data):
@@ -208,9 +256,9 @@ if __name__ == "__main__":
   data = "All work and no playing |tiii taking makes jack dull boy. All work and no play makes jack a dull boy. Eighty-seven miles to go, yet.  Onward! _tag_unk1"
   if sys.argv[1] != None:
      data = sys.argv[1]
-  print(data)
-  print(stemAndGetWord("discounts"))
-  print(processWordsWithNLTK(data))
+  #print(stemAndGetWord("discounts"))
+  #print(processWordsWithNLTK(data))
+  print(processWordsWithNLTK1(data))
   #print(data)
   #data = processRawData("../../data/chat/res5000.txt")
   '''

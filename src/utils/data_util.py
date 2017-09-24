@@ -320,7 +320,7 @@ def printCollection(cntr,type=''):
     for tmp_cnt in range(1,5):
       print('#no of time ',tmp_cnt,' content ',tmp[tmp_cnt], ' : ', cntr[tmp[tmp_cnt]])
     print("---------Intermediate word count--------------")
-    for tmp_cnt in range(1,10):
+    for tmp_cnt in range(1,10,2):
       ind_word = len(cntr)/10*tmp_cnt
       print('#no of time ',ind_word,' content ',tmp[ind_word], ' : ', cntr[tmp[ind_word]])
 

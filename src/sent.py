@@ -22,18 +22,19 @@ import utils.nlp_util as nu
 
 #config class to hold DNN hyper param
 class Config:
-  def __init__(self,model_name):
+  def __init__(self,model_name,datadir):
     #dictionary
     self.model_name = model_name
+    self.datadir = datadir
     print("Initializing Config for SentClassificationModel[{}]...".format(self.model_name))
     self.vocab = None
     self.label = None
-    self.window = 1
-    self.vocab_dict_ratio = 0.10
+    self.window = 3
+    self.vocab_dict_ratio = 0.20
     
     #Model Param
-    self.epoch = 5
-    self.batch_size = 8
+    self.epoch = 15
+    self.batch_size = 32
     self.lrate = 0.001
     self.drop_prob = 0.5
     self.w_initializer = 'Xavier'
@@ -103,6 +104,13 @@ class SentClassificationModel:
       print("printSentClassification Loading config from file[{}]...".format(data_config_file))
       conf_df = pd.read_csv(data_config_file,header=None,delimiter='|') 
      
+    p_df = pd.DataFrame(columns=[
+               "conv_id",
+               "sent",
+               "label",
+               #"vect_id",
+               "pr"])
+
     with open(self.datadir + self.model_name + '_sent.txt','w') as f1:
       for i,j in enumerate(self.pred_code):
         new_rec_ind = ''
@@ -124,10 +132,23 @@ class SentClassificationModel:
           pred_sent = pred_sent + self.labels.idx2word[j] + ' '
         prbuf = prbuf + '\n'
         f1.write(prbuf)
-        #if rec>5:
-        #  err
-        #print(pred_sent)
+       
+        ''' 
+        prbuf = str(rec) + sep  
+        prbuf = prbuf + self.testX[i][self.config.window] + sep 
+        prbuf = prbuf + self.labels.idx2word[self.pred_code[i]] + sep
+        prbuf = prbuf + self.vocab.idx2word[self.encodedXtestdata[i][self.config.window]] + sep 
+        prbuf = prbuf + str(self.pred_prob[i]) + '\n'
+        ''' 
+        p_df.loc[p_df.shape[0]] = [ str(rec),
+                                    #self.testX[i][self.config.window],
+                                    pred_sent.split()[:10],
+                                    self.labels.idx2word[self.pred_code[i]],
+                                    #self.vocab.idx2word[self.encodedXtestdata[i][self.config.window]],
+                                    str(self.pred_prob[i])]
+         
       sent.append(pred_sent)
+      p_df.to_csv(self.datadir + self.model_name + "_pred_df.csv")
       #print("***********",conf_df.iloc[395,2],sent[395],len(conf_df),len(sent))
       conf_df[4] = sent
       conf_df.to_csv(data_config_file + '.txt',index=None,header=None,sep='|')
@@ -138,7 +159,7 @@ class SentClassificationModel:
     print("Initializing SentClassificationModel[{}]...".format(self.model_name))
     self.datadir = datadir
     self.train_data_file = datadir + trainfl
-    self.config = Config(self.model_name) #create config file
+    self.config = Config(self.model_name,self.datadir) #create config file
     self.createSentClassificationModel() #create SentClassificationModel
     #self.createSimpleDNN() #create SentSimpleDNN
  
@@ -170,8 +191,8 @@ class SentClassificationModel:
         #print("trainX[{}]****labels[{}]".format(sdata[data_key],sdata[sent_class]))
  
     print("Training data of [{}] sentences and [{}] labels loaded for classification...".format(len(trainX),len(trainY))) 
-    self.vocab = nu.Vocab(trainX,dict_ratio=self.config.vocab_dict_ratio)  #build X vocab dict & required data
-    self.labels = nu.Vocab(trainY) #build Y vocab dict & required data
+    self.vocab = nu.Vocab(trainX,self.config)  #build X vocab dict & required data
+    self.labels = nu.Vocab(trainY,self.config,label=True) #build Y vocab dict & required data
      
     self.labels.setUNK('UNK1')  #Explicitly set label for unknown classification
      
@@ -259,7 +280,7 @@ class SentClassificationModel:
                input_dim = self.vocab.dict_size, 
                weights_init = self.config.w_initializer,
                output_dim = self.config.wv_size)
-    net = tflearn.fully_connected(net, 200, activation=self.config.activation_1)
+    net = tflearn.fully_connected(net, 300, activation=self.config.activation_1)
     net = tflearn.dropout(net,self.config.drop_prob)
     net = tflearn.fully_connected(net, self.no_classes, activation='softmax')
      
@@ -376,7 +397,7 @@ class SentClassificationModel:
   """
   def printPrediction(self,data_only=False):
     print("Printing predictions for SentClassificationModel[{}]...".format(self.model_name))
-    sep = '\t'
+    sep = ','
     rec = 0
     rec_change_flag = False
     rec_diff = 0
@@ -412,26 +433,36 @@ class SentClassificationModel:
             sys.stdout.flush()      
             self.rec_accu = float((rec-rec_diff))/rec 
             f1.write(self.labels.idx2word[self.pred_code[i]])  
-            f1.write('|')
+            f1.write(sep)
             f1.write(self.labels.idx2word[self.encodedYtestdata[i]])
-            f1.write('|')
+            f1.write(sep)
             f1.write(self.raw_testX[i])
-            f1.write('|')
-            f1.write(" ".join(self.testX[i]))
+            #f1.write(sep)
+            #f1.write(" ".join(self.testX[i]))
             f1.write('\n')
-
+            '''
             #Create original data file for editing to corrrect data based on prediction.
             #original data is appended with prediction so that decision can be made by reviewer
             f2.write(self.raw_testX[i])
-            f2.write(' | ')
+            f2.write(sep)
             f2.write(self.labels.idx2word[self.pred_code[i]])  
             f2.write('\n')
           else:
             #Just dump write the original data as is.
             f2.write(self.raw_testX[i])
-            #f2.write('|')
-            #f2.write(self.labels.idx2word[self.pred_code[i]])  
+            f2.write(sep)
+            f2.write(self.labels.idx2word[self.encodedYtestdata[i]])
+            f2.write(sep)
+            f2.write(self.labels.idx2word[self.pred_code[i]])  
             f2.write('\n')
+            '''
+          #Just dump write the original data as is.
+          f2.write(self.raw_testX[i])
+          f2.write(sep)
+          f2.write(self.labels.idx2word[self.encodedYtestdata[i]])
+          f2.write(sep)
+          f2.write(self.labels.idx2word[self.pred_code[i]])  
+          f2.write('\n')
 
           prev_conv_ind = self.conv_ind[i]
      
@@ -465,12 +496,13 @@ class SentClassificationModel:
     self.printPrediction(data_only)
 
 if __name__ == "__main__":
-  model_name = "chat5"
+  model_name = "intent1"
   #sentclassiModel = SentClassificationModel(model_name,"res15000.txt","../data/chat/")
   #sentclassiModel = SentClassificationModel(model_name,"res5000.txt","../data/chat/")
   #sentclassiModel = SentClassificationModel(model_name,"watson_15k_train.txt","../data/chat/")
   #sentclassiModel = SentClassificationModel(model_name,"res20k.txt","../data/chat/")
-  sentclassiModel = SentClassificationModel(model_name,"res_15k_train_0623.csv","../data/chat/")
+  #sentclassiModel = SentClassificationModel(model_name,"res_15k_train_0623.csv","../data/chat/")
+  sentclassiModel = SentClassificationModel(model_name,"senti_20k_train.txt","../data/chat/")
    
   sentclassiModel.trainTheModel()
   #sentclassiModel.reTrainTheModel("res5000.txt")
@@ -480,5 +512,6 @@ if __name__ == "__main__":
   #sentclassiModel.testTheModel("res5000.txt",data_only=False)
   #sentclassiModel.testTheModel("res3000.txt",data_only=False)
   #sentclassiModel.testTheModel("watson_15k_test.txt",data_only=False)
-  sentclassiModel.testTheModel("res_3k_test_0623.csv",data_only=False)
+  #sentclassiModel.testTheModel("res_3k_test_0623.csv",data_only=False)
+  sentclassiModel.testTheModel("senti_20k_test.txt",data_only=False)
    

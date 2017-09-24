@@ -20,7 +20,7 @@ class Config:
     print("Initializing Config for NERModel[{}]...".format(self.model_name))
     self.vocab = None
     self.label = None
-    self.window = 1
+    self.window = 3
     
     #Model Param
     self.epoch = 20
@@ -100,7 +100,7 @@ class Vocab:
      self.idx2word = {}
      self.cntr = None
      self.UNK = 'IG'
-     self.dict_ratio = 0.2
+     self.dict_ratio = 0.3
      self.createVocab()
 
   def convData(self,data):
@@ -502,10 +502,10 @@ if __name__ == "__main__":
   #nerModel.trainTheModel()
   nerModel.loadModel('ner_model_ner1.tfl')
   #nerModel.genSentTrainingCorpus(test_data_file="res5000.txt.conf")
-  nerModel.testTheModel("test1.tagged",data_config_file="test1.conf")
+  #nerModel.testTheModel("test1.tagged",data_config_file="test1.conf")
   #nerModel.testTheModel("test1.txt",data_only=False)
   #nerModel.testTheModel("test2.txt",data_only=True)
   #nerModel.testTheModel("verizon_1.txt",data_only=True)
-  #nerModel.processRawDataRec("verizon_1.txt")
+  nerModel.processRawDataRec("verizon_1.txt")
   #nerModel.testTheModel("fail28rec.exp",data_only=False)
    
