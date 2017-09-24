@@ -44,7 +44,7 @@ class Config:
     #self.activation_1 = 'tanh'
     self.activation_1 = 'LeakyReLU'
     self.validation_set_ratio = 0.1
-    self.wv_size = 64
+    self.wv_size = 128
     self.sent_size = 50  #no words from sentence to be used 
 
 #Main class holding model
@@ -280,7 +280,7 @@ class SentClassificationModel:
                input_dim = self.vocab.dict_size, 
                weights_init = self.config.w_initializer,
                output_dim = self.config.wv_size)
-    net = tflearn.fully_connected(net, 300, activation=self.config.activation_1)
+    net = tflearn.fully_connected(net, 500, activation=self.config.activation_1)
     net = tflearn.dropout(net,self.config.drop_prob)
     net = tflearn.fully_connected(net, self.no_classes, activation='softmax')
      
