@@ -107,7 +107,7 @@ def processTaggedChat(data_file):
         continue
       #replace non-printable unicodes. this list will needs to be enhance with every failure
       buf = re.sub(r'[\xb5\xc5\xb3\xc3\xc6\xb6\xb9\xc9\xba\xc1\xc4\xe5\xef\xcf\xc5\xe2\xbc\xbe\xcb\xbd\xc3\xc2\xa1]'," ",buf)
-      buf = re.sub(r' \d+ ',"xnum",buf)  #replace numbers with constant string, if any
+      buf = re.sub(r'\b\d+\b',"xnum",buf)  #replace numbers with constant string, if any
       #words = nu.processWordsWithNLTK(buf)
       words = nu.processWordsWithNLTK1(buf)
       if len(words[:-1]) == 0: #skip lines that ended up with nothing after processing
