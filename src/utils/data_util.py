@@ -111,7 +111,23 @@ def getTokenizeDataOnly(file,window):
       #print("Found X[{}] Y[{}] of token's in file.".format(len(dataX),len(dataY)))
       
   print("loaded {} X ".format(len(dataX)))
-     
+   
+  return getNGramFormOfData(dataX,window) 
+
+"""
+   getNGramFormOfData : Accepts array of sentences where each sentence is array of word.
+          Then converts given array of word into N gram array based on size of window passed.
+
+   For example "I have a iphone" will be converted to following form for window=3
+       [
+	  [UNK1,UNK1,UNK1,I,have,a,iphone]
+	  [UNK1,UNK1,I,have,a,iphone,UNK1]
+	  [UNK1,I,have,a,iphone,UNK1,UNK1]
+	  [I,have,a,iphone,UNK1,UNK1,UNK1]
+	]
+"""
+def getNGramFormOfData( dataX, window):
+  septag = 'UNK'  #['UNK' for x in range(window)]
   data = []
   
   for i,sent in enumerate(dataX):
@@ -288,6 +304,47 @@ def removeJunkChar(buf):
 
   return buf
 
+"""
+   getSentFromRawChatPara : Accepts text para and returns array of sentence. 
+"""
+def getSentFromRawChatPara(para):
+  
+  return para.splitlines()
+
+"""
+   getSentArrayFromRawChatPara : Accepts text para and returns array of word array. Each word array is sentence.
+       It acts warpper for NKTK processing of raw text.
+"""
+def getSentArrayFromRawChatPara(para):
+  data = []
+  
+  sents = para.splitlines()
+   
+  for sent in sents:
+    data.append(getWordArrayFromRawChatLine(sent))
+   
+  #print("raw para has [{}] lines...".format(len(data)))
+  return data   
+
+"""
+   getWordArrayFromRawChatLine : Accpets raw text chat line, remove junk char, apply NLTK based custom steming 
+       and returns array of stem words.
+"""
+def getWordArrayFromRawChatLine(line):
+  data = []
+   
+  #res = line.strip()
+  res = removeJunkChar(line)
+  tokens = nu.processWordsWithNLTK1(res)
+  #tokens = res.split()
+   
+  for token in tokens:
+    data.append(token)
+   
+  #print("raw line has [{}] words...".format(len(data)))
+  
+  return data
+
 def processRawData(raw_data_file):
   tmpfl = os.path.dirname(raw_data_file) + '/' + os.path.basename(raw_data_file) + '.out'
   print("Processing raw data from [{}] file with interim results written to [{}]...".format(raw_data_file,tmpfl))
@@ -297,10 +354,13 @@ def processRawData(raw_data_file):
     with open(raw_data_file,'rb') as ifd:
       for line in (ifd):
         res = line.strip()
+        '''
         res = removeJunkChar(res)
         #tokens = nu.processWordsWithNLTK(res)
         tokens = nu.processPunctuation(res)
         #tokens = res.split()
+        '''
+        tokens = getWordArrayFromRawChatLine(res)
         for token in tokens:
           ofd.write(nu.stemAndGetWord(token) + '\n')
         ofd.write('\n')
@@ -334,6 +394,8 @@ if __name__ == "__main__":
   #print("Token size data [{}]".format(len(data)))
   #data = getTokenizeDataOnly("../../data/addr/" + processRawData("../../data/addr/fail28rec.txt"),window=3)
   #print("Token size data [{}]".format(len(data)))
-  data, labels = getSentLabelData("../../data/chat/" + "res5000.txt.conf",sent_index=2)
-  print("Token size data [{}] labels [{}]".format(len(data),len(labels)))
+  #data, labels = getSentLabelData("../../data/chat/" + "res5000.txt.conf",sent_index=2)
+  #print("Token size data [{}] labels [{}]".format(len(data),len(labels)))
+  sample = "I have iphone.\n But offlate it is not working as expected.\n May be something wrong with it."
+  _ = getSentArrayFromRawChatPara(sample)
 

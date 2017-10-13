@@ -84,9 +84,13 @@ def stemAndGetSentence(data):
   return str
 
 def processWordsWithNLTK1(data):
+  #print(data)
   data = processPunctuation(data)
+  #print(data)
   data = removeStopWords(data)
+  #print(data)
   data = stemAndGetSentence(data)
+  #print(word_tokenize(data))
   
   return word_tokenize(data)
 
@@ -178,10 +182,10 @@ class Vocab:
      rawdata = []
      for i in range(len(data)):
        if type(data[i]) is list:
-         for word in data[i]:
-           rawdata.append(word) 
+         for idx in data[i]:
+           rawdata.append(self.idx2word[idx]) 
        else:
-         rawdata.append(data[i]) 
+         rawdata.append(self.idx2word[data[i]]) 
 
      return rawdata
 

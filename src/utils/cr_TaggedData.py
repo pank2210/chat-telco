@@ -4,13 +4,13 @@ import sys
 import pickle
 import re
 
-idir = 'data/'
-odir = 'ner/data/ner/'
-cdir = 'data/'
+idir = '../../data/chat//'
+odir = '../../data/chat//'
+
 #files = ['train','dev','test']
 files = ['test']
 
-with open(cdir + 'tagdict.pkl','rb') as f:
+with open(idir + 'tagdict.pkl','rb') as f:
    tags_dict = pickle.load(f)
 
 with open(cdir + 'classifiers.pkl','rb') as f:

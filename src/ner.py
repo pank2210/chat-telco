@@ -21,17 +21,18 @@ class Config:
     self.vocab = None
     self.label = None
     self.window = 3
+    self.dict_ratio = 0.2
     
     #Model Param
-    self.epoch = 20
-    self.batch_size = 6
+    self.epoch = 8
+    self.batch_size = 16
     self.lrate = 0.001
     self.drop_prob = 0.5
     self.w_initializer = 'Xavier'
     self.optimizer = 'adam'
     self.activation_1 = 'LeakyReLU'
-    self.validation_set_ratio = 0.1
-    self.wv_size = 50
+    self.validation_set_ratio = 0.2
+    self.wv_size = 128
 
 #Vocabulary class
 class Vocab:
@@ -100,7 +101,7 @@ class Vocab:
      self.idx2word = {}
      self.cntr = None
      self.UNK = 'IG'
-     self.dict_ratio = 0.3
+     self.dict_ratio = self.config.dict_ratio
      self.createVocab()
 
   def convData(self,data):
@@ -146,10 +147,9 @@ class Vocab:
          codes.append(r_code)
        else:
          codes.append(self.word2idx.get(data[i],self.word2idx.get(self.UNK))) 
-
      #print missing and present content stats
-     util.printCollection(not_in_dict,msg + "__" + "not_in_dict")
-     util.printCollection(in_dict,msg + "__" + "in_dict")
+     #util.printCollection(not_in_dict,msg + "__" + "not_in_dict")
+     #util.printCollection(in_dict,msg + "__" + "in_dict")
      
      return codes
 
@@ -389,7 +389,21 @@ class NERModel:
     
     print("Coded Test X {} data: {}".format(len(self.encodedXtestdata),self.vocab.convData(self.encodedXtestdata)[:10]))
     print("Coded Test X code: {}".format(self.encodedXtestdata[:10]))
-  
+ 
+  def buildTestDataFromRawSent(self,sent):
+    res = []
+    
+    #print("Building test data array and encoding for NERModel[{}]...".format(self.model_name))
+    words = util.getWordArrayFromRawChatLine(sent)
+    res.append(words) #prepare single sent structure as required by getNGramFromOfData
+    self.testX = util.getNGramFormOfData(res,self.config.window)
+    self.encodedXtestdata = self.vocab.encode(self.testX,'testX')
+   
+    """ 
+    print("Coded Test X {} data: {}".format(len(self.encodedXtestdata),self.vocab.convData(self.encodedXtestdata[:10])))
+    print("Coded Test X code: {}".format(self.encodedXtestdata[:10]))
+    """ 
+    
   def buildTestData(self,testfl,data_only=False):
     print("Building test data for NERModel[{}]...".format(self.model_name))
     #read test data in form of (n-gram) embeding
@@ -417,7 +431,7 @@ class NERModel:
                input_dim = self.vocab.dict_size, 
                weights_init = self.config.w_initializer,
                output_dim = self.config.wv_size)
-    net = tflearn.fully_connected(net, 100, activation='tanh')
+    net = tflearn.fully_connected(net, 500, activation='tanh')
     net = tflearn.dropout(net,self.config.drop_prob)
     net = tflearn.fully_connected(net, self.no_classes, activation='softmax')
     net = tflearn.regression(net, 
@@ -476,7 +490,7 @@ class NERModel:
     self.pred_prob = np.amax(self.pred,axis=1)
     #self.printPrediction(data_only)
     self.printSentClassification(data_config_file=self.datadir + test_data_file)
-
+  
   def testTheModel(self,test_data_file,data_only=False,data_config_file=None):
     print("Executing test on NERModel[{}]...".format(self.model_name))
     # Predict surviving chances (class 1 results)
@@ -497,15 +511,72 @@ class NERModel:
       else:
         self.printDiff(data_config_file=self.datadir + data_config_file)
 
+  def testTheModelForRawSent(self,test_data,data_only=False,conv_id=0,sent_id=0):
+    #print("Executing test on NERModel[{}] for conv_id[{}] sent_id[{}]...".format(self.model_name,conv_id,sent_id))
+    # Predict surviving chances (class 1 results)
+    self.buildTestDataFromRawSent(test_data)
+
+    #Get predictions
+    self.pred = self.model.predict(self.encodedXtestdata)
+    self.pred_code = np.argmax(self.pred,axis=1)
+    self.pred_prob = np.amax(self.pred,axis=1)
+    
+    return self.getPredAsDFForSent(conv_id=conv_id,sent_id=sent_id,data_only=True)
+   
+  def getPredAsDFForSent(self,conv_id=0,sent_id=0,data_only=False):
+    #print("Generating predictions for NERModel[{}]...".format(self.model_name))
+    sep = ','
+    rec = 0
+    rec_change_flag = False
+    rec_diff = 0
+    rec_data = []
+    i = 0
+    
+    p_df = pd.DataFrame(columns=[
+               "conv_id",
+               "sent_id",
+               "word",
+               "label",
+               "vect_id",
+               "pr"])
+
+    for i in range(len(self.testX)):
+      #check for sentence end based in n-gram used using window size
+      new_rec_ind = ''
+      for j in range(self.config.window):
+        new_rec_ind = new_rec_ind + self.testX[i][j]
+      if new_rec_ind == ('UNK'*self.config.window):
+        rec_change_flag = False
+        rec_data = []
+        rec += 1
+       
+      p_df.loc[p_df.shape[0]] = [ conv_id,
+                                  sent_id,
+                                  self.testX[i][self.config.window],
+                                  self.labels.idx2word[self.pred_code[i]],
+                                  self.vocab.idx2word[self.encodedXtestdata[i][self.config.window]],
+                                  str(self.pred_prob[i])]
+       
+      rec_data.append(self.testX[i][self.config.window])
+     
+    #write pandas DF to CSV file. 
+    p_df.to_csv(self.datadir + self.model_name + '_pred_df.csv',index=False)
+    #print("Processes [{}] words / [{}] records".format(len(self.testX),rec))
+    
+    return p_df
+
 if __name__ == "__main__":
-  nerModel = NERModel("ner1","train1.tagged","../data/chat/")
+  model_name = 'chat15k_ner'
+  nerModel = NERModel(model_name,"senti_20k_train.txt.tagged","../data/chat/")
   #nerModel.trainTheModel()
-  nerModel.loadModel('ner_model_ner1.tfl')
+  nerModel.loadModel('ner_model_' + model_name + '.tfl')
+  
   #nerModel.genSentTrainingCorpus(test_data_file="res5000.txt.conf")
-  #nerModel.testTheModel("test1.tagged",data_config_file="test1.conf")
+  #nerModel.testTheModel("senti_20k_test.txt.tagged",data_config_file="senti_20k_test.txt.conf")
   #nerModel.testTheModel("test1.txt",data_only=False)
   #nerModel.testTheModel("test2.txt",data_only=True)
   #nerModel.testTheModel("verizon_1.txt",data_only=True)
-  nerModel.processRawDataRec("verizon_1.txt")
+  #nerModel.processRawDataRec("verizon_1.txt")
   #nerModel.testTheModel("fail28rec.exp",data_only=False)
+  nerModel.testTheModelForRawSent(test_data="I am afraid my phone is not working. Can you check my account if it is active?",data_only=True,conv_id=1,sent_id=2)
    

@@ -24,8 +24,8 @@ def chatGenDataTags(data_file,tag_dict_file):
     tag_dict = pickle.load(tfd)
    
   print("Loaded [{}] NER tags..".format(len(tag_dict)))
- 
-  data = processTaggedChat(data_file)
+
+  _,_,data = processTaggedChat(data_file)
 
   with open( data_conf_file,'wb') as cfd: 
     with open( tagged_data_file,'wb') as ofd: 
@@ -82,7 +82,7 @@ def printLabelsStats(myLabels):
 		- {key=data} => NLTK processed sentence
 		- {class} => sentence classification
 """
-def processTaggedChat(data_file):
+def processTaggedChat(data_file,tagged=True):
   print("Chat util processing raw text data file[{}]...".format(data_file))
   data = []
   lcnt = 0
@@ -106,7 +106,8 @@ def processTaggedChat(data_file):
       if re.search('^$',buf): #skip empty line
         continue
       #replace non-printable unicodes. this list will needs to be enhance with every failure
-      buf = re.sub(r'[\xb5\xc5\xb3\xc3\xc6\xb6\xb9\xc9\xba\xc1\xc4\xe5\xef\xcf\xc5\xe2\xbc\xbe\xcb\xbd\xc3\xc2\xa1]'," ",buf)
+      #buf = re.sub(r'[\xb5\xc5\xb3\xc3\xc6\xb6\xb9\xc9\xba\xc1\xc4\xe5\xef\xcf\xc5\xe2\xbc\xbe\xcb\xbd\xc3\xc2\xa1]'," ",buf)
+      buf = du.removeJunkChar(buf)
       buf = re.sub(r'\b\d+\b',"xnum",buf)  #replace numbers with constant string, if any
       #words = nu.processWordsWithNLTK(buf)
       words = nu.processWordsWithNLTK1(buf)
@@ -127,19 +128,22 @@ def processTaggedChat(data_file):
       #mm = re.search('(.*?)\s+(_tag_\w+)$',buf) #skip empty line
       tag = None
       #extract tag or class for sentence 
-      if words[-1].startswith('_tag_'):
-        tag = words[-1]
-        #tag = buf.split()[-1]
-      else:
-        tag = '_tag_unk1'
-      #if tag == '_tag_a':
-      #  print("tag[{}] buf[{}] lst_word[{}] words[{}]".format(tag,buf,buf.split()[-1],words))
+      if tagged == True:
+        if words[-1].startswith('_tag_'):
+          tag = words[-1]
+          #tag = buf.split()[-1]
+        else:
+          tag = '_tag_unk1'
+      
       sent_log = {}
       sent_log[raw_data_key] = buf
-      sent_log[data_key] = words[:-1] #commit tag 
-      sent_log[sent_class] = tag
+      if tagged == True:
+        sent_log[data_key] = words[:-1] #commit tag 
+        sent_log[sent_class] = tag
+        tags.append(tag)
+      else:
+        sent_log[data_key] = words #no tag, so whole set od words
       sent_log[conv_key] = ccnt
-      tags.append(tag)
       conv.append(sent_log)
       #scnt[i] = len(words)
       scnt.append(len(words))
@@ -192,7 +196,9 @@ def createBinTagFiles(sfile):
 if __name__ == "__main__":
   #a,b = chatGenDataTags(data_file="../../data/chat/res5000.txt",tag_dict_file="../../data/chat/tags2.dict")
   #a,b = chatGenDataTags(data_file="../../data/chat/train1",tag_dict_file="../../data/chat/tags2.dict")
-  a,b = chatGenDataTags(data_file="../../data/chat/test1",tag_dict_file="../../data/chat/tags2.dict")
-  #print(a,b)
+  a,b = chatGenDataTags(data_file="../../data/chat/senti_20k_train.txt",tag_dict_file="../../data/chat/tags3.dict")
+  print(a,b)
+  a,b = chatGenDataTags(data_file="../../data/chat/senti_20k_test.txt",tag_dict_file="../../data/chat/tags3.dict")
+  print(a,b)
   #data = processTaggedChat("../../data/chat/res15000.txt")
   #data = processTaggedChat("../../data/chat/res5000.txt")

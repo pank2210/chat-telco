@@ -152,10 +152,13 @@ class SentClassificationModel:
       #print("***********",conf_df.iloc[395,2],sent[395],len(conf_df),len(sent))
       conf_df[4] = sent
       conf_df.to_csv(data_config_file + '.txt',index=None,header=None,sep='|')
-   
+  
+  """ 
+     Constructor for SentClassificationModel
+  """ 
   def __init__(self,model_name,trainfl,datadir):
     self.model_name = model_name
-    self.src_file = 'sentclassi_model_' + self.model_name + '.tfl'
+    self.src_file = 'sent_model_' + self.model_name + '.tfl'
     print("Initializing SentClassificationModel[{}]...".format(self.model_name))
     self.datadir = datadir
     self.train_data_file = datadir + trainfl
@@ -234,9 +237,16 @@ class SentClassificationModel:
     data_key = 'data'
     sent_class = 'class'
     conv_key = 'conv_ind'
+    avg_words = 0.0
+    avg_sents = 0.0 
+    conv = []
 
     #read training data 
-    avg_words,avg_sents,conv = cu.processTaggedChat(self.test_data_file)
+    if data_only == False:
+      avg_words,avg_sents,conv = cu.processTaggedChat(self.test_data_file)
+    else:
+      avg_words,avg_sents,conv = cu.processTaggedChat(self.test_data_file,tagged=False)
+    
     self.testX = [] 
     self.raw_testX = [] 
     self.conv_ind = [] 
@@ -249,15 +259,15 @@ class SentClassificationModel:
         self.conv_ind.append(sdata[conv_key])
         self.raw_testX.append(sdata[raw_data_key])
         self.testX.append(sdata[data_key])
-        testY.append(sdata[sent_class])
+        if data_only == False:
+          testY.append(sdata[sent_class])
         #print("i[{}]****conv_ind[{}]****trainX[{}]****labels[{}]".format(i,sdata[conv_key],sdata[data_key],sdata[sent_class]))
 
     print("Test data of[{}] sentences and [{}] labels loaded for classification...".format(len(self.testX),len(testY))) 
-    if data_only:
-      self.testX = util.getTokenizeDataOnly(self.test_data_file,self.config.window)
-      self.encodedXtestdata = self.vocab.encode(self.testX)
-    else:
-      self.encodedXtestdata = self.vocab.encode(self.testX)
+    
+    #encode the test data
+    self.encodedXtestdata = self.vocab.encode(self.testX)
+    if data_only == False: #encode labels
       self.encodedYtestdata = self.labels.encode(testY)
     
     print("Coded Test X {} data: {}".format(len(self.encodedXtestdata),self.vocab.convData(self.encodedXtestdata)[:10]))
@@ -269,6 +279,25 @@ class SentClassificationModel:
     #pad sequence with zero's 
     self.encodedXtestdata = pad_sequences(self.encodedXtestdata,maxlen=self.config.sent_size,value=0)
   
+  def buildTestDataFromRawSent(self,sent):
+    res = []
+     
+    #print("Building test data array and encoding for NERModel[{}]...".format(self.model_name))
+    res.append(sent)
+    self.raw_testX = res
+    res = [] 
+    res.append(util.getWordArrayFromRawChatLine(sent))
+    self.testX = res
+    self.encodedXtestdata = self.vocab.encode(self.testX)
+    
+    """ 
+    print("Coded Test X {} data: {}".format(len(self.encodedXtestdata),self.vocab.convData(self.encodedXtestdata[:10])))
+    print("Coded Test X code: {}".format(self.encodedXtestdata[:10]))
+    """ 
+     
+    #pad sequence with zero's 
+    self.encodedXtestdata = pad_sequences(self.encodedXtestdata,maxlen=self.config.sent_size,value=0)
+    
   def createSimpleDNN(self):
     print("Createing the NERModel[{}]...".format(self.model_name))
     self.buildTrainingData()
@@ -494,9 +523,49 @@ class SentClassificationModel:
     self.pred_code = np.argmax(self.pred,axis=1)
     self.pred_prob = np.amax(self.pred,axis=1)
     self.printPrediction(data_only)
+   
+  def testTheModelForRawSent(self,test_data,data_only=False,conv_id=0,sent_id=0):
+    #print("Executing test on NERModel[{}] for conv_id[{}] sent_id[{}]...".format(self.model_name,conv_id,sent_id))
+    #Predict surviving chances (class 1 results)
+    self.buildTestDataFromRawSent(test_data)
+
+    #Get predictions
+    self.pred = self.model.predict(self.encodedXtestdata)
+    self.pred_code = np.argmax(self.pred,axis=1)
+    self.pred_prob = np.amax(self.pred,axis=1)
+    
+    return self.getPredAsDFForSent(conv_id=conv_id,sent_id=sent_id,data_only=True)
+   
+  def getPredAsDFForSent(self,conv_id=0,sent_id=0,data_only=False):
+    #print("Generating predictions for NERModel[{}]...".format(self.model_name))
+    i = 0
+    
+    p_df = pd.DataFrame(columns=[
+               "conv_id",
+               "sent_id",
+               "sent",
+               "label",
+               "pr"])
+
+    for i in range(len(self.testX)):
+      #check for sentence end based in n-gram used using window size
+      new_rec_ind = ''
+       
+      p_df.loc[p_df.shape[0]] = [ conv_id,
+                                  sent_id,
+                                  self.raw_testX[i],
+                                  self.labels.idx2word[self.pred_code[i]],
+                                  str(self.pred_prob[i])]
+       
+     
+    #write pandas DF to CSV file. 
+    p_df.to_csv(self.datadir + self.model_name + '_pred_df.csv',index=False)
+    #print("Processes [{}] words / [{}] records".format(len(self.testX),i))
+    
+    return p_df
 
 if __name__ == "__main__":
-  model_name = "intent1"
+  model_name = "chat15k_sent"
   #sentclassiModel = SentClassificationModel(model_name,"res15000.txt","../data/chat/")
   #sentclassiModel = SentClassificationModel(model_name,"res5000.txt","../data/chat/")
   #sentclassiModel = SentClassificationModel(model_name,"watson_15k_train.txt","../data/chat/")
@@ -504,14 +573,14 @@ if __name__ == "__main__":
   #sentclassiModel = SentClassificationModel(model_name,"res_15k_train_0623.csv","../data/chat/")
   sentclassiModel = SentClassificationModel(model_name,"senti_20k_train.txt","../data/chat/")
    
-  sentclassiModel.trainTheModel()
+  #sentclassiModel.trainTheModel()
+  sentclassiModel.loadModel('sent_model_' + model_name + '.tfl')
   #sentclassiModel.reTrainTheModel("res5000.txt")
   #sentclassiModel.reTrainTheModel("res15000.txt")
-  #sentclassiModel.loadModel('sentclassi_model_' + model_name + '.tfl')
    
   #sentclassiModel.testTheModel("res5000.txt",data_only=False)
   #sentclassiModel.testTheModel("res3000.txt",data_only=False)
   #sentclassiModel.testTheModel("watson_15k_test.txt",data_only=False)
   #sentclassiModel.testTheModel("res_3k_test_0623.csv",data_only=False)
-  sentclassiModel.testTheModel("senti_20k_test.txt",data_only=False)
+  sentclassiModel.testTheModelForRawSent(test_data="I am afraid my phone is not working. Can you check my account if it is active?",data_only=True,conv_id=1,sent_id=2)
    
